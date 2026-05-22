@@ -4,6 +4,8 @@ anyio==4.12.1
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 asyncmy==0.2.11
+beautifulsoup4==4.14.3
+bs4==0.0.2
 cffi==2.0.0
 click==8.3.1
 cryptography==46.0.4
@@ -32,6 +34,7 @@ PyMySQL==1.1.2
 pytest==9.0.2
 python-dotenv==1.2.1
 six==1.17.0
+soupsieve==2.8.3
 SQLAlchemy==2.0.46
 starlette==0.50.0
 typing-inspection==0.4.2

@@ -35,6 +35,7 @@ bearer_scheme = HTTPBearer(auto_error=False)
 
 @router.post("/login", response_model=LoginResponse, response_model_exclude_none=True)
 def login(payload: LoginRequest, request: Request) -> LoginResponse:
+    print("hello")
     context = get_context(request)
     ip_address = request.client.host if request.client else None
     user_agent = request.headers.get("user-agent")
