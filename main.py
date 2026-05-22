@@ -24,7 +24,7 @@ ALLOWED_ORIGINS = [
     "https://localhost:5173",
     "https://127.0.0.1:5173",
     # production
-    "https://papercraft-frontend.vercel.app",
+    "https://papercraft-frontend-six.vercel.app",
     "https://papercraft.pk",
     "https://www.papercraft.pk",
 ]
