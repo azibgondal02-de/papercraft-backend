@@ -38,6 +38,7 @@ allow_all = os.getenv("EDUCARE_ALLOW_ALL_ORIGINS", "false").lower() in {
     "1",
     "true",
     "yes",
+    "1"
 }
 
 app.add_middleware(
@@ -54,6 +55,7 @@ app.add_middleware(Context)
 
 app.include_router(identity_router)
 app.include_router(testmaker_router)
+
 
 @app.middleware("http")
 async def log_unhandled_exceptions(request: Request, call_next):
