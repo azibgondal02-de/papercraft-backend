@@ -23,6 +23,10 @@ ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
     "https://localhost:5173",
     "https://127.0.0.1:5173",
+    # production
+    "https://papercraft-frontend.vercel.app",
+    "https://papercraft.pk",
+    "https://www.papercraft.pk",
 ]
 
 # Allow any localhost/lan origin (Expo web / device tunnels) without enumerating every port.
