@@ -1,0 +1,1400 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "863351",
+      "chapter_id": "16015",
+      "topic_id": "9077",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Definition of Marshall is related to:",
+      "statement_ur": "مارشل کی تعریف کا تعلق ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "238",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Non-material things",
+          "option_ur": "&nbsp;غیر مادی لوازمات سے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Scarcity of means",
+          "option_ur": "&nbsp;دولت کے حصول سے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Acquiring of wealth",
+          "option_ur": "&nbsp;مادی فلاح و بہود سے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Material welfare",
+          "option_ur": "&nbsp;ذرائع کی قلت سے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863352",
+      "chapter_id": "16015",
+      "topic_id": "9077",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The most clear and comprehensive definition of economics:",
+      "statement_ur": "سب سے واضح اور جامع تعریف پیش کی:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "238",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Adam Smith",
+          "option_ur": "&nbsp;آدم سمتھ نے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Alfred Marshall",
+          "option_ur": "&nbsp;الفرڈ مارشل نے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Robbins",
+          "option_ur": "&nbsp;رابنز نے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;A.C. Pigou",
+          "option_ur": "&nbsp;اے۔سی۔پیگو نے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863353",
+      "chapter_id": "16015",
+      "topic_id": "9077",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Economics refers to those goods which are:",
+      "statement_ur": "معاشیات میں ایسی اشیا کا حوالہ ہے جو:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "238",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Limited",
+          "option_ur": "&nbsp;قلیل ہیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Scarce",
+          "option_ur": "&nbsp;محدود ہیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Have prices",
+          "option_ur": "&nbsp;جن کی قیمت ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;A, B and C",
+          "option_ur": "&nbsp;الف،ب اور ج",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863354",
+      "chapter_id": "16015",
+      "topic_id": "9077",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The book by Adam Smith was published in the year:",
+      "statement_ur": "آدم سمتھ کی کتاب کس سال میں شائع ہوئی؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "238",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;1870",
+          "option_ur": "&nbsp;1870",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1890",
+          "option_ur": "&nbsp;1890",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1776",
+          "option_ur": "&nbsp;1776",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;1876",
+          "option_ur": "&nbsp;1876",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863355",
+      "chapter_id": "16015",
+      "topic_id": "9077",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Economic resources include:",
+      "statement_ur": "عاملین پیدائش میں شامل ہیں:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "238",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Land",
+          "option_ur": "&nbsp;زمین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Labour",
+          "option_ur": "&nbsp;محنت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Capital",
+          "option_ur": "&nbsp;سرمایہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;A, B and C",
+          "option_ur": "&nbsp;الف،ب اور ج",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863368",
+      "chapter_id": "16016",
+      "topic_id": "9078",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Due to scarcity society is forced to:",
+      "statement_ur": "کمیابی کی وجہ سے معاشرہ مجبوراً:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "239",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Make roads",
+          "option_ur": "&nbsp;سڑکیں بناتا ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Save Resources",
+          "option_ur": "&nbsp;وسائل بچاتا ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Make choices",
+          "option_ur": "&nbsp;انتخاب کرتا ہے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Stop operation",
+          "option_ur": "&nbsp;کام کرنا بند کردیتا ہے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863369",
+      "chapter_id": "16016",
+      "topic_id": "9078",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Scarcity exists in every society because:",
+      "statement_ur": "قلت ہر معاشرے میں موجود ہوتی ہے کیونکہ:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "239",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Wants are limited and resources are unlimited",
+          "option_ur": "&nbsp;خواہشات محدود اوروسائل لا محدود ہوتے ہیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Wants are unlimited and resources are unlimited",
+          "option_ur": "&nbsp;لا محدود وخواہشات اور لا محدود وسائل ہوتے ہیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Wants are unlimited and resources are limited",
+          "option_ur": "&nbsp;محدود وسائل اور لا محدود حاجات ہوتی ہیں",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Limited information and technology",
+          "option_ur": "&nbsp;محدود معلومات اور تکنیکی سہولت ہوتی ہے۔",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863370",
+      "chapter_id": "16016",
+      "topic_id": "9078",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The words &quot;economics&quot; refers to somethin that:",
+      "statement_ur": "لفظ &quot;معاشی&quot; کا تعلق ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "239",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Is scarce",
+          "option_ur": "&nbsp;قلت سے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Is limited",
+          "option_ur": "&nbsp;لا محدود سے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Commands a price",
+          "option_ur": "&nbsp;قیمت سے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;All of the above",
+          "option_ur": "&nbsp;الف،ب، اور ج تمام سے",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863371",
+      "chapter_id": "16016",
+      "topic_id": "9078",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "An economics good is one which:",
+      "statement_ur": "معاشی شے وہ ہوتی ہے جو:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "239",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Is sold at profit",
+          "option_ur": "&nbsp;منافع پر بیچی جائے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Has a price",
+          "option_ur": "&nbsp;جس کی قیمت ہو",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Has high quality",
+          "option_ur": "&nbsp;بہترین کو الٹی کی ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Is produced efficiently",
+          "option_ur": "&nbsp;حکومت نے بنائی ہو",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863372",
+      "chapter_id": "16016",
+      "topic_id": "9078",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The term &quot;marginal&quot; in economics means:",
+      "statement_ur": "معاشیات میں &quot;مختتم&quot; کا مطلب:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "239",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;More",
+          "option_ur": "&nbsp;زیادہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;The minimum unit",
+          "option_ur": "&nbsp;کم از کم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Additional",
+          "option_ur": "&nbsp;اگلی اکائی کا اضافہ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;None of the above",
+          "option_ur": "&nbsp;تینوں میں سے کوئی نہیں",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863385",
+      "chapter_id": "16017",
+      "topic_id": "9079",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "If the price of a good decreases the quantity demanded:",
+      "statement_ur": "اگر کسی شے کی قیمت گر جاتی ہے تو اس شے کی مقدار طلب:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "240",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Increases",
+          "option_ur": "&nbsp;بڑھ جاتی ہے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Decreases",
+          "option_ur": "&nbsp;گرجاتی ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Remains constant",
+          "option_ur": "&nbsp;یکساں رہتی ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;A, B and C",
+          "option_ur": "&nbsp;الف،ب اور ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863386",
+      "chapter_id": "16017",
+      "topic_id": "9079",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The demand cure slopes:",
+      "statement_ur": "طلب کے خط کا رجحان ہوتا ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "240",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Downward to the right",
+          "option_ur": "&nbsp;نیچے سے اوپر",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Upward to the right",
+          "option_ur": "&nbsp;اُفقی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Vertical",
+          "option_ur": "&nbsp;عمودی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Horizontal",
+          "option_ur": "&nbsp;اوپر سے نیچے دائیں طرف",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863387",
+      "chapter_id": "16017",
+      "topic_id": "9079",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The law of demand does not hold if goods are:",
+      "statement_ur": "قانون طلب کا اطلاق نہیں ہوتا اگر اشیا ہوتی ہیں:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "240",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Inferior",
+          "option_ur": "&nbsp;گھٹیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Precious",
+          "option_ur": "&nbsp;نایاب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Scarce",
+          "option_ur": "&nbsp;قلیل",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;All of the above",
+          "option_ur": "&nbsp;الف،ب اور ج",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863388",
+      "chapter_id": "16017",
+      "topic_id": "9079",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "With an increase in the price of a good, its substitutes will have:",
+      "statement_ur": "کسی ایک شے کی قیمت چڑھنے سے متبادل شے کی:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "240",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;A fall in its price",
+          "option_ur": "&nbsp;قیمت گر جاتی ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;An increase in its price",
+          "option_ur": "&nbsp;قیمت بڑھ جاتی ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;An increase in its demand",
+          "option_ur": "&nbsp;طلب بڑھ جاتی ہے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;A decrease in its demand",
+          "option_ur": "&nbsp;طلب گر جاتی ہے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863409",
+      "chapter_id": "16018",
+      "topic_id": "9080",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Supply means:",
+      "statement_ur": "رسد کا مطلب ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "241",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Total supply of a specific producer",
+          "option_ur": "&nbsp;ایک خاص آجر کے پاس کل مقدار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Number of sellers",
+          "option_ur": "&nbsp;خریدنے والوں کی تعداد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Quantity of goods offered for sale at alternative prices",
+          "option_ur": "&nbsp;مختلف قیمتوں پر فروخت کرنے کے لئے پیش کی جانے والی مقدار",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Purchasing power of quantity supplies",
+          "option_ur": "&nbsp;مقدارِ رسد کو خریدنے کی قوت",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863410",
+      "chapter_id": "16018",
+      "topic_id": "9080",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Slope of a supply curve is:",
+      "statement_ur": "خطِ رسد کا جھکاؤ ہوتا ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "241",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Negative",
+          "option_ur": "&nbsp;منفی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Positive",
+          "option_ur": "&nbsp;مثبت",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Vertical",
+          "option_ur": "&nbsp;افقی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Horizontal",
+          "option_ur": "&nbsp;عمودی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863411",
+      "chapter_id": "16018",
+      "topic_id": "9080",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "More elastic supply means:",
+      "statement_ur": "زیادہ لچکدار رسد کا مطلب ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "241",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;A small change in quantity supplied with a change in price",
+          "option_ur": "&nbsp;جب قیمت میں تبدیلی کے بغیر رسد میں معمولی تبدیلی ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;A small change in price brings a large change in quantity supplied",
+          "option_ur": "&nbsp;جب قیمت تبدیل ہو لیکن رسد تبدیل نہ ہو",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;A large change in price brings a small change in quantity supplied",
+          "option_ur": "&nbsp;جب قیمت میں معمولی تبدیلی سے رسد میں غیر معمولی تبدیلی ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;When price changes but quantity supplied does not change",
+          "option_ur": "&nbsp;جب قیمت میں غیر معمولی تبدیلی سے رسد میں معمولی تبدیلی ہو",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863412",
+      "chapter_id": "16018",
+      "topic_id": "9080",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following factors do not change supply:",
+      "statement_ur": "درج ذیل میں کون سے چیز رسد کو تبدیل نہیں کرتی؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "241",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Cost of production",
+          "option_ur": "&nbsp;مصارفِ پیدائش",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Political system of a country",
+          "option_ur": "&nbsp;سیاسی نظام حکومت",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Climatic conditions",
+          "option_ur": "&nbsp;موسمی حالات",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Level of income",
+          "option_ur": "&nbsp;آمدنی کا معیار",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863413",
+      "chapter_id": "16018",
+      "topic_id": "9080",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following statement is not true?",
+      "statement_ur": "کون سی بات درست نہیں ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "241",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Generally supply is a part of storck",
+          "option_ur": "&nbsp;عام طور پر رسد ذخیرہ ایک حصہ ہوتی ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Supply curve has negative slope",
+          "option_ur": "&nbsp;خطِ رسد کا رحجان منفی ہوتا ہے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Supply is the function of price",
+          "option_ur": "&nbsp;رسد قیمت کا تفاعل ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Quantity supplied change due to change in elasticity",
+          "option_ur": "&nbsp;رسد میں لچک کی وجہ سے مقدار رسد تبدیل ہوتی ہے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863431",
+      "chapter_id": "16019",
+      "topic_id": "9081",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The intersection of demand and supply curves show:",
+      "statement_ur": "طلب اور رسد کا باہمی اشتراک بتاتا ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "242",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Equilibrium price",
+          "option_ur": "&nbsp;شے کی توازتی قیمت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Equilibrium quantity",
+          "option_ur": "&nbsp;شے کی توازنی مقدار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Market equilibrium",
+          "option_ur": "&nbsp;منڈی میں توازن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;All above",
+          "option_ur": "&nbsp;الف،ب اور ج",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863432",
+      "chapter_id": "16019",
+      "topic_id": "9081",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Market is in equilibrium when:",
+      "statement_ur": "منڈی میں توازن اس وقت ہوتا ہے جب:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "242",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;The cost of production remains the samee",
+          "option_ur": "&nbsp;مصارف پیدائش تبدیل نہ ہوں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;The cost of production is decreasing",
+          "option_ur": "&nbsp;مصارف پیدائش کم ہو رہے ہوں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Desires of buyers are fulfilled",
+          "option_ur": "&nbsp;صارفین کی حاجات کی تسکین ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Demand of a good is equal to its supply",
+          "option_ur": "&nbsp;شے کی طلب اور رسد برابر ہوں",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863433",
+      "chapter_id": "16019",
+      "topic_id": "9081",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Equilibrium means:",
+      "statement_ur": "توازن کا طلب ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "242",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;The condition that is not possible",
+          "option_ur": "&nbsp;ایسی حالت جو ممکن نہیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;An unstable condition",
+          "option_ur": "&nbsp;غیر مستقل کیفیت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;A condition that cannot change",
+          "option_ur": "&nbsp;ایسی حالت جو تبدیل نہ ہوسکے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Stable position",
+          "option_ur": "&nbsp;مستحکم حالت",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863449",
+      "chapter_id": "16020",
+      "topic_id": "9082",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The duty of a market is not:",
+      "statement_ur": "یہ منڈی کا فرض نہیں ہوتا کہ وہ:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "243",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;To make exchange of goods",
+          "option_ur": "&nbsp;اشیا کے لین دین کو ممکن بنائے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;To contact buyers and sellers",
+          "option_ur": "&nbsp;خریدار اور بیچنے والے کو آپس میں ملائے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;To determine price",
+          "option_ur": "&nbsp;قیمت کا تعین کرے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;To give maximum output",
+          "option_ur": "&nbsp;زیادہ سے زیادہ پیداوار دے",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863451",
+      "chapter_id": "16020",
+      "topic_id": "9082",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is not a factor of production?",
+      "statement_ur": "درج ذیل میں سے کون سا عامل پیدائش نہیں ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "243",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Land",
+          "option_ur": "&nbsp;محنت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Labour",
+          "option_ur": "&nbsp;پیداوار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Capital",
+          "option_ur": "&nbsp;زمین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Output",
+          "option_ur": "&nbsp;سرمایہ",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863452",
+      "chapter_id": "16020",
+      "topic_id": "9082",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "It is not a characteristic of perfect competition that:",
+      "statement_ur": "مکمل مقابلہ کی منڈی کی یہ شرط نہیں ہوتی کہ:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "243",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Large number of sellers",
+          "option_ur": "&nbsp;دکانداروں کی کثرت ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Homogeneity of goods",
+          "option_ur": "&nbsp;شے کی یکسانیت ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Mobility of factors of production",
+          "option_ur": "&nbsp;عاملین پیدائش کی نقل پذیری ہو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Price of the same commodity is different",
+          "option_ur": "&nbsp;ایک ہی شی کی قیمت مختلف ہو",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "863453",
+      "chapter_id": "16020",
+      "topic_id": "9082",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Kinds of market according to competition are:",
+      "statement_ur": "مقابلے کے لحاظ سے منڈی کی قسمیں ہوتی ہیں:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "243",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;Two",
+          "option_ur": "&nbsp;دو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Four",
+          "option_ur": "&nbsp;چار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;Six",
+          "option_ur": "&nbsp;چھ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;Three",
+          "option_ur": "&nbsp;تین",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863481",
+      "chapter_id": "16021",
+      "topic_id": "9083",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Life expectancy in Pakistan is:",
+      "statement_ur": "پاکستان میں متوقع اوسط زندگی سال ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "244",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;61 years",
+          "option_ur": "&nbsp;61&nbsp;سال",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;66 years",
+          "option_ur": "&nbsp;66سال",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;73 years",
+          "option_ur": "&nbsp;73سال",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;71 years",
+          "option_ur": "&nbsp;71سال",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863482",
+      "chapter_id": "16021",
+      "topic_id": "9083",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Per capita income in Pakistan is:",
+      "statement_ur": "پاکستان میں فی کس آمدنی ڈالرز میں ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "244",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;1200 US $",
+          "option_ur": "&nbsp;1200",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1658.36 US $",
+          "option_ur": "&nbsp;1658.36",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;1561 US $",
+          "option_ur": "&nbsp;1561",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1100 US $",
+          "option_ur": "&nbsp;1100",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863483",
+      "chapter_id": "16021",
+      "topic_id": "9083",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Population growth rate in Pakistan is:",
+      "statement_ur": "پاکستان میں شرح پیدائش فیصد ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "244",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;3.1%",
+          "option_ur": "&nbsp;3.1%",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;2.4%",
+          "option_ur": "&nbsp;2.4%",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;4.1%",
+          "option_ur": "&nbsp;4.1%",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1.1%",
+          "option_ur": "&nbsp;1.1%",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863485",
+      "chapter_id": "16021",
+      "topic_id": "9083",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Contribution of agriculture sector to GDP is:",
+      "statement_ur": "ملکی پیداوار میں زراعت کا فصد حصہ ہے:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "244",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;70%",
+          "option_ur": "&nbsp;70%",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;19%",
+          "option_ur": "&nbsp;19%",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;65%",
+          "option_ur": "&nbsp;65%",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;1.1%",
+          "option_ur": "&nbsp;35%",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "863486",
+      "chapter_id": "16021",
+      "topic_id": "9083",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Total population of Pakistan, in 2021-22 was:",
+      "statement_ur": "پاکستان کی آبادی 22-2021 میں تھی:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "244",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "&nbsp;170.69 million",
+          "option_ur": "&nbsp;170.69 ملین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;231.4 million",
+          "option_ur": "&nbsp;231.4 ملین",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;165.93 million",
+          "option_ur": "&nbsp;165.93 ملین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "&nbsp;150.36 million",
+          "option_ur": "&nbsp;150.36 ملین",
+          "is_correct": "0"
+        }
+      ]
+    }
+  ]
+}

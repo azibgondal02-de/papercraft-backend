@@ -1,0 +1,585 @@
+[
+  {
+    "chapter_id": "12677",
+    "chapter_name_en": "1. Physical Quantities and Measurements",
+    "chapter_name_ur": "1۔ طبعی مقداریں اور ان کی پیمائش",
+    "topics": [
+      {
+        "id": "3882",
+        "name_en": "1.1 Physical and Non-Physical Quantities",
+        "name_ur": "1.1 فزیکل  اور غیر فزیکل  مقدار"
+      },
+      {
+        "id": "3883",
+        "name_en": "1.2 Base and Derived Physical Quantities",
+        "name_ur": "1.2 بنیاد ی اور ماخوذ طبعی مقدار"
+      },
+      {
+        "id": "3884",
+        "name_en": "1.3 International System of Units",
+        "name_ur": "1.3 یونٹس کا انٹر نیشنل سسٹم "
+      },
+      {
+        "id": "3885",
+        "name_en": "1.4 Scientific Notation",
+        "name_ur": "1.4 سائنسی نوٹیشن "
+      },
+      {
+        "id": "3886",
+        "name_en": "1.5 Length Measuring Instruments",
+        "name_ur": "1.5 لمبائی ماپنے کے آلات"
+      },
+      {
+        "id": "3887",
+        "name_en": "1.6 Mass Measuring Instruments",
+        "name_ur": "1.6وزن  پیمائش کرنے والے آلات"
+      },
+      {
+        "id": "3888",
+        "name_en": "1.7 Time Measuring Instruments",
+        "name_ur": "1.7 وقت کے پیمائشی آلات "
+      },
+      {
+        "id": "3889",
+        "name_en": "1.8 Volume Measuring Instruments",
+        "name_ur": "1.8پیمائشی سلنڈر"
+      },
+      {
+        "id": "3890",
+        "name_en": "1.9 Errors in Measurements",
+        "name_ur": "1.9پیمائشوں میں غلطیاں "
+      },
+      {
+        "id": "3891",
+        "name_en": "1.10 Uncertainty in a Measurement",
+        "name_ur": "1.10 پیمائش میں غیر یقینی صورتحال"
+      },
+      {
+        "id": "3892",
+        "name_en": "1.11 Significant Figures",
+        "name_ur": "1.11 نمایاں ہندسے "
+      },
+      {
+        "id": "3893",
+        "name_en": "1.12 Precision and Accuracy",
+        "name_ur": "1.12صحیح پیمائش  اور درستگی"
+      },
+      {
+        "id": "3894",
+        "name_en": "1.13 Rounding off the digits",
+        "name_ur": "1.13 اعداد کےمحدود ہندسے "
+      },
+      {
+        "id": "3880",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3881",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12679",
+    "chapter_name_en": "3. Dynamics",
+    "chapter_name_ur": "3۔ ڈائنا مِکس",
+    "topics": [
+      {
+        "id": "3912",
+        "name_en": "3.1 Concept of Force",
+        "name_ur": "3.1 فورس کا تصور "
+      },
+      {
+        "id": "8494",
+        "name_en": "3.2 Fundamental Forces",
+        "name_ur": "3.2بنیادی فورسز"
+      },
+      {
+        "id": "3914",
+        "name_en": "3.3 Forces in a Free-Body Diagram",
+        "name_ur": "3.3 فری باڈی ڈایا گرام میں فورسز"
+      },
+      {
+        "id": "9074",
+        "name_en": "3.4 Newtonâ€™s Laws of Motion",
+        "name_ur": "3.4 نیوٹن کے قوانین حرکت"
+      },
+      {
+        "id": "8495",
+        "name_en": "3.5 Limitations of Newtonâ€™s Laws ...",
+        "name_ur": "3.5 نیوٹن کے قوانین ِ حرکت کی حدود"
+      },
+      {
+        "id": "3915",
+        "name_en": "3.6 Mas and Weight",
+        "name_ur": "3.6 ماس اور وزن "
+      },
+      {
+        "id": "8496",
+        "name_en": "3.7 Mechanical and Electronic Balances",
+        "name_ur": "3.7 میکینیکل اور الیکٹرونک بیلینسز "
+      },
+      {
+        "id": "3917",
+        "name_en": "3.8 Friction",
+        "name_ur": "3.8 فرکشن "
+      },
+      {
+        "id": "3918",
+        "name_en": "3.9 Momentum and Impulse",
+        "name_ur": "3.9 مومینٹم اور امپلس"
+      },
+      {
+        "id": "3919",
+        "name_en": "3.10 Principle of Conservation of Moment...",
+        "name_ur": "3.10 مومینٹم کنزرویشن کا اُصول "
+      },
+      {
+        "id": "3910",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3911",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12681",
+    "chapter_name_en": "5. Work, Energy and Power",
+    "chapter_name_ur": "5۔ ورک ، انرجی اور پاور ",
+    "topics": [
+      {
+        "id": "3937",
+        "name_en": "5.1 Work",
+        "name_ur": "5.1 ورک"
+      },
+      {
+        "id": "3938",
+        "name_en": "5.2 Energy",
+        "name_ur": "5.2 انرجی"
+      },
+      {
+        "id": "3939",
+        "name_en": "5.3 Conservation of Energy",
+        "name_ur": "5.3کنزرویشن آف انرجی "
+      },
+      {
+        "id": "3940",
+        "name_en": "5.4 Sources of Energy",
+        "name_ur": "5.4 انرجی  کے ذرائع"
+      },
+      {
+        "id": "3941",
+        "name_en": "5.5 Renewable and Non-Renewable Sources",
+        "name_ur": "5.5 قابل تجدید اور غیر قابل تجدید ذرائع"
+      },
+      {
+        "id": "3942",
+        "name_en": "5.6 The Advantages and Disadvantages of ...",
+        "name_ur": "5.6 توانائی کی پیداوار کے طریقوں کے فوائد اور نقصانات"
+      },
+      {
+        "id": "3943",
+        "name_en": "5.7 Power",
+        "name_ur": "5.7 پاور"
+      },
+      {
+        "id": "3944",
+        "name_en": "5.8 Efficiency",
+        "name_ur": "5.8 ایفی شینسی "
+      },
+      {
+        "id": "3935",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3936",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12683",
+    "chapter_name_en": "7. Thermal Properties of Matter",
+    "chapter_name_ur": "7۔ مادے کی حرارتی خصوصیات ",
+    "topics": [
+      {
+        "id": "3956",
+        "name_en": "7.1 Kinetic Molecular Theory of Matter",
+        "name_ur": "7.1 مادے کی مالیکیولر کائی نیٹک تھیوری "
+      },
+      {
+        "id": "3957",
+        "name_en": "7.2 Temperature and Heat",
+        "name_ur": "7.2 ٹمپریچر اور حرارت"
+      },
+      {
+        "id": "3958",
+        "name_en": "7.3 Thermometers",
+        "name_ur": "7.3 تھرما میٹر"
+      },
+      {
+        "id": "3959",
+        "name_en": "7.4 Sensitivity, Range and Linearity of ...",
+        "name_ur": "7.4 تھرما میٹر کی حساسیت ،رینج اور خطی پن"
+      },
+      {
+        "id": "3960",
+        "name_en": "7.5 Structure of a Liquid-in-Glass Therm...",
+        "name_ur": "7.5 شیشے میں مائع قسم کے تھرما میٹر کی ساخت "
+      },
+      {
+        "id": "3954",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3955",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12685",
+    "chapter_name_en": "9. Nature of Science",
+    "chapter_name_ur": "9۔ سائنس کی ماہیت ",
+    "topics": [
+      {
+        "id": "3974",
+        "name_en": "9.1 Scope of Physics",
+        "name_ur": "9.1فزکس  کا دائرہ کار"
+      },
+      {
+        "id": "3975",
+        "name_en": "9.2 Branches of Physics",
+        "name_ur": "9.2 فزکس کی شاخیں "
+      },
+      {
+        "id": "3976",
+        "name_en": "9.3 Interdisciplinary Nature of Physics",
+        "name_ur": "9.3 فزکس  کی بین الشعبہ جاتی خاصیت"
+      },
+      {
+        "id": "3977",
+        "name_en": "9.4 Interdisciplinary Research",
+        "name_ur": "9.4بین الشعبہ جاتی ریسرچ"
+      },
+      {
+        "id": "3978",
+        "name_en": "9.5 Scientific Method",
+        "name_ur": "9.5 سائنسی طریقہ"
+      },
+      {
+        "id": "3979",
+        "name_en": "9.6 Scientific Base of Technologies and ...",
+        "name_ur": "9.6 ٹیکنالوجیز اور انجینئرنگ کی سائنسی بنیاد"
+      },
+      {
+        "id": "3973",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12678",
+    "chapter_name_en": "2. Kinematics",
+    "chapter_name_ur": "2۔ کائنی میٹکس ",
+    "topics": [
+      {
+        "id": "3897",
+        "name_en": "2.1 Scalars and Vectors",
+        "name_ur": "2.1 سکیلرز اور ویکٹرز "
+      },
+      {
+        "id": "3898",
+        "name_en": "2.2 Rest and Motion",
+        "name_ur": "2.2 ریسٹ اور موشن "
+      },
+      {
+        "id": "3899",
+        "name_en": "2.3 Types of Motion",
+        "name_ur": "2.3 موشن کی اقسام "
+      },
+      {
+        "id": "3900",
+        "name_en": "2.4 Distance and Displacement",
+        "name_ur": "2.4فاصلہ اور ڈس پلیسمنٹ "
+      },
+      {
+        "id": "3901",
+        "name_en": "2.5 Speed and Velocity",
+        "name_ur": "2.5 سپیڈ اور ولاسٹی "
+      },
+      {
+        "id": "3902",
+        "name_en": "2.6 Acceleration",
+        "name_ur": "2.6 ایکسلریشن "
+      },
+      {
+        "id": "3903",
+        "name_en": "2.7 Graphical Analysis of Motion",
+        "name_ur": "2.7 موشن کا گراف کی مدد سے تجزیہ "
+      },
+      {
+        "id": "3904",
+        "name_en": "2.8 Gradient of a Distance-Time Graph",
+        "name_ur": "2.8 فاصلہ ۔وقت گراف کا گریڈئینٹ "
+      },
+      {
+        "id": "3905",
+        "name_en": "2.9 Speed-Time Graph",
+        "name_ur": "2.9 سپیڈ ۔ وقت گراف "
+      },
+      {
+        "id": "3906",
+        "name_en": "2.10 Gradient of a Speed-time Graph",
+        "name_ur": "2.10 سپیڈ۔ وقت گراف کا گریڈ ئینٹ "
+      },
+      {
+        "id": "3907",
+        "name_en": "2.11 Area Under Speed-Time Graph",
+        "name_ur": "2.11 سپیڈ ۔ وقت گراف کے نیچے رقبہ "
+      },
+      {
+        "id": "3908",
+        "name_en": "2.12 Solving Problems for Motion Under G...",
+        "name_ur": "2.12 گریویٹی کے تحت حرکت سے متعلق حسابی سوالات حل کرنا "
+      },
+      {
+        "id": "3909",
+        "name_en": "2.13 Free Fall Acceleration",
+        "name_ur": "2.13 آزادانہ گرنے کا ایکسلریشن "
+      },
+      {
+        "id": "3895",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3896",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12680",
+    "chapter_name_en": "4. Turning Effects of Forces",
+    "chapter_name_ur": "4۔ فورس کے گھمانے کے اثرات ",
+    "topics": [
+      {
+        "id": "3922",
+        "name_en": "4.1 Like and Unlike Parallel Forces",
+        "name_ur": "4.1 لائک اور اَن لائک پیرالل فورسز"
+      },
+      {
+        "id": "3923",
+        "name_en": "4.2 Addition of Forces",
+        "name_ur": "4.2 فورسز کی جمع"
+      },
+      {
+        "id": "3924",
+        "name_en": "4.3 Turning Effect of a Force",
+        "name_ur": "4.3 فورس کے گھمانے کا اثر"
+      },
+      {
+        "id": "3925",
+        "name_en": "4.4 Resolution of Vectors",
+        "name_ur": "4.4 ویکٹر ز کے عمودی اجزا"
+      },
+      {
+        "id": "3926",
+        "name_en": "4.5 Determination of a Force from its Pe...",
+        "name_ur": "4.5 عمودی اجزا سے فورس معلوم کرنا"
+      },
+      {
+        "id": "3927",
+        "name_en": "4.6 Principle of Moments",
+        "name_ur": "4.6 مومنٹس کا اصول "
+      },
+      {
+        "id": "3928",
+        "name_en": "4.7 Centre of Gravity and Centre of Mass",
+        "name_ur": "4.7 سنٹر آف گریویٹی اور سنٹر آف ماس "
+      },
+      {
+        "id": "3929",
+        "name_en": "4.8 Equilibrium",
+        "name_ur": "4.8 توازن "
+      },
+      {
+        "id": "3930",
+        "name_en": "4.9 Condition of Equilibrium",
+        "name_ur": "4.9 توازن کی شرائط"
+      },
+      {
+        "id": "3931",
+        "name_en": "4.10 States of Equilibrium",
+        "name_ur": "4.10 توازن کی حالتیں "
+      },
+      {
+        "id": "3932",
+        "name_en": "4.11 Improvement of Stability",
+        "name_ur": "4.11 قیام پذیری میں بہتری "
+      },
+      {
+        "id": "3933",
+        "name_en": "4.12 Application of Stability in Real Li...",
+        "name_ur": "4.12 عملی زندگی میں قیام پذیری کا اطلاق "
+      },
+      {
+        "id": "3934",
+        "name_en": "4.13 Centripetal Force",
+        "name_ur": "4.13 سینٹری پیٹل فورس"
+      },
+      {
+        "id": "3920",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3921",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12682",
+    "chapter_name_en": "6. Mechanical Properties of Matter",
+    "chapter_name_ur": "6۔ مادے کی میکینیکل خصوصیات ",
+    "topics": [
+      {
+        "id": "3947",
+        "name_en": "6.1 Deformation of Solids",
+        "name_ur": "6.1 ٹھوس اشیا میں بگاڑ"
+      },
+      {
+        "id": "9303",
+        "name_en": "6.2 Hookeâ€™s Law",
+        "name_ur": "6.2  ہُک کا قانون "
+      },
+      {
+        "id": "3948",
+        "name_en": "6.3 Density",
+        "name_ur": "6.3 ڈینسٹی "
+      },
+      {
+        "id": "3949",
+        "name_en": "6.4 Pressure",
+        "name_ur": "6.4 پریشر"
+      },
+      {
+        "id": "3950",
+        "name_en": "6.5 Pressure in Liquids",
+        "name_ur": "6.5 مائعات کے اندر پریشر "
+      },
+      {
+        "id": "3951",
+        "name_en": "6.6 Atmospheric Pressure",
+        "name_ur": "6.6 فضائی پریشر"
+      },
+      {
+        "id": "3952",
+        "name_en": "6.7 Measurement of Atmospheric Pressure",
+        "name_ur": "6.7 فضائی پریشر کی پیمائش "
+      },
+      {
+        "id": "3953",
+        "name_en": "6.8 Measurement of Pressure by Manometer",
+        "name_ur": "6.8 مینو میٹر کے ذریعے پریشر کی پیمائش"
+      },
+      {
+        "id": "9071",
+        "name_en": "6.9 Pascal's Law",
+        "name_ur": "6.9 پاسکل لاء"
+      },
+      {
+        "id": "3945",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      },
+      {
+        "id": "3946",
+        "name_en": "Numerical Problems",
+        "name_ur": "نومیریکل "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12684",
+    "chapter_name_en": "8. Magnetism",
+    "chapter_name_ur": "8۔ میگنیٹزم ",
+    "topics": [
+      {
+        "id": "3962",
+        "name_en": "8.1 Magnetic Materials",
+        "name_ur": "8.1 میگنیٹک مٹیریلز"
+      },
+      {
+        "id": "3963",
+        "name_en": "8.2 Properties of Magnets",
+        "name_ur": "8.2 میگنیٹس کی خصوصیات"
+      },
+      {
+        "id": "3964",
+        "name_en": "8.3 Induced Magnetism",
+        "name_ur": "8.3 انڈیو سڈ میگنیٹزم "
+      },
+      {
+        "id": "3965",
+        "name_en": "8.4 Temporary and Permanent Magnets",
+        "name_ur": "8.4 عارضی اور مستقل میگنیٹس"
+      },
+      {
+        "id": "3966",
+        "name_en": "8.5 Magnetic Fields",
+        "name_ur": "8.5 میگنیٹک فیلڈز"
+      },
+      {
+        "id": "3967",
+        "name_en": "8.6 Uses of Permanent Magnets",
+        "name_ur": "8.6 مستقل میگنیٹس کے استعمالات "
+      },
+      {
+        "id": "3968",
+        "name_en": "8.7 Electromagnets",
+        "name_ur": "8.7 الیکٹرو میگنیٹس "
+      },
+      {
+        "id": "3969",
+        "name_en": "8.8 Domain Theory of Magnetism",
+        "name_ur": "8.8 میگنیٹزم کی ڈومین تھیوری "
+      },
+      {
+        "id": "3970",
+        "name_en": "8.9 Magnetization and Demagnetization",
+        "name_ur": "8.9 میگنیٹزم پیدا کرنا اور زائل کرنا"
+      },
+      {
+        "id": "3971",
+        "name_en": "8.10 Applications of Magnets in Recordin...",
+        "name_ur": "8.10 ریکارڈنگ ٹیکنالوجی میں میگنیٹس کا استعمال"
+      },
+      {
+        "id": "3972",
+        "name_en": "8.11 Soft Iron as Magnetic Shield",
+        "name_ur": "8.11 نرم لوہا بطور میگنیٹک شیلڈ"
+      },
+      {
+        "id": "3961",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  }
+]

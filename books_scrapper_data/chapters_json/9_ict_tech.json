@@ -1,0 +1,329 @@
+[
+  {
+    "chapter_id": "14480",
+    "chapter_name_en": "Ch # 5. System Troubleshooting and Maintenance",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6654",
+        "name_en": "5.1 Computer Maintenance",
+        "name_ur": ""
+      },
+      {
+        "id": "6655",
+        "name_en": "5.2 Device Driver Problems, Prevention a...",
+        "name_ur": ""
+      },
+      {
+        "id": "6656",
+        "name_en": "5.3 Hardware Troubleshooting",
+        "name_ur": ""
+      },
+      {
+        "id": "6657",
+        "name_en": "5.4 Troubleshooting Steps for Windows",
+        "name_ur": ""
+      },
+      {
+        "id": "6658",
+        "name_en": "5.5 IP Addressing: Configuration Issues ...",
+        "name_ur": ""
+      },
+      {
+        "id": "6659",
+        "name_en": "5.6 Port Forwarding",
+        "name_ur": ""
+      },
+      {
+        "id": "6671",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      }
+    ]
+  },
+  {
+    "chapter_id": "14477",
+    "chapter_name_en": "Ch # 2. Exploring Arduino Basics_ Circuits, Code and Projects",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6667",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      },
+      {
+        "id": "6642",
+        "name_en": "2.10 Common Problems and Their Fixes",
+        "name_ur": ""
+      },
+      {
+        "id": "6641",
+        "name_en": "2.9 Troubleshooting Projects",
+        "name_ur": ""
+      },
+      {
+        "id": "6640",
+        "name_en": "2.8 Simulating Traffic Lights",
+        "name_ur": ""
+      },
+      {
+        "id": "6639",
+        "name_en": "2.7 Reading a Sensor (HC-SR04)",
+        "name_ur": ""
+      },
+      {
+        "id": "6638",
+        "name_en": "2.6 Activating a Buzzer using Arduino",
+        "name_ur": ""
+      },
+      {
+        "id": "6637",
+        "name_en": "2.6 Activating a Buzzer using Arduino",
+        "name_ur": ""
+      },
+      {
+        "id": "6636",
+        "name_en": "2.5 Writing a Simple Program to Blink an...",
+        "name_ur": ""
+      },
+      {
+        "id": "6635",
+        "name_en": "2.4 Installing the Arduino IDE",
+        "name_ur": ""
+      },
+      {
+        "id": "6634",
+        "name_en": "2.3 Building a Basic Circuit",
+        "name_ur": ""
+      },
+      {
+        "id": "6633",
+        "name_en": "2.2 Key Components",
+        "name_ur": ""
+      },
+      {
+        "id": "6632",
+        "name_en": "2.1 Designing and Explaining Basic Circu...",
+        "name_ur": ""
+      }
+    ]
+  },
+  {
+    "chapter_id": "14478",
+    "chapter_name_en": "Ch # 3. Graphic Designing and Multimedia",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6643",
+        "name_en": "3.1 Getting Started with Design and Publ...",
+        "name_ur": ""
+      },
+      {
+        "id": "6644",
+        "name_en": "3.2 Using Basic Design Tools",
+        "name_ur": ""
+      },
+      {
+        "id": "6645",
+        "name_en": "3.3 Getting Start with Capcut",
+        "name_ur": ""
+      },
+      {
+        "id": "6646",
+        "name_en": "3.4 Managing Digital and Print Media",
+        "name_ur": ""
+      },
+      {
+        "id": "6669",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      }
+    ]
+  },
+  {
+    "chapter_id": "14479",
+    "chapter_name_en": "Ch # 4. Fundamentals of Web Development and e-Commerce",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6647",
+        "name_en": "4.1 Introduction to Web Development",
+        "name_ur": ""
+      },
+      {
+        "id": "6648",
+        "name_en": "4.2 Motivation Behind Learning Web Devel...",
+        "name_ur": ""
+      },
+      {
+        "id": "6649",
+        "name_en": "4.3 Essential Tools and Environmental Se...",
+        "name_ur": ""
+      },
+      {
+        "id": "6650",
+        "name_en": "4.4 Creating Web Pages with HTML",
+        "name_ur": ""
+      },
+      {
+        "id": "6651",
+        "name_en": "4.5 Enhancing your Web Page with CSS Fun...",
+        "name_ur": ""
+      },
+      {
+        "id": "6652",
+        "name_en": "4.6 Enhancing your Web Page with JavaScr...",
+        "name_ur": ""
+      },
+      {
+        "id": "6653",
+        "name_en": "4.7 Introduction to e-Commerce",
+        "name_ur": ""
+      },
+      {
+        "id": "6670",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      }
+    ]
+  },
+  {
+    "chapter_id": "14481",
+    "chapter_name_en": "Ch # 6. Al Technologies",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6660",
+        "name_en": "6.1 AI in Documentation and Content Crea...",
+        "name_ur": ""
+      },
+      {
+        "id": "6661",
+        "name_en": "6.2 AI in Multimedia",
+        "name_ur": ""
+      },
+      {
+        "id": "6662",
+        "name_en": "6.3 AI in Coding in Automation",
+        "name_ur": ""
+      },
+      {
+        "id": "6663",
+        "name_en": "6.4 AI in Daily Life and Industries",
+        "name_ur": ""
+      },
+      {
+        "id": "6664",
+        "name_en": "6.5 Ethical Considerations in AI",
+        "name_ur": ""
+      },
+      {
+        "id": "6665",
+        "name_en": "6.6 Project (Build Your Own AI-Powered T...",
+        "name_ur": ""
+      },
+      {
+        "id": "6672",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      }
+    ]
+  },
+  {
+    "chapter_id": "14476",
+    "chapter_name_en": "Ch # 1. Mastering Microsoft Word and PowerPoint",
+    "chapter_name_ur": "",
+    "topics": [
+      {
+        "id": "6631",
+        "name_en": "1.17 Transitions and Animations",
+        "name_ur": ""
+      },
+      {
+        "id": "6630",
+        "name_en": "1.16 Inserting Tables and Charts",
+        "name_ur": ""
+      },
+      {
+        "id": "6629",
+        "name_en": "1.15 Using SmartArt",
+        "name_ur": ""
+      },
+      {
+        "id": "6628",
+        "name_en": "1.14 Insert Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6627",
+        "name_en": "1.13 Applying Layouts, Themes and Backgr...",
+        "name_ur": ""
+      },
+      {
+        "id": "6626",
+        "name_en": "1.12 Aligning and Structuring Text in Po...",
+        "name_ur": ""
+      },
+      {
+        "id": "6625",
+        "name_en": "1.11 Using Bullet Points the Numbering i...",
+        "name_ur": ""
+      },
+      {
+        "id": "6624",
+        "name_en": "1.10 Home Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6623",
+        "name_en": "1.9 Understanding the PowerPoint Interfa...",
+        "name_ur": ""
+      },
+      {
+        "id": "6622",
+        "name_en": "1.8 Getting Started with PowerPoint",
+        "name_ur": ""
+      },
+      {
+        "id": "6621",
+        "name_en": "1.7 View Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6620",
+        "name_en": "1.6 Layout Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6619",
+        "name_en": "1.5 Insert Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6618",
+        "name_en": "1.4 Home Tab",
+        "name_ur": ""
+      },
+      {
+        "id": "6617",
+        "name_en": "1.3 Understanding the Word Interface",
+        "name_ur": ""
+      },
+      {
+        "id": "6616",
+        "name_en": "1.2 Creating a New Document",
+        "name_ur": ""
+      },
+      {
+        "id": "6615",
+        "name_en": "1.1 Getting Started with Microsoft Word",
+        "name_ur": ""
+      },
+      {
+        "id": "6666",
+        "name_en": "Exercise Data",
+        "name_ur": ""
+      }
+    ]
+  }
+]

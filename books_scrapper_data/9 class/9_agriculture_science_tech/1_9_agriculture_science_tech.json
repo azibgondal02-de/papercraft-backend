@@ -1,0 +1,3380 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "722508",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary purpose of agriculture?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Industrial development",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Food production",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Urbanization",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Tourism",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960707",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is NOT a branch of agriculture?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Agronomy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Horticulture",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Aquaculture",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Astronomy",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "960709",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is a staple food in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Coffee",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Tea",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cotton",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960713",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main source of water for irrigated agriculture in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Indus River System",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Groundwater only",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Desalination plants",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rainfall",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960715",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a rain-fed crop in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sugarcane",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Barley",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Cotton",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960719",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary role of agroforestry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increasing urbanization",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Integrating trees with crops and livestock",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Reducing industrial output",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Promoting tourism",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960731",
+      "chapter_id": "14457",
+      "topic_id": "5801",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a high-value crop in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mango",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Barley",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Millet",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960744",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary goal of crop rotation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increase soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Maintain soil fertility and reduce pests",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Grow the same crop every year",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduce biodiversity",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960745",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is known for adding nitrogen to the soil?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Legumes(e.g., beans, peas)",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Corn",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960746",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a common cropping pattern in the Indus Plains of Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat-Rice rotation",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Maize-Potato rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Barley-Fruit rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cotton-Sugarcane rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960747",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which factor does NOT affect crop production?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Climate",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Market demand",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Soil type",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Farmer&rsquo;s favorite color",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "960749",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main benefit of intercropping?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increases soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduces biodiversity",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Optimizes resource use and reduces pests",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Requires less labor",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960750",
+      "chapter_id": "14458",
+      "topic_id": "5802",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which region in Pakistan is known for fruit orchards like apples and apricots?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Indus Plains",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Coastal Areas",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mountainous Regions (Khyber Pakhtunkhwa, Gilgit-Baltistan)",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Arid Deserts",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960769",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the ideal temperature range for wheat growth?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "5&deg;C&ndash;10&deg;C",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "10&deg;C&ndash;25&deg;C",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "30&deg;C&ndash;40&deg;C",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "40&deg;C&ndash;50&deg;C",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960773",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is known as &quot;white gold&quot; in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cotton",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Sugarcane",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960776",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the best soil type for potato cultivation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sandy loam",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Clay",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rocky soil",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Saline soil",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960778",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a Rabi crop?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Maize",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Cotton",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960779",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the critical irrigation stage for sugarcane?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Germination",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Tillering",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Grand growth",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "All of the above",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960780",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which fertilizer is essential for root development in crops?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Nitrogen",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Phosphorus",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Potassium",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Zinc",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960782",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is used for both food and brewing purposes?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Barley",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Maize",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960785",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main pest of cotton?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Aphids",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Bollworms",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Termites",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Armyworms",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960787",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is grown during the Kharif season?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Barley",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Mustard",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960789",
+      "chapter_id": "14459",
+      "topic_id": "5803",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the ideal pH range for rice cultivation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "4.0&ndash;5.0",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "5.5&ndash;7.5",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "8.0&ndash;9.0",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "9.0&ndash;10.0",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960813",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary goal of crop rotation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increase soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Maintain soil fertility and reduce pests",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Grow the same crop every year",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduce biodiversity",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960814",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is known for adding nitrogen to the soil?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Legumes (e.g., beans, peas)",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Corn",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960815",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a common cropping pattern in the Indus Plains of Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wheat-Rice rotation",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Maize-Potato rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Barley-Fruit rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cotton-Sugarcane rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "960816",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which factor does not affect cropping patterns?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Climate",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Market demand",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Soil type",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Farmer&rsquo;s favorite color",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "960817",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main benefit of intercropping?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increases soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduces biodiversity",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Requires less labor",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Optimizes resource use and reduces pests",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "960818",
+      "chapter_id": "14460",
+      "topic_id": "5804",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which practice helps prevent soil erosion in hilly areas?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Overgrazing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Deforestation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Terraced farming",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Mono cropping",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962437",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary goal of soil and water conservation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increase soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Prevent soil degradation and manage water resources sustainably",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Promote deforestation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduce agricultural productivity",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962438",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a modern technique for soil conservation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Overgrazing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "No-till farming",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Deforestation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excessive use of chemical fertilizers",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962439",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which method is used to collect and store rainwater for irrigation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Overgrazing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rainwater harvesting",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Deforestation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excessive plowing",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962440",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the role of afforestation in watershed management?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increase soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduce groundwater recharge",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stabilize soil and improve water retention",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Promote desertification",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962441",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a cause of soil degradation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Crop rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Overgrazing",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Contour farming",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mulching",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962442",
+      "chapter_id": "14461",
+      "topic_id": "5805",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which irrigation method is the most water-efficient?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Flood irrigation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Drip irrigation",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Manual irrigation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Furrow irrigation",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962452",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The primary purpose of leaching in soil management is to _______",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Add nutrients to the soil",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wash away excess salts from the soil",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Increase soil compaction",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduce soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962453",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which crop is suitable for growing in saline soils?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rice",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Barley",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Sugarcane",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cotton",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962454",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main cause of waterlogging in soils?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Excessive use of fertilizers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Poor drainage systems",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Overuse of pesticides",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High soil pH",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962455",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a mechanical method to control soil erosion?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Mulching",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Terracing",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Crop rotation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Agroforestry",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962456",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the role of gypsum in reclaiming sodic soils?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "It adds nitrogen to the soil",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It replaces sodium with calcium",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "It increases soil acidity",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It reduces soil compaction",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962457",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which practice helps reduce water loss through evaporation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Deep plowing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mulching",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Overgrazing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Frequent tilling",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962458",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary benefit of using organic manure in soil reclamation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "It increases soil salinity",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It improves soil structure and water retention",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "It reduces soil pH",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It causes soil compaction",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962459",
+      "chapter_id": "14462",
+      "topic_id": "5806",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a cause of soil compaction?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Adding organic matter",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Using drip irrigation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Heavy machinery",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Planting cover crops",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962470",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main purpose of agroforestry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To grow only trees for timber",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To combine trees, crops, and livestock for sustainable farming",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To replace all crops with trees",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To focus only on livestock farming",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962471",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a benefit of agroforestry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increased soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduced biodiversity",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Improved soil fertility",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Higher water evaporation",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962472",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is alley cropping?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Growing crops in forested areas",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Planting trees in rows alongside crops",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Raising livestock under tree canopies",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Planting trees around farm boundaries",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962473",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which tree is known for nitrogen fixation in agroforestry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Mango",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Acacia",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Eucalyptus",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Neem",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962474",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of windbreaks in agroforestry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To increase soil erosion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To protect crops from strong winds",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To reduce water conservation",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To provide fodder for livestock",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962475",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a key advantage of agroforestry for farmers?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Reduced income sources",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Increased reliance on a single crop",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Diversified income from tree products",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Higher risk of crop failure",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962476",
+      "chapter_id": "14463",
+      "topic_id": "5807",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the Taungya system?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Growing crops between young trees until the canopy closes",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Planting trees around farm boundaries",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Combining livestock with forest farming",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Growing medicinal plants in home gardens",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962878",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary purpose of milch animals?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Meat production",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Milk production",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Draught power",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wool production",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962879",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an example of a draught animal?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Cow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Goat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Ox",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Chicken",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962880",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main advantage of the intensive livestock production system?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Low input costs",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High productivity",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Use of natural grazing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Low labor requirements",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962881",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which disease is common in poultry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Foot-and-mouth disease",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Avian influenza",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Brucellosis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mastitis",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962882",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a major challenge in animal breeding?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Lack of market access",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Inadequate record-keeping",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Overproduction of fodder",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excessive use of antibiotics",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962883",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which livestock production system involves seasonal migration of animals?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Intensive system",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Nomadic system",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Zero-grazing system",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Commercial system",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962884",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary cause of fodder shortage?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Overproduction of crops",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Climate change and droughts",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Excessive use of fertilizers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Lack of veterinary services",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962885",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the economic importance of livestock in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "It contributes 3% to GDP",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It provides employment to over 8 million families",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "It is the largest exporter of dairy products",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It has no significant impact on the economy",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "962910",
+      "chapter_id": "14464",
+      "topic_id": "5808",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a problem in animal marketing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "High demand for livestock products",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Dominance of middlemen",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Excessive use of modern technology",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Overproduction of fodder",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963139",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main purpose of the dairy industry in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Producing crops",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Raising birds for meat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Producing milk and dairy products",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Making leather",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963141",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which province in Pakistan is the largest producer of milk?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sindh",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Punjab",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Khyber Pakhtunkhwa",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Balochistan",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963142",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main cause of milk spoilage during storage?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Lack of sunlight",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High temperature",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Overfeeding animals",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Using glass bottles",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963194",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which disease in dairy animals can reduce milk production?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Foot-and-mouth disease",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Newcastle disease",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Coccidiosis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Aspergillosis",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963208",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of pasteurization in milk processing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To add flavor to milk",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To kill harmful bacteria",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To increase fat content",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To change milk color",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963242",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which equipment is used to separate cream from milk?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Milking machine",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cream separator",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Homogenizer",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Pasteurizer",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963269",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main benefit of using modern technology in dairy farming?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increases manual labor",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reduces milk production",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Improves efficiency and quality",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Makes animals grow slower",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963270",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which dairy product is made by fermenting milk?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Butter",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cheese",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Yogurt",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Ghee",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963272",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the role of cold chain systems in the dairy industry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To increase milk spoilage",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To keep milk fresh during transport",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To reduce milk production",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To add water to milk",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963285",
+      "chapter_id": "14465",
+      "topic_id": "5809",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a value-added dairy product?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Raw milk",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Flavored milk",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Unpasteurized milk",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Spoiled milk",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963376",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main purpose of poultry farming?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Growing crops",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Raising birds for meat and eggs",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Producing dairy products",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Making leather",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963379",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which province in Pakistan is the largest producer of poultry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sindh",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Punjab",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Khyber Pakhtunkhwa",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Balochistan",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963380",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of vaccination in poultry?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To increase egg size",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To protect birds from diseases",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To make birds grow faster",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To change feather color",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963381",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which feed is given to young chicks for their early growth?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Layer feed",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Broiler feed",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Starter feed",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Finisher feed",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963383",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which modern technology is used to maintain temperature in poultry houses?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Automated feeding systems",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Climate control systems",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Robotic cleaners",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Genetic improvements",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "963386",
+      "chapter_id": "14466",
+      "topic_id": "5810",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a fancy bird?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Broiler chicken",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Silkie chicken",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Layer hen",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Turkey",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    }
+  ]
+}

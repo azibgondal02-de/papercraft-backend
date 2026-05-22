@@ -1,0 +1,2480 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "231117",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہندومت ،بدھ مت اور جین مت میں مشترک ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "عقائد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "رسوم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ثقافتی اور لسانی رشتے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف،ب،ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231118",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "جین مت میں ۔۔۔۔۔۔۔۔&nbsp; کو بہت اہمیت حاصل ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ترتھانکر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "رسوم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عقائد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "یہ تمام",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231119",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "جین مت کے&nbsp; دو فرقے ۔۔۔۔۔۔۔۔۔۔۔۔۔۔ہیں:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "اہنساوستیہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دگمبر وسویتا مبر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "استیہ واپری گرہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف،ب،ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231120",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مہاویر نے جین مت ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "کی اصلاح کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اسے منظم کیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اس کی اشاعت کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف،ب،ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231121",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "جین مت کے کس فرقے کے پیرو کار دنیاوی آسائشیں اختیار کرتے ہیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دگمبر فرقہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سویتا مبر فرقہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اپری گرہ فرقہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231122",
+      "chapter_id": "4839",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مہاویر کے نام کا مطلب ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "شیر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عظیم ہیرو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پہلوان",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اژدھا",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231135",
+      "chapter_id": "4840",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "معاشرے کو صحت بخش بنیادیں فراہم کرنے کے لیے ۔۔۔۔۔۔۔ کی ضرورت ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "معاشی استحکام&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سیاسی&nbsp;استحکام&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اخلاقی&nbsp;استحکام&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مستحکم منصوبہ بندی&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231136",
+      "chapter_id": "4840",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "صیح اور غلط کا فیصلہ۔۔۔۔۔۔۔۔۔ کرتا ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "فرد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "معاشرہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ضمیر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دماغ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231137",
+      "chapter_id": "4840",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انسانی فطرت ہے کہ کسی قانون اور ضابطے کو ۔۔۔۔۔۔۔۔۔۔۔ قبول نہ کریں تو اس پر عمل نہیں ہوتا ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "افراد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دانشور",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "حکمران",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دل و دماغ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231138",
+      "chapter_id": "4840",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "نظام اخلاق کی تعمیر میں سب سے اہم کردار ۔۔۔۔۔۔۔۔ کا ہوتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "قانون ساز اداروں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "معاشرے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مذہب&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دل و دماغ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231139",
+      "chapter_id": "4840",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "میعشت کی ترقی کا انحصار ۔۔۔۔۔۔۔۔۔ پر ہوتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سرمایہ کاری",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انسانی کردار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مخنت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ذہانت&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231146",
+      "chapter_id": "4841",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "اٹھارہویں صدی کے وسط تک نرسنگ&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایک باوقار پیشہ بن چکا تھا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ابتدائی مراحل میں تھا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اس سے صرف چند افراد وبستہ تھے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سرے سے پیشہ ہی نہیں تھا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231147",
+      "chapter_id": "4841",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "فلورنس نائیٹ انگیل کا بچپن ۔۔۔۔۔۔۔۔ میں بسر ہوا",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "اٹلی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انگلستان",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ترکی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "فلورنس",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231148",
+      "chapter_id": "4841",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "نرسنگ سے ذہنی وابستگی کا یہ نتیجہ نکلا کہ&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "فلورنس نائیٹ انگیل نے تعلیم ترک کر دی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نرسنگ کی مزید تعلیم کے لیے انگلستان چلی گئیں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "شادی کرنے سے انکار کر دیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اپنی ہر خواش&nbsp; کو نرسنگ پر قربان کر دیا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231149",
+      "chapter_id": "4841",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "&nbsp;نائیٹ انگیل۔۔۔۔۔۔۔۔۔ ساتھی نرسوں کے ساتھ جنگ کریمیا میں شریک ہوئیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "18",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "28",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "38",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "48",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231150",
+      "chapter_id": "4841",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "نائیٹ انگیل کاایک اہم کام یہ ہے کہ۔۔۔۔۔۔۔۔۔۔۔۔۔۔ :",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انھوں نے نرسنگ کو باوقار بنا دیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خواتین کے لیے اسے پر کشش بنا دیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نرسنگ کا نصاب مرتب کر دیا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ساری زندگی نرسنگ کے لیے وقف کر دی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231160",
+      "chapter_id": "4842",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مذہب ۔۔۔۔۔۔۔ تقاضے پورے کرتا ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "روحانی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نفسیاتی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جسمانی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جسمانی اور روحانی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231161",
+      "chapter_id": "4842",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "تمام مذہب کی ۔۔۔۔۔۔۔ تعلیمات مشترکہ ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "معاشرتی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اخلاقی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "معاشی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مذہبی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231162",
+      "chapter_id": "4842",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مذہب انسان میں اخلاقی تعلیمات کے ذریعے ۔۔۔۔۔۔ پیدا کرتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "خدا خوفی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دیا نتداری",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خدمت کا جذبہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف اور ج&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231163",
+      "chapter_id": "4842",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "تمام مذاہب میں۔۔۔۔۔۔۔۔&nbsp; کا تصور موجود ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آخرت میں جوابدہی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "موت کے بعد زندگی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خدائے برتر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بداعمالی کی سزا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231164",
+      "chapter_id": "4842",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مذہب انسان کا بہت بڑا ۔۔۔۔۔۔۔۔۔۔ سہارا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "نفسیاتی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اخلاقی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جذباتی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ذہنی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231175",
+      "chapter_id": "4843",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "خدا کی ہستی کا شعور&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انسان مظاہرہ فطرت سے حاصل کرتا ہے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انسان غوروفکر سے حقیقت تک پہنچتا ہے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انسان کی فطرت میں داخل ہے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خدا کو ماننے کے بعد آتا ہے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231176",
+      "chapter_id": "4843",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "گورونانک صاحب دیو جی نے ۔۔۔۔۔۔۔۔۔۔۔۔پر زور دیا:",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "خالص توحید",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سکھ مذہب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عقیدہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جدید دور",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231177",
+      "chapter_id": "4843",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "دنیا کے مذاہب ۔۔۔۔۔۔۔۔ قسم کے ہیں&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231178",
+      "chapter_id": "4843",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بدھ مت ۔۔۔۔۔۔۔۔ شامل ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سامی مذاہب&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الہامی مذاہب&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غیر الہامی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کسی سے نہیں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231179",
+      "chapter_id": "4843",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "گوتم بدھ نے خدا کی ہستی کا&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "اقرار کیا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکار کیا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خاموشی اختیار کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پہلے اقرار پھر انکار کیا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231198",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہندو مت کے مطابق یہ دنیا۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔ ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "امتحان گاہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دکھوں کا گھر&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "قید خانہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آنے والی زندگی کی تیاری کی جگہ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231199",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہندومت میں اشناس کرنا ۔۔۔۔۔۔۔۔۔ ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "صفائی کا تقاضہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عبادت کا حصہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "فطرت ضرورت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "موسمی حالات کی ضرورت",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231200",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بدھ مت میں خیرات مانگنا ۔۔۔۔۔۔۔۔۔ ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "زندگی کی اہم ضرورت پوری کرنا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "زندہ رہنے کا آسان&nbsp; طریقہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عبادت کا حصہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پوتر ہونے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231201",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "زرتش مذہب میں آگ کی پرستش اس&nbsp; لیے کی جاتی ہے کیو نکہ ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انسان کو انجام یاد دلاتی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانی ہوا کی نسبت سامنے&nbsp; رکھنا آسان&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آگ&nbsp; یزدانی قوت کا مظہر&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب ۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231210",
+      "chapter_id": "4845",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "آداب سے کسی ملک کے معاشرے کی ۔۔۔۔۔۔۔۔۔ ترجیحات کا پتا چلتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "مذہبی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تاریخی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ثقافتی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231211",
+      "chapter_id": "4845",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "آداب ۔۔۔۔۔۔۔ ہوتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "حسن زندگی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تہذیبی عناصر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غیر رسمی قوانین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "زندگی کے سلیقے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231212",
+      "chapter_id": "4845",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "وہارہ ۔۔۔۔۔۔۔ کی عبادت گاہ ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "جین مت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بدھ مت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہندہ مت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سکھ مت",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231213",
+      "chapter_id": "4845",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مسیح گرجا گھر میں ۔۔۔۔۔۔۔ بیٹھتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سیدھی قطاروں میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نیم دائرے میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گول دائرے میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مردو خواتین الگ الگ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231214",
+      "chapter_id": "4845",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "گوردوارےمیں۔۔۔۔۔۔۔۔ لے کر جانا منع ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انڈے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گوشت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سگرٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231227",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "دفتر کے آداب ۔۔۔۔۔۔ ہوتے ہیں؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دستاویزی شکل میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "رویات پر مشتمل",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دفاتر میں آویزاں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "منتظم کےپاس",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231228",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ایسا خط جس کا تعلق آپ سے نہیں اسے ۔۔۔۔۔۔۔۔۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پڑھ کر متعلقہ برانچ میں بجھوادیں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مت پڑھیے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "میز پر پڑا رہنے دیں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سائل کو واپس بجھوا دیں",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231229",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پارک میں کوڑا ۔۔۔۔۔۔۔۔۔۔۔۔میں ڈالیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ٹوکری",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کیاری",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کوڑادان",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "لفافے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231230",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "شائستگی ۔۔۔۔۔۔۔۔ کا نام ہے&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "مذہب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آداب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تعلیم یافتہ ہونے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231231",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بین کا عملہ ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔ہوتا ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بدتمیز",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ان پڑھ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تعلیم یافتہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سست",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231243",
+      "chapter_id": "4847",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "امام غزالی ۔۔۔۔۔۔ میں پیدا ہوئے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "طوس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "طاہران",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بغداد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جر جان",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231244",
+      "chapter_id": "4847",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "امام غزالی کے دور میں اہم تعلیمی مراکز تھے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بغداداور دمشق&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نیشا پور اور جرجان",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "طوس اور طاہران",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بغداد اور نیشا پور",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231245",
+      "chapter_id": "4847",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "غوروفکر سے اکتا کر امام غزالی ۔۔۔۔۔۔۔۔۔ میں مصروف ہوگئے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "تصوف",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تدریس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مراقبہ و مجاہدہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عبادت",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231246",
+      "chapter_id": "4847",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "امام غزالی نے فلسفہ اخلاق کے ابتدائی اصول ۔۔۔۔۔۔۔۔۔ سے لیے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "علمائے دمشق",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "علمائے بغداد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اہل یونان",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نظام الملک طوسی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "231247",
+      "chapter_id": "4847",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "آخری عمر میں آپ ۔۔۔۔۔۔۔۔ گوشہ نیشن ہوگئے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دمشق",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مکہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "طوس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بغداد",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704312",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مسیحی مذہب میں دنیا کا پہلا گرجا گھر ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔میں تعمیر ہوا۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "اٹلی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "قسطنطنیہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "یروشلم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "فلسطین",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704316",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہر مذہب میں عبادت ۔۔۔۔۔۔۔۔۔۔۔۔کی جاتی ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آخری زندگی کے لیے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دنیا حاصل کرنے کے لیے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "موت میں آسانی کے لیے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "الف۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704319",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔کو زرتشت میں عبادت کا اہم جزو مانا جاتا ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آگ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "درخت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مٹی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704322",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "نماز میں۔۔۔۔۔۔۔۔۔۔۔فرائض اہم ہیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "7",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "5",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "9",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704325",
+      "chapter_id": "4844",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بدھ مت کے ہاں کسی ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔کا بھی تصور نہیں ہے۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دیوتا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خدا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "عبادت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ا۔ب۔ج",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704397",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہسپتال میں داخل ہونتے ہی۔۔۔۔۔۔۔۔۔۔بند کردیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "موبائل فون",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گاڑی کا انجن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کوٹ کے بٹن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ٹیلی ویژن&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704407",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مریض&nbsp; &nbsp; &nbsp;سے ہمیشہ ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔لہجہ میں بات کریں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سخت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خوش گوار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غصہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بد تمیز",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704408",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پارک میں لوگ۔۔۔۔۔۔۔۔۔۔۔۔۔کےلیے جاتے ہیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سونے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ورزش اور سیرو تفریح&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پڑھائی کرنے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "لڑائی",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704409",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پارک میں کوڑا ۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔۔ڈالیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "جھولوں میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کوڑا دان میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "درختوں میں",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کیاریوں میں",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "704410",
+      "chapter_id": "4846",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پارک میں کیاری سے ۔۔۔۔۔۔۔۔۔۔۔۔۔۔نہ توڑیں۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پھول",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پھل",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پتے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ٹہنی",
+          "is_correct": "0"
+        }
+      ]
+    }
+  ]
+}

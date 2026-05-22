@@ -1,0 +1,1940 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "328602",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "They______________ hard all day.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Worked",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Working",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Work",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Are working",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328603",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I already ____________ the letter.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Post",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Posted",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Posting",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was posting",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328604",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "They _____________&nbsp; hockey at that time.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Will be playing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have played",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Play",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Played",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328605",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Tables were________________ by Najma.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Break",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Broke",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Broken",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Breaks",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328606",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Shahida______________ a sad song today.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sings",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sang",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Is singing",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328607",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She______________ to school an hour ago.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Is going",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Gone",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Went",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Will go",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328608",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "We __________ a match&nbsp; today.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Played",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Had&nbsp; played",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will played",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Play",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328609",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He______________ in the run for an hour.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Stand",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stood",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Will stand",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Has been standing",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328610",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Sumera___________ her lunch yesterday.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Eat",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Eats",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Ate",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Eating",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328611",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He did not ___________ to my&nbsp; letter.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Reply",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Replied",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Replying",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Replies",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328612",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He_______________ a prize&nbsp; last year.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Win",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Won",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Wining",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will win",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328613",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I _______________&nbsp; her in the plane.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Meet",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Am&nbsp; meeting",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Met",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Have been&nbsp; meeting",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328614",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I _______________&nbsp; this bike a month ago.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Buy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Bought",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Will buy&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Buys",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328615",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The fire ______________ at night.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Is burn",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Burning",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Burnt",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Was burn",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328616",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He___________&nbsp; twenty minute ago.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Leave",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Left",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Leaves",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Leaving",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328617",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I was_____________ to see the match.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Delighted",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Delighting",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Delight",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "had been delighted",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328618",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He________________ from Lahore yesterday.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Came",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Comes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will come",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have come",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328619",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I_____________ him in the place yesterday.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Am meating",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was met",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Met",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Meat",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328620",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "It __________ to rain an hour go.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Began",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Begins",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Begin",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Begun",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328621",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Quaid-e-Azam____________ very hard.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Had been work",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Works",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Work",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Worked",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328622",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He____________ here yesterday.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Came",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Has come",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will you",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Comes",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328623",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Quaid-e-Azam________________ to protect the values, culture and traditions of Muslims.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wants",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wanted",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Will want",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have wanted",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328624",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Why did she_____________ such a letter?",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Wrote",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Write",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Has Written",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Writing",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328625",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I_______________ the book when the bell rang.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Read",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reads",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Reading",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was reading",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328626",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "It was_______________ in the morning.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rain",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rained",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Rains",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Raining",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328627",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Girls were ____________.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sings",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sung",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Singing",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328628",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She______________ a song when i entered&nbsp; &nbsp;the room.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sang",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will sing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was singing",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328629",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She was__________ the students.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Teacher",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Teach",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Taught",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Teaching",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328630",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He was riding a bike when he__________ an accident.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Meet",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Meets",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Met",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Meeting",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328631",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "They_______________ to school when the storm broke.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Are going",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Went",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Gone",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Were going",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328632",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "I_____________ the house before it started raining.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Leave",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had left",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Will leave",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328633",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She________________ since morning.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Is sleeping",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sleeps",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Slept",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had been sleeping",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328634",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "After you_____________ I went to sleep.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Had left",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Leave",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was leaving",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328635",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "We had not ____________ him before he came here.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "See",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sees",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Saw",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Seen",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328636",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "They______________ their meal&nbsp; before the guests arrived.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Take",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Took",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Takes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had taken",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328637",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He had already_____________ the letter.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Posts",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Posted",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Posting",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Is posting",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328638",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The match started after i_______________ the play ground.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Has left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had left",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328639",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She_______________ before the party begun.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Is leaving",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Has left",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Has been leaving",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had left",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328640",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He went home after he____________ his work.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Finished",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Will finish",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Have finished",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had finished",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328641",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "He had been_____________ here since 1970.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Come",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Coming",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Comes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Came",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328642",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "She______________ in this office for seven years.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Work",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Works",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was working",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had been working",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "328643",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "It had been _______________ sine last night.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rain",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Raining",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Rained",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was rained",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "328644",
+      "chapter_id": "6864",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The book______________ on the table for weeks.",
+      "statement_ur": "",
+      "type_id": "15",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": "",
+      "answer_ur": "",
+      "description_en": "",
+      "description_ur": "",
+      "paragraph_questions": "",
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Lye",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Lies",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Was lying",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Had been lying",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "chapter_id": "12272",
+    "chapter_name_en": "Ch # 1. Real Numbers",
+    "chapter_name_ur": "باب نمبر 1:۔حقیقی اعداد",
+    "topics": [
+      {
+        "id": "Exercise 1.1 with Example",
+        "name_en": "Exercise 1.1 with Example",
+        "name_ur": "Exercise 1.1 with Example"
+      },
+      {
+        "id": "Exercise 1.2 with Example",
+        "name_en": "Exercise 1.2 with Example",
+        "name_ur": "Exercise 1.2 with Example"
+      },
+      {
+        "id": "Exercise 1.3 with Example",
+        "name_en": "Exercise 1.3 with Example",
+        "name_ur": "Exercise 1.3 with Example"
+      },
+      {
+        "id": "Review Exercise 1",
+        "name_en": "Review Exercise 1",
+        "name_ur": "Review Exercise 1"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12435",
+    "chapter_name_en": "Ch # 3. Set and Functions",
+    "chapter_name_ur": "باب نمبر 3:۔سیٹ اور تفاعل",
+    "topics": [
+      {
+        "id": "Exercise 3.1 with Example",
+        "name_en": "Exercise 3.1 with Example",
+        "name_ur": "Exercise 3.1 with Example"
+      },
+      {
+        "id": "Exercise 3.2 with Example",
+        "name_en": "Exercise 3.2 with Example",
+        "name_ur": "Exercise 3.2 with Example"
+      },
+      {
+        "id": "Exercise 3.3 with Example",
+        "name_en": "Exercise 3.3 with Example",
+        "name_ur": "Exercise 3.3 with Example"
+      },
+      {
+        "id": "Review Exercise 3",
+        "name_en": "Review Exercise 3",
+        "name_ur": "Review Exercise 3"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12437",
+    "chapter_name_en": "Ch # 5. Linear Equations and Inequalities",
+    "chapter_name_ur": "باب نمبر 5:۔یک درجی مساواتیں اور غیر مساواتیں",
+    "topics": [
+      {
+        "id": "Exercise 5.1 with Example",
+        "name_en": "Exercise 5.1 with Example",
+        "name_ur": "Exercise 5.1 with Example"
+      },
+      {
+        "id": "Exercise 5.2 with Example",
+        "name_en": "Exercise 5.2 with Example",
+        "name_ur": "Exercise 5.2 with Example"
+      },
+      {
+        "id": "Exercise 5.3 with Example",
+        "name_en": "Exercise 5.3 with Example",
+        "name_ur": "Exercise 5.3 with Example"
+      },
+      {
+        "id": "Review Exercise 5",
+        "name_en": "Review Exercise 5",
+        "name_ur": "Review Exercise 5"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12439",
+    "chapter_name_en": "Ch # 7. Coordinate Geometry",
+    "chapter_name_ur": "باب نمبر 7:۔محدداتی جیو میٹری",
+    "topics": [
+      {
+        "id": "Exercise 7.1 with Example",
+        "name_en": "Exercise 7.1 with Example",
+        "name_ur": "Exercise 7.1 with Example"
+      },
+      {
+        "id": "Exercise 7.2 with Example",
+        "name_en": "Exercise 7.2 with Example",
+        "name_ur": "Exercise 7.2 with Example"
+      },
+      {
+        "id": "Exercise 7.3 with Example",
+        "name_en": "Exercise 7.3 with Example",
+        "name_ur": "Exercise 7.3 with Example"
+      },
+      {
+        "id": "Review Exercise 7",
+        "name_en": "Review Exercise 7",
+        "name_ur": "Review Exercise 7"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12441",
+    "chapter_name_en": "Ch # 9. Similar Figures",
+    "chapter_name_ur": "باب نمبر 9:۔متشابہ اشکال",
+    "topics": [
+      {
+        "id": "Exercise 9.1 with Example",
+        "name_en": "Exercise 9.1 with Example",
+        "name_ur": "Exercise 9.1 with Example"
+      },
+      {
+        "id": "Exercise 9.2 with Example",
+        "name_en": "Exercise 9.2 with Example",
+        "name_ur": "Exercise 9.2 with Example"
+      },
+      {
+        "id": "Exercise 9.3 with Example",
+        "name_en": "Exercise 9.3 with Example",
+        "name_ur": "Exercise 9.3 with Example"
+      },
+      {
+        "id": "Exercise 9.4 with Example",
+        "name_en": "Exercise 9.4 with Example",
+        "name_ur": "Exercise 9.4 with Example"
+      },
+      {
+        "id": "Review Exercise 9",
+        "name_en": "Review Exercise 9",
+        "name_ur": "Review Exercise 9"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12442",
+    "chapter_name_en": "Ch # 11. Loci and Construction",
+    "chapter_name_ur": "باب نمبر 11:۔لوسائی اور بناوٹ",
+    "topics": [
+      {
+        "id": "Exercise 11.1 with Example",
+        "name_en": "Exercise 11.1 with Example",
+        "name_ur": "Exercise 11.1 with Example"
+      },
+      {
+        "id": "Exercise 11.2 with Example",
+        "name_en": "Exercise 11.2 with Example",
+        "name_ur": "Exercise 11.2 with Example"
+      },
+      {
+        "id": "Exercise 11.3 with Example",
+        "name_en": "Exercise 11.3 with Example",
+        "name_ur": "Exercise 11.3 with Example"
+      },
+      {
+        "id": "Exercise 11.4 with Example",
+        "name_en": "Exercise 11.4 with Example",
+        "name_ur": "Exercise 11.4 with Example"
+      },
+      {
+        "id": "Exercise 11.5 with Example",
+        "name_en": "Exercise 11.5 with Example",
+        "name_ur": "Exercise 11.5 with Example"
+      },
+      {
+        "id": "Exercise 11.6 with Example",
+        "name_en": "Exercise 11.6 with Example",
+        "name_ur": "Exercise 11.6 with Example"
+      },
+      {
+        "id": "Review Exercise 11",
+        "name_en": "Review Exercise 11",
+        "name_ur": "Review Exercise 11"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12444",
+    "chapter_name_en": "Ch # 13. Probability",
+    "chapter_name_ur": "باب نمبر 13:۔احتمال",
+    "topics": [
+      {
+        "id": "Exercise 13.1 with Example",
+        "name_en": "Exercise 13.1 with Example",
+        "name_ur": "Exercise 13.1 with Example"
+      },
+      {
+        "id": "Exercise 13.2 with Example",
+        "name_en": "Exercise 13.2 with Example",
+        "name_ur": "Exercise 13.2 with Example"
+      },
+      {
+        "id": "Exercise 13.3 with Example",
+        "name_en": "Exercise 13.3 with Example",
+        "name_ur": "Exercise 13.3 with Example"
+      },
+      {
+        "id": "Exercise 13.4 with Example",
+        "name_en": "Exercise 13.4 with Example",
+        "name_ur": "Exercise 13.4 with Example"
+      },
+      {
+        "id": "Exercise 13.5 with Example",
+        "name_en": "Exercise 13.5 with Example",
+        "name_ur": "Exercise 13.5 with Example"
+      },
+      {
+        "id": "Exercise 13.6 with Example",
+        "name_en": "Exercise 13.6 with Example",
+        "name_ur": "Exercise 13.6 with Example"
+      },
+      {
+        "id": "Exercise 13.7 with Example",
+        "name_en": "Exercise 13.7 with Example",
+        "name_ur": "Exercise 13.7 with Example"
+      },
+      {
+        "id": "Review Exercise 13",
+        "name_en": "Review Exercise 13",
+        "name_ur": "Review Exercise 13"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12434",
+    "chapter_name_en": "Ch # 2. Logarithms",
+    "chapter_name_ur": "باب نمبر2:۔لوگارتھم",
+    "topics": [
+      {
+        "id": "Exercise 2.1 with Example",
+        "name_en": "Exercise 2.1 with Example",
+        "name_ur": "Exercise 2.1 with Example"
+      },
+      {
+        "id": "Exercise 2.2 with Example",
+        "name_en": "Exercise 2.2 with Example",
+        "name_ur": "Exercise 2.2 with Example"
+      },
+      {
+        "id": "Exercise 2.3 with Example",
+        "name_en": "Exercise 2.3 with Example",
+        "name_ur": "Exercise 2.3 with Example"
+      },
+      {
+        "id": "Exercise 2.4 with Example",
+        "name_en": "Exercise 2.4 with Example",
+        "name_ur": "Exercise 2.4 with Example"
+      },
+      {
+        "id": "Review Exercise 2",
+        "name_en": "Review Exercise 2",
+        "name_ur": "Review Exercise 2"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12436",
+    "chapter_name_en": "Ch # 4. Factorization and Algebraic Manipulation",
+    "chapter_name_ur": "باب نمبر 4:۔تجزی اور الجبری مہارت",
+    "topics": [
+      {
+        "id": "Exercise 4.1 with Example",
+        "name_en": "Exercise 4.1 with Example",
+        "name_ur": "Exercise 4.1 with Example"
+      },
+      {
+        "id": "Exercise 4.2 with Example",
+        "name_en": "Exercise 4.2 with Example",
+        "name_ur": "Exercise 4.2 with Example"
+      },
+      {
+        "id": "Exercise 4.3 with Example",
+        "name_en": "Exercise 4.3 with Example",
+        "name_ur": "Exercise 4.3 with Example"
+      },
+      {
+        "id": "Exercise 4.4 with Example",
+        "name_en": "Exercise 4.4 with Example",
+        "name_ur": "Exercise 4.4 with Example"
+      },
+      {
+        "id": "Review Exercise 4",
+        "name_en": "Review Exercise 4",
+        "name_ur": "Review Exercise 4"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12438",
+    "chapter_name_en": "Ch # 6. Trigonometry",
+    "chapter_name_ur": "باب نمبر 6:۔ تکونیات",
+    "topics": [
+      {
+        "id": "Exercise 6.1 with Example",
+        "name_en": "Exercise 6.1 with Example",
+        "name_ur": "Exercise 6.1 with Example"
+      },
+      {
+        "id": "Exercise 6.2 with Example",
+        "name_en": "Exercise 6.2 with Example",
+        "name_ur": "Exercise 6.2 with Example"
+      },
+      {
+        "id": "Exercise 6.3 with Example",
+        "name_en": "Exercise 6.3 with Example",
+        "name_ur": "Exercise 6.3 with Example"
+      },
+      {
+        "id": "Exercise 6.4 with Example",
+        "name_en": "Exercise 6.4 with Example",
+        "name_ur": "Exercise 6.4 with Example"
+      },
+      {
+        "id": "Exercise 6.5 with Example",
+        "name_en": "Exercise 6.5 with Example",
+        "name_ur": "Exercise 6.5 with Example"
+      },
+      {
+        "id": "Exercise 6.6 with Example",
+        "name_en": "Exercise 6.6 with Example",
+        "name_ur": "Exercise 6.6 with Example"
+      },
+      {
+        "id": "Review Exercise 6",
+        "name_en": "Review Exercise 6",
+        "name_ur": "Review Exercise 6"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12440",
+    "chapter_name_en": "Ch # 8. Logic",
+    "chapter_name_ur": "باب نمبر 8:۔منطق",
+    "topics": [
+      {
+        "id": "Exercise 8.1 with Example",
+        "name_en": "Exercise 8.1 with Example",
+        "name_ur": "Exercise 8.1 with Example"
+      },
+      {
+        "id": "Review Exercise 8",
+        "name_en": "Review Exercise 8",
+        "name_ur": "Review Exercise 8"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12610",
+    "chapter_name_en": "Ch # 10. Graphs of Functions",
+    "chapter_name_ur": "باب نمبر 10:۔تفاعل کے گراف",
+    "topics": [
+      {
+        "id": "Exercise 10.1 with Example",
+        "name_en": "Exercise 10.1 with Example",
+        "name_ur": "Exercise 10.1 with Example"
+      },
+      {
+        "id": "Exercise 10.2 with Example",
+        "name_en": "Exercise 10.2 with Example",
+        "name_ur": "Exercise 10.2 with Example"
+      },
+      {
+        "id": "Review Exercise 10",
+        "name_en": "Review Exercise 10",
+        "name_ur": "Review Exercise 10"
+      }
+    ]
+  },
+  {
+    "chapter_id": "12443",
+    "chapter_name_en": "Ch # 12. Information Handling",
+    "chapter_name_ur": "باب نمبر 12:۔معلوماتی معاملات",
+    "topics": [
+      {
+        "id": "Exercise 12.1 with Example",
+        "name_en": "Exercise 12.1 with Example",
+        "name_ur": "Exercise 12.1 with Example"
+      },
+      {
+        "id": "Exercise 12.2 with Example",
+        "name_en": "Exercise 12.2 with Example",
+        "name_ur": "Exercise 12.2 with Example"
+      },
+      {
+        "id": "Review Exercise 12",
+        "name_en": "Review Exercise 12",
+        "name_ur": "Review Exercise 12"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+Create Table  IF NOT EXISTS  users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_code VARCHAR(100) NOT NULL UNIQUE,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(100) NOT NULL,
+    password_hash VARCHAR(255) NOT NULL,
+    user_type VARCHAR(100) NOT NULL,
+    is_superuser BOOLEAN DEFAULT FALSE,
+    is_active BOOLEAN DEFAULT TRUE,
+    created_by VARCHAR(100) NOT NULL,
+    updated_by VARCHAR(100),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP 
+);
+

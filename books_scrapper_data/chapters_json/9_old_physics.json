@@ -1,0 +1,510 @@
+[
+  {
+    "chapter_id": "4745",
+    "chapter_name_en": "1: Physical Quantities and Measurement",
+    "chapter_name_ur": "1: طبیعی مقداریں اور پیمائش",
+    "topics": [
+      {
+        "id": "343",
+        "name_en": "1.1 Introduction to Physics",
+        "name_ur": "1.1 فزکس کا تعارف"
+      },
+      {
+        "id": "344",
+        "name_en": "1.2 Physical Quantities",
+        "name_ur": "1.2 طبیعی مقداریں"
+      },
+      {
+        "id": "346",
+        "name_en": "1.3 International System of Units",
+        "name_ur": "1.3 یونٹس کا انٹرنیشنل سسٹم"
+      },
+      {
+        "id": "348",
+        "name_en": "1.4 Prefixes",
+        "name_ur": "1.4 پری فکسز"
+      },
+      {
+        "id": "350",
+        "name_en": "1.5 Scientific Notation",
+        "name_ur": "1.5 سائینٹفیک نوٹیشن"
+      },
+      {
+        "id": "352",
+        "name_en": "1.6 Measuring Instruments",
+        "name_ur": "1.6 پیمائشی آلات"
+      },
+      {
+        "id": "354",
+        "name_en": "1.7 Significant Figures",
+        "name_ur": "1.7 اہم ہندسے"
+      },
+      {
+        "id": "515",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "490",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1833",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4538",
+    "chapter_name_en": "3: Dynamics",
+    "chapter_name_ur": "3: ڈائنا مکس",
+    "topics": [
+      {
+        "id": "365",
+        "name_en": "3.1 Force, Inertia and momentum",
+        "name_ur": "3.1 فورس، انرشیا اور مومینٹم"
+      },
+      {
+        "id": "366",
+        "name_en": "3.2 Newtons Law of Motion",
+        "name_ur": "3.2 نیوٹن کے موشن کے قوانین"
+      },
+      {
+        "id": "367",
+        "name_en": "3.3 Friction",
+        "name_ur": "3.3 فرکشن"
+      },
+      {
+        "id": "368",
+        "name_en": "3.4 Uniform Circular Motion",
+        "name_ur": "3.4 یونیفارم سرکلر موشن"
+      },
+      {
+        "id": "517",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "492",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1871",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4746",
+    "chapter_name_en": "5: Gravitation",
+    "chapter_name_ur": "5: گریوی ٹیشن",
+    "topics": [
+      {
+        "id": "379",
+        "name_en": "5.1 The Force of Gravitation",
+        "name_ur": "5.1 فورس آف گریوی ٹیشن"
+      },
+      {
+        "id": "380",
+        "name_en": "5.2 Mass of the Earth",
+        "name_ur": "5.2 زمین کا ماس"
+      },
+      {
+        "id": "381",
+        "name_en": "5.3 Variation of g with Altitude",
+        "name_ur": "5.3 بلندی کے ساتھ g کی قیمت"
+      },
+      {
+        "id": "382",
+        "name_en": "5.4 Artifical Satellites",
+        "name_ur": "5.4 مصنوعی سیٹلائٹس"
+      },
+      {
+        "id": "519",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "494",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1873",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4574",
+    "chapter_name_en": "7: Property of Matter",
+    "chapter_name_ur": " 7: مادہ کی خصوصیات",
+    "topics": [
+      {
+        "id": "392",
+        "name_en": "7.1 Kinetic Molecular Model of Matter",
+        "name_ur": "7.1 مادہ کا کائی نیٹک مالیکیولر ماڈل"
+      },
+      {
+        "id": "393",
+        "name_en": "7.2 Density",
+        "name_ur": "7.2 ڈینسٹی"
+      },
+      {
+        "id": "394",
+        "name_en": "7.3 Pressure",
+        "name_ur": "7.3 پریشر"
+      },
+      {
+        "id": "395",
+        "name_en": "7.4 Atmospheric Pressure",
+        "name_ur": "7.4 ایٹما سفیرک پریشر"
+      },
+      {
+        "id": "396",
+        "name_en": "7.5 Pressure in Liquids",
+        "name_ur": "7.5 مائعات میں پریشر"
+      },
+      {
+        "id": "398",
+        "name_en": "7.7 Principle of Floatation",
+        "name_ur": "7.7 تیرنے کا اصول"
+      },
+      {
+        "id": "399",
+        "name_en": "7.8 Elasticity",
+        "name_ur": "7.8 ایلاسٹیسٹی"
+      },
+      {
+        "id": "400",
+        "name_en": "7.9 Hookes Law",
+        "name_ur": "7.9 ہک کا قانون "
+      },
+      {
+        "id": "521",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "496",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1869",
+        "name_en": "canceptual",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4576",
+    "chapter_name_en": "9: Transfer of Heat",
+    "chapter_name_ur": "9: انتقال حرارت",
+    "topics": [
+      {
+        "id": "409",
+        "name_en": "9.1 Transfer of Heat",
+        "name_ur": "9.1 انتقال حرارت"
+      },
+      {
+        "id": "410",
+        "name_en": "9.2 Conduction",
+        "name_ur": "9.2 کنڈ کشن "
+      },
+      {
+        "id": "411",
+        "name_en": "9.3 Convection",
+        "name_ur": "9.3 کنویکشن "
+      },
+      {
+        "id": "412",
+        "name_en": "9.4 Radiation",
+        "name_ur": "9.4 ریڈی ایشن "
+      },
+      {
+        "id": "413",
+        "name_en": "9.5 Application and Consquences of Radia...",
+        "name_ur": "9.5 ریڈی ایشنز کا اطلاق اور نتائج"
+      },
+      {
+        "id": "523",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "498",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1892",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4654",
+    "chapter_name_en": "2: Kinematics",
+    "chapter_name_ur": "2: کائنی میٹکس",
+    "topics": [
+      {
+        "id": "357",
+        "name_en": "2.1 Rest and Motion",
+        "name_ur": "2.1 ریسٹ اور موشن"
+      },
+      {
+        "id": "360",
+        "name_en": "2.2 Types of Motion",
+        "name_ur": "2.2 موشن کی اقسام"
+      },
+      {
+        "id": "358",
+        "name_en": "2.3 Scalars and Vectors",
+        "name_ur": "2.3 سکیلرزاور ویکٹرز"
+      },
+      {
+        "id": "361",
+        "name_en": "2.4 Terms Associated with Motion",
+        "name_ur": "2.4 موشن سے متعلق اصلاحات"
+      },
+      {
+        "id": "362",
+        "name_en": "2.5 Graphical Analysis of Motion",
+        "name_ur": "2.5 موشن کا گرافیکل تجزیہ"
+      },
+      {
+        "id": "363",
+        "name_en": "2.6 Equations of Motion",
+        "name_ur": "2.6 حرکت کی مساواتیں"
+      },
+      {
+        "id": "364",
+        "name_en": "2.7 Motion of Freely Falling Bodies",
+        "name_ur": "2.7 آزادانہ گرتے ہوئے اجسام کی حرکت"
+      },
+      {
+        "id": "516",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "491",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1870",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4653",
+    "chapter_name_en": "4: Turning Effect of Forces",
+    "chapter_name_ur": "4: فورسز کو گھمانے کا اثر",
+    "topics": [
+      {
+        "id": "369",
+        "name_en": "4.1 Like and Unlike Parallel Forces",
+        "name_ur": "4.1 لائک اور ان لائک پیرلل فورسز"
+      },
+      {
+        "id": "370",
+        "name_en": "4.2 Addition of Forces",
+        "name_ur": "4.2 فورسز کو جمع کرنا"
+      },
+      {
+        "id": "371",
+        "name_en": "4.3 Resolution of Forces",
+        "name_ur": "4.3 ریزولیوشن آف فورسز"
+      },
+      {
+        "id": "372",
+        "name_en": "4.4 Torque Or Moment of a Force",
+        "name_ur": "4.4 ٹارک یا مومنٹ آف فورس"
+      },
+      {
+        "id": "373",
+        "name_en": "4.5 Principle of moments",
+        "name_ur": "4.5 مومنٹس کا اصول"
+      },
+      {
+        "id": "374",
+        "name_en": "4.6 Centre of Mass",
+        "name_ur": "4.6 سنٹر آف ماس"
+      },
+      {
+        "id": "375",
+        "name_en": "4.7 Centre of Gravity",
+        "name_ur": "4.7 سنٹر آف گریویٹی"
+      },
+      {
+        "id": "376",
+        "name_en": "4.8 Couple",
+        "name_ur": "4.8 کپل"
+      },
+      {
+        "id": "377",
+        "name_en": "4.9 Equilibrium",
+        "name_ur": "4.9 ایکوی لبریم"
+      },
+      {
+        "id": "378",
+        "name_en": "4.10 Stability and Position of Centre of...",
+        "name_ur": "4.10 سٹیبلیٹی اور سنٹر ماس کی پوزیشن"
+      },
+      {
+        "id": "518",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "493",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1872",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4573",
+    "chapter_name_en": "6: Work and Energy",
+    "chapter_name_ur": "6: ورک اور انرجی",
+    "topics": [
+      {
+        "id": "383",
+        "name_en": "6.1 Work",
+        "name_ur": "6.1 ورک"
+      },
+      {
+        "id": "384",
+        "name_en": "6.2 Energy",
+        "name_ur": "6.2 انرجی"
+      },
+      {
+        "id": "389",
+        "name_en": "6.3 Kinetic Energy",
+        "name_ur": "6.3 کائی نیٹک انرجی"
+      },
+      {
+        "id": "386",
+        "name_en": "6.4 Potential Energy",
+        "name_ur": "6.4 پوٹیشنل انرجی "
+      },
+      {
+        "id": "387",
+        "name_en": "6.5 Forms of Energy",
+        "name_ur": "6.5 انرجی کی اقسام "
+      },
+      {
+        "id": "388",
+        "name_en": "6.6 Interconversion of Energy",
+        "name_ur": "6.6 انر جی کی باہمی تبدیلی"
+      },
+      {
+        "id": "385",
+        "name_en": "6.7 Major sources of Energy",
+        "name_ur": "6.7 انرجی کے بڑے بڑے ذرائع"
+      },
+      {
+        "id": "390",
+        "name_en": "6.8 Efficiency",
+        "name_ur": "6.8 ایفی شینسی"
+      },
+      {
+        "id": "391",
+        "name_en": "6.9 Power",
+        "name_ur": "6.9 پاور"
+      },
+      {
+        "id": "520",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "495",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1867",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "4575",
+    "chapter_name_en": "8: Thermal Properties of Matter",
+    "chapter_name_ur": "8: مادہ کی حرارتی خصوصیات",
+    "topics": [
+      {
+        "id": "401",
+        "name_en": "8.1 Temperature and Heat",
+        "name_ur": "8.1 ٹمپریچر اور حرارت"
+      },
+      {
+        "id": "402",
+        "name_en": "8.2 Thermometer",
+        "name_ur": "8.2 تھر مو میٹر"
+      },
+      {
+        "id": "403",
+        "name_en": "8.3 Specific Heat Capacity",
+        "name_ur": "8.3 مخصوص حرارتی گنجائش"
+      },
+      {
+        "id": "404",
+        "name_en": "8.4 Change of State",
+        "name_ur": "8.4 حالت کی تبدیلی"
+      },
+      {
+        "id": "405",
+        "name_en": "8.5 Latent Heat of Fusion",
+        "name_ur": "8.5 پگھلاؤ کی مخفی حرارت"
+      },
+      {
+        "id": "406",
+        "name_en": "8.6 Latent Heat of Vaporization",
+        "name_ur": "8.6 ویپو رائزیشن کی مخفی حرارت"
+      },
+      {
+        "id": "407",
+        "name_en": "8.7 The Evaporation",
+        "name_ur": "8.7 اویو یپوریشن "
+      },
+      {
+        "id": "408",
+        "name_en": "8.8 Thermal Expansion",
+        "name_ur": "8.8 حرارتی پھیلاؤ"
+      },
+      {
+        "id": "522",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "497",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1890",
+        "name_en": "Conceptual Questions",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  }
+]

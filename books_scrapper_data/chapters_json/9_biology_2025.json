@@ -1,0 +1,419 @@
+[
+  {
+    "chapter_id": "12270",
+    "chapter_name_en": "1. The Science of Biology",
+    "chapter_name_ur": "باب نمبر 1:  بائیولوجی کی سائنس",
+    "topics": [
+      {
+        "id": "3386",
+        "name_en": "1.1 Biology and its branches",
+        "name_ur": "1.1 بائیو لوجی اور اس کی شاخیں "
+      },
+      {
+        "id": "3387",
+        "name_en": "1.2 Relation of biology with other scien...",
+        "name_ur": "1.2 بائیو لوجی کا دوسرے سائنسی علوم سے تعلق "
+      },
+      {
+        "id": "3388",
+        "name_en": "1.3 Careers in Biology",
+        "name_ur": "1.3 بائیو لوجی سے منسلک پیشے "
+      },
+      {
+        "id": "3389",
+        "name_en": "1.4 Quranic Instructions to reveal the s...",
+        "name_ur": "1.4 زندگی کا علم حاصل کرنے کے متعلق قرآنی ہدایات "
+      },
+      {
+        "id": "3390",
+        "name_en": "1.5 Science as a collaborative field",
+        "name_ur": "1.5 سائنس بطور  ایک مشترکہ شعبہ "
+      },
+      {
+        "id": "3391",
+        "name_en": "1.6 Scientific method",
+        "name_ur": "1.6 سا ئنٹیفک میتھڈ"
+      },
+      {
+        "id": "3392",
+        "name_en": "1.7 Theory and law ( Principle )",
+        "name_ur": "1.7 نظریہ اور قانون (اصول)"
+      },
+      {
+        "id": "3393",
+        "name_en": "1.8 Malaria: An example of biological me...",
+        "name_ur": "1.8 ملیریا:  بائیو لوجیکل  طریقہ کار کی ایک مثال "
+      },
+      {
+        "id": "3385",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12299",
+    "chapter_name_en": "3. The Cell",
+    "chapter_name_ur": "باب نمبر 3: سیل",
+    "topics": [
+      {
+        "id": "3411",
+        "name_en": "3.1 Cell",
+        "name_ur": "3.1 سیل"
+      },
+      {
+        "id": "3412",
+        "name_en": "3.2 Structure of cell",
+        "name_ur": "3.2 سیل کی ساخت "
+      },
+      {
+        "id": "3413",
+        "name_en": "3.3 Structural advantages of plant and a...",
+        "name_ur": "3.3 پودے اور جانور کے سیلز کے ساختی فوائد "
+      },
+      {
+        "id": "3414",
+        "name_en": "3.4 Cell specilization",
+        "name_ur": "3.4 سیل کی سپیشلائزیشن "
+      },
+      {
+        "id": "3415",
+        "name_en": "3.5 Stem cells",
+        "name_ur": "3.5 سٹیم سیلز"
+      },
+      {
+        "id": "3410",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12301",
+    "chapter_name_en": "5. Tissues, Organs and Organ System",
+    "chapter_name_ur": "باب نمبر 5:  ٹشوز، آرگنز اور آرگن سسٹمز",
+    "topics": [
+      {
+        "id": "3422",
+        "name_en": "5.1 Levels of organization",
+        "name_ur": "5.1 تنظیم کے لیولز "
+      },
+      {
+        "id": "3423",
+        "name_en": "5.2 Organs and organ systems in plants",
+        "name_ur": "5.2 پودے میں آرگنز اور آرگن سسٹمز"
+      },
+      {
+        "id": "3424",
+        "name_en": "5.3 Organ and organ systems in humans",
+        "name_ur": "5.3 انسان میں آرگنز اور آرگن سسٹمز"
+      },
+      {
+        "id": "3425",
+        "name_en": "5.4 Homeostasis",
+        "name_ur": "5.4 ہومیو سٹیسس"
+      },
+      {
+        "id": "3421",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12303",
+    "chapter_name_en": "7. Enzymes",
+    "chapter_name_ur": "باب نمبر 7: اینزائمز",
+    "topics": [
+      {
+        "id": "3434",
+        "name_en": "7.1 Metabolism",
+        "name_ur": "7.1 میٹابولزم"
+      },
+      {
+        "id": "3435",
+        "name_en": "7.2 Enzymes",
+        "name_ur": "7.2  اینزائمز"
+      },
+      {
+        "id": "3436",
+        "name_en": "7.3 Mechanism of enzyme action",
+        "name_ur": "7.3 اینزائم کے کام کرنے کا طریقہ "
+      },
+      {
+        "id": "3437",
+        "name_en": "7.4 Factors that affect the activity of ...",
+        "name_ur": "7.4 اینزائم کے کام پر اثر انداز ہونے والے عوامل "
+      },
+      {
+        "id": "3438",
+        "name_en": "7.5 Enzyme inhibition",
+        "name_ur": "7.5 اینزائم کی مزاحمت"
+      },
+      {
+        "id": "3433",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12305",
+    "chapter_name_en": "9. Plant Physiology",
+    "chapter_name_ur": "باب نمبر 9: پودوں کی فزیالوجی",
+    "topics": [
+      {
+        "id": "3443",
+        "name_en": "9.1 Nutrition in plants",
+        "name_ur": "9.1 پودوں میں نیوٹریشن "
+      },
+      {
+        "id": "3444",
+        "name_en": "9.2 Transport in plants",
+        "name_ur": "9.2 پودوں میں ٹرانسپورٹ"
+      },
+      {
+        "id": "3445",
+        "name_en": "9.3 Transpiration",
+        "name_ur": "9.3 ٹرانسپائریشن "
+      },
+      {
+        "id": "3446",
+        "name_en": "9.4 Transport of water and salts in plan...",
+        "name_ur": "9.4 پودوں میں پانی کی ٹرانسپورٹ"
+      },
+      {
+        "id": "3447",
+        "name_en": "9.5 Translocation of food in plants",
+        "name_ur": "9.5 پودوں میں خوراک کی منتقلی "
+      },
+      {
+        "id": "3448",
+        "name_en": "9.6 Gaseous exchange in plants",
+        "name_ur": "9.6 پودوں میں گیسوں کا تبادلہ "
+      },
+      {
+        "id": "3449",
+        "name_en": "9.7 Mechanisms for excretion in plants",
+        "name_ur": "9.7 پودوں میں ایکسکریشن کا میکانزم "
+      },
+      {
+        "id": "3450",
+        "name_en": "9.8 Osmotic adjustments in plants",
+        "name_ur": "9.8 پودوں میں اوسمو ٹک مطابقتیں "
+      },
+      {
+        "id": "3442",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "14499",
+    "chapter_name_en": "11. Biostatistics",
+    "chapter_name_ur": "باب نمبر1 1: بائیو سٹیٹسٹکس",
+    "topics": [
+      {
+        "id": "5824",
+        "name_en": "11.1 Introduction to biostatistics",
+        "name_ur": "11.1 بائیو سٹیٹسٹکس کا تعارف "
+      },
+      {
+        "id": "5825",
+        "name_en": "11.2 Mean, Median, and Mode",
+        "name_ur": "11.2 مین ، میڈئین اور موڈ"
+      },
+      {
+        "id": "5826",
+        "name_en": "11.3 Bar Chart",
+        "name_ur": "11.3 بار چارٹ"
+      },
+      {
+        "id": "5823",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12298",
+    "chapter_name_en": "2. Biodiversity",
+    "chapter_name_ur": "باب نمبر 2:  بائیوڈرائیورسٹی",
+    "topics": [
+      {
+        "id": "3402",
+        "name_en": "2.1 Biodiversity",
+        "name_ur": "2.1 بائیو ڈائیور سٹی "
+      },
+      {
+        "id": "3403",
+        "name_en": "2.2 Classification",
+        "name_ur": "2.2 کلاسیفیکیشن "
+      },
+      {
+        "id": "3404",
+        "name_en": "2.3 Taxonomic ranks",
+        "name_ur": "2.3 ٹیکسانومی کے درجات "
+      },
+      {
+        "id": "3405",
+        "name_en": "2.4 History of classification",
+        "name_ur": "2.4 کلا سیفیکیشن  کی تاریخ "
+      },
+      {
+        "id": "3406",
+        "name_en": "2.5 Domains of living organisms",
+        "name_ur": "2.5 جانداروں کی ڈومین "
+      },
+      {
+        "id": "3407",
+        "name_en": "2.6 Classification of domain eukarya",
+        "name_ur": "2.6 ڈومین یو  کریا کی کلاسیفیکیشن "
+      },
+      {
+        "id": "3408",
+        "name_en": "2.7 Status of virus in classification",
+        "name_ur": "2.7 کلا سیفیکیشن میں وائرس کا مقام "
+      },
+      {
+        "id": "3409",
+        "name_en": "2.8 Binomial nomencla ture",
+        "name_ur": "2.8 بائی نومیئل نومن کلچر "
+      },
+      {
+        "id": "3401",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12300",
+    "chapter_name_en": "4. Cell Cycle",
+    "chapter_name_ur": "باب نمبر 4: سیل سائیکل",
+    "topics": [
+      {
+        "id": "3417",
+        "name_en": "4.1 Cell cycle",
+        "name_ur": "4.1 سیل سائیکل "
+      },
+      {
+        "id": "3418",
+        "name_en": "4.2 Mitosis",
+        "name_ur": "4.2 مائی ٹوسس"
+      },
+      {
+        "id": "3419",
+        "name_en": "4.3 Meiosis",
+        "name_ur": "4.3 می اوسس"
+      },
+      {
+        "id": "3420",
+        "name_en": "4.4 Comparison between meiosis and mitos...",
+        "name_ur": "4.4 می اوسس اور مائی ٹوسس کا موازنہ "
+      },
+      {
+        "id": "3416",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "14500",
+    "chapter_name_en": "6. Biomolecules",
+    "chapter_name_ur": "باب نمبر 6:  بائیو مالیکیولز ",
+    "topics": [
+      {
+        "id": "5828",
+        "name_en": "6.1 Biomolecules",
+        "name_ur": "6.1 بائیو مالیکیولز "
+      },
+      {
+        "id": "5829",
+        "name_en": "6.2 Carbohydrates",
+        "name_ur": "6.2 کاربو ہائیڈریٹس"
+      },
+      {
+        "id": "5830",
+        "name_en": "6.3 Proteins",
+        "name_ur": "6.3 پروٹینز"
+      },
+      {
+        "id": "5831",
+        "name_en": "6.4 Lipids",
+        "name_ur": "6.4 لپڈز"
+      },
+      {
+        "id": "5832",
+        "name_en": "6.5 Nucleic acids",
+        "name_ur": "6.5 نیو کلیئک ایسڈز"
+      },
+      {
+        "id": "5833",
+        "name_en": "6.6 The Working of DNA and RNA",
+        "name_ur": "6.6 ڈی این اے اور آر این اے کے کام کا طریقہ "
+      },
+      {
+        "id": "5827",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12304",
+    "chapter_name_en": "8. Bioenergetics",
+    "chapter_name_ur": "باب نمبر 8: بائیو انرجیٹکس",
+    "topics": [
+      {
+        "id": "3980",
+        "name_en": "8.1 ATP: The Cell's Energy Currency",
+        "name_ur": "8.1 اے ٹی پی : سیل کی توانائی کی کرنسی "
+      },
+      {
+        "id": "3440",
+        "name_en": "8.2 Photosynthesis",
+        "name_ur": "8.2 فوٹو سنتھی سیز"
+      },
+      {
+        "id": "3441",
+        "name_en": "8.3 Cellular respiration",
+        "name_ur": "8.3 سیلو لر سیرپریشن "
+      },
+      {
+        "id": "3439",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  },
+  {
+    "chapter_id": "12306",
+    "chapter_name_en": "10. Reproduction in plants",
+    "chapter_name_ur": "باب نمبر 10: پودوں میں ریپررڈکشن",
+    "topics": [
+      {
+        "id": "3452",
+        "name_en": "10.1 Types of asexual reproduction",
+        "name_ur": "10.1 اے سیکشو ئل ریپرو ڈکشن کی اقسام "
+      },
+      {
+        "id": "3453",
+        "name_en": "10.2 Artificial propagation",
+        "name_ur": "10.2 مصنوعی پروپیگیشن "
+      },
+      {
+        "id": "3454",
+        "name_en": "10.3 Sexual reproduction in plants",
+        "name_ur": "10.3 پودوں میں سیکشو ئل ریپروڈکشن "
+      },
+      {
+        "id": "3451",
+        "name_en": "Exercise Questions",
+        "name_ur": "مشقی سوالات "
+      }
+    ]
+  }
+]

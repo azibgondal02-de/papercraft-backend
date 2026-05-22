@@ -1,0 +1,4235 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "574786",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انسان کا جنگی پرندوں کو پکڑ کر اپنی غذائی ضروریات کے لیے پالنا کہلاتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "تکنیکی مہارت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جدید مرغبانی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تفریح طبع",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مرغبانی&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574788",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مختلف علاقوں میں &quot; مور &quot; پالے جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "خوبصورت پروں کے حصول کے لئے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چڑیا گھر کو ان کی ضروریات ہوتی ہے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انڈوں اور گوشت کے حصول کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "صنعتی و تجارتی پیمانے پر بڑی تعداد میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574792",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغبانی کے لیے عام طورپر پالے جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چڑیا ،فاختہ ، کوا، کبوتر ، بٹیر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مرغی ، بطخ ، بٹیر ، کبوتر ، مور ، تیتر یاں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مرغی ، مچھلی ، ہدہد ، بطخ ، چڑیا ، فاختہ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بیل ، گائے ، بھینس ، بھیڑ ، بکریاں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574793",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "نسل کشی کے پرندوں کے فارمز پر دیکھ بھال کی جاتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "خاص&nbsp; قسم کے بیٹروں کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خاص قسم کے موروں کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک خاص قسم اور نسل کے پرندوں کی",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "زرخیز انڈوں کے حصول کے لیے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574796",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈوں&nbsp; کو ایک خاص ترتیب میں سینے کے لیے رکھا جاتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انکو بیٹرز میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہیچری میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غذائی آمیزہ میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کے فارمز میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574802",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی کی معاشی زندگی کے کتنے ادوار ہوتے ہیں ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574806",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "گوشت کے حصول کے لیے فارمز پر پرندے کتنے عرصے میں تیار ہو جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "3 سے 4 ماہ میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "5 سے 6 ماہ تک",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 سے 8 ماہ تک",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10 سے 12 ہفتوں تک&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574827",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پرندوں کو کھلی منڈیوں میں فروخت کرنے میں کمیشن ادا کرنا پڑتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایک فیصد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دو فیصد",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین فیصد",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ فیصد&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574829",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغبانی سے کسانوں کو روکا جا سکتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "فارغ پھرنے سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "شہروں کی طرف نقل مکانی سے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کھیل تماشوں سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "زراعت سے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574831",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈے دینے والی مرغیاں انڈے دینا شروع کر دیتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "20 ہفتے کی عمر میں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "22 ہفتے کی عمر میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "26 ہفتے کی عمر میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "23ہفتے کی عمر میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574833",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "دیہاتی خواتین اپنے گھروں میں پچاس سے سو مرغیاں رکھ کرماہانہ روپے کما سکتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو سے تین ہزار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین سے پانچ ہزار",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ سے سات ہزار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سات سے دس ہزار&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574844",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "دو انڈوں میں لحمیات کی اتنی مقدار موجود ہوتی ہے جو کہ پائی جاتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آدھا کلو دودھ میں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک کلو گوشت میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک پاؤ سبزی میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک چھٹانک دال میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574849",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغبانی کے لیے عام طورپر پالے جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "فاختہ ، چڑیا ، کوا ، کبوتر ، بٹیر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کبوتر ، مرغی ، بطخ ، بٹیر ، مور ، تیتر",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بطخ ، مرغی ، مچھلی ، ہدہد ، چڑیا ، فاختہ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بھینس ، بیل ، گائے ، بھیڑ ، بکریاں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574850",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈوں کو ایک خاص ترتیب میں سینے کے لیے رکھا جاتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹرز میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غذائی آمیزہ میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہیچری میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کے فارمز میں&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574851",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈے مشین میں سینے کے لیے کتنے دنوں تک رکھے جاتے ہیں ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "18 سے 21 دن",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10 سے 18 دن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "15 سے 25 دن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "13 سے 18 دن",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574854",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "جدید مرغبانی کی صنعت کے ذیلی اداروں کی تعداد ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سات",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آٹھ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574855",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ایک انڈے میں تقریبا لمحیات پائے جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "12.1 فیصد&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12.5 فیصد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12.10 فیصد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12.9 فیصد&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574857",
+      "chapter_id": "11547",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "کامیاب مرغ بانی کے لیے اندراج رکھنا ضروری ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کی تعداد کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اخراجات اور آمدنی کا",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کی قیمت کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اچھی نسل والی مرغیوں کا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574899",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پرندوں میں غذا کے ہضم ہونے کا عمل واقع ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "گردن میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "معدے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سنگدانہ میں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آنتوں میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574900",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغیوں کو تازہ ہوا اور صاف ستھرا پانی دینے سے عمل تیز ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بڑھنے کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہاضمے کا",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انڈے دینے کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "وزن زیادہ ہونے کا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574901",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "عصبی نظام مشتمل ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو حصوں پر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین حصوں پر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار حصوں پر",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھے حصوں پر&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574902",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "میگنم میں انڈے کی سفیدی بنتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آدھے گھنٹے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک گھنٹے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دو گھنٹے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دو سے تین گھنٹوں میں&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574903",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغیوں کے رحم میں انڈا قیام کرتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بیس گھنٹے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پچیس گھنٹے",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اٹھائیں گھنٹے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تیس گھنٹے",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574904",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی کے جسم کے ظاہری حصوں کے نام ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "وریدیں ، شریانیں ، قیف نمانالی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ران ، گردن ، سینہ ، آنکھ&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سیری بلم ، رحم ، سیری برم، چونچ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "حرام مغز ، ٹانگیں ، بازو، وجائنا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574905",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی کے نظام انہضام کے حصے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "رحم ، مقعد ، بیضہ دانی ، گردہ ، نالی ، استھمس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سیری برم ، سیری بیلم ، اعصاب ، حرام مغز ، میڈولا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خوراک کی نالی ، پوٹا ، چونچ ، غدودی معدہ ، سنگ دانی وغیرہ&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پلازما ، پھیپھڑے ، وائٹ کار پسلر ،ریڈ کارپسلز ، ہیمو گلو بن&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574906",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "چھوٹی آنت ، پتا ، لبلبہ&nbsp; اور مقعد مرغی کے نظام کے اہم حصے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "نظام انہضام&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نظام نفس&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نظام تولیدی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نظام دوران خون&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574907",
+      "chapter_id": "11548",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی کے نظام تولید میں اہم حصے ہوتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "وائٹ کارپسلز ، ریڈ کار پسلز ، پلازما ، شریانیں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بیضہ دانی ، میگنم ، استھمس ، قیف نما ، رحم&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "حرام مغز ، ہوا کی نالی ، دماغ ، غدودی معدہ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پتا ، جگر ، انڈا ، گردہ ، بڑی آنت",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574924",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "روڈ آئی لینڈ وائٹ&nbsp; نسل کی مرغیاں ہوتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "امریکن مرغیاں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بحیرہ روم کے خطے کی مرغیاں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انگلش مرغیاں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایشیائی خطے کی مرغیاں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574925",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بحیرہ روم کے خطے کی مرغیاں انڈے دیتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سرخ رنگ کے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بھورے رنگ کے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مٹیالے رنگ کے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سفید رنگ کے&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574926",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغیوں کی منار کانامی نسل تعلق رکھتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایشیائی خطے سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انگلش خطے سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بحیرہ روم کے خطے سے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "امریکن خطے سے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574927",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ایشیائی خطے کی مرغیاں موزوں نہیں ہوتیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انڈوں کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گوشت کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "غذائیت کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اقتصادی اعتبار سے&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574928",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "زیادہ انڈے دینے والی&nbsp; مرغیاں انڈے دینا شروع کر دیتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سولھویں ہفتے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اٹھارھویں ہفتے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بیسیویں ہفتے میں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چو بیسیوں ہفتے میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574929",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بین الا قوامی درجہ بندی کے حساب سے مرغیوں کی اقسام ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574930",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "امریکن نسل کی مرغیاں جو جدید نسل کشی میں استعمال ہوتی ہیں ۔ ان کی اقسام ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سات",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574931",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بحیرہ روم&nbsp; کے خطے کی مرغیوں کے انڈوں کا رنگ ہوتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بھورا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سفید",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مٹیالا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سرخ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574932",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انگلش نسل کی مرغیوں کا رنگ ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سرخ مائل",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سرخ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سفید",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کالا اور سفید&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574933",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انگلش نسل کی مرغیوں کے انڈوں کا رنگ ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سرخ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سفید",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کالا&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بھورا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574934",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈے دینے والے پرندوں کو سال میں کتنے انڈے دینے چاہییں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "150 سے زائد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "200 سے زائد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "300 سے زائد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "250 سے زائد&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574935",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "زیادہ گوشت دینے والی مرغیوں کی مشہور نسل ہے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "براہما",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کوچن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہبرڈ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "لینگ شان&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574936",
+      "chapter_id": "11549",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "برائلر مرغیاں کتنے عرصے میں فروخت کے قابل ہو جاتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "6 سے 10 ہفتے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 سے 8 ہفتے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "4سے 12 ہفتے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "4 سے 6 ہفتے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574964",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "چوزے حاصل کرنے کے لیے انڈے ہمیشہ ہونے چاہییں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "کم وزن&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "لمبوترے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بیضوی&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گول&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574965",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈوں کو ذخیرہ کرتے وقت ان کا گول سرا ہونا چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "اوپر کی جانب",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نیچے کی جانب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دائیں جانب",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بائیں جانب&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574966",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "اس مشین میں انڈوں کا اندرونی معائنہ کیا جاتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "درجہ بندی مشین&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تھر ما میٹر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کینڈ لنگ مشین&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574967",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہیچری کے فرق اور دیواروں کو دھونی دی جاتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "سپرے پمپ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہینڈ پمپ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پریشر پمپ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بلو پمپ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574968",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈے سینے کی مشین کو کہتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پریشر مشین&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹر",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "درجہ بندی مشین&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہیچری ٹرالی&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574969",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغبانی کی صنعت کا اہم ترین شعبہ ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ہیچری&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پریشر پمپ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انڈے سینا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574970",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انکیو بیٹر میں انڈے سینے کے لیے کتنے دن رکھے جاتے ہیں ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "22 دن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "21 دن&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "24 دن&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "20 دن&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574971",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مصنوعی طریقے سے بڑی تعداد میں چوزے حاصل کیے جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "کڑک مرغی سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "فارملین کی مدد سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹرز سے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بروڈنگ روم سے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574972",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ذخیرہ شدہ انڈوں کو کتنے درجہ حرارت کی ضرورت ہوتی ہے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "15 سے 20 سینٹی گریڈ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "20 سے 30 سینٹی گریڈ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "20 سے 25 سینٹی گریڈ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "18 سے 21 سینٹی گریڈ تک&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574973",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ہیچری کی عمارت میں کم از کم جگہیں لازمی بنائی جاتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پانچ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گیارہ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بارہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دس&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574974",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "دھونی دینے کے لیے ادویات استعمال ہوتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "آکسیجن&nbsp; گیس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "فارمل ڈی ہائیڈگیس",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "کاربن ڈائی آکسائیڈ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سوڈیم ہائیڈرو آکسائیڈ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574975",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انکیو بیٹر کی اقسام استعمال کی جاتی ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دو",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574976",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انکیو بیٹر میں انڈوں کو سیتے وقت درجہ حرارت کی ضرورت ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "80 تا 90 فارن ہائیٹ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "70 تا 80 فارن ہائیٹ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "50 تا 60 فارن ہائیٹ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "99.5 تا 103 فارن ہائیٹ تک&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "574977",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انکیو بیٹر میں انڈوں کو سیتے وقت درجہ حرارت کی ضرورت ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "60 سے 70 فیصد&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "40 سے 60 فیصد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "40 سے 65 فیصد&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "70 سے 80 فیصد&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "574978",
+      "chapter_id": "11550",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "قدرتی طریقہ سے مرغیوں میں انڈے سینے کا دورانیہ ہوتا ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "18 دن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "21 دن&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "20 دن",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "24 دن&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575002",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کے شیڈ کی مثالی لمبائی ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "تیس فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پچاس فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "اسی فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سو فٹ&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575003",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "تازہ ہوا شیڈ کو اندر سے ہمیشہ رکھتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "نرم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گرم",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خشک",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تر",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575004",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ریگستانی علاقوں میں مرغیوں کے شیڈ کی چھت کی اونچائی ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "14 فٹ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "8 فٹ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575005",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "برائلر چوزوں کے لیے رہائشی کمروں کا درجہ حرارت فارن ہائیٹ&nbsp; میں ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چالیس سے پچاس ڈگری",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پچاس سے ساٹھ ڈگری&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ساٹھ سے ستر ڈگری&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نوے سے سوڈگری&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575007",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "برائلر چوزوں اور پرندوں کو متواتر روشنی دی جاتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "12 گھنٹے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "16 گھنٹے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "18 گھنٹے",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "24 گھنٹے&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575008",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی عمارت کا بنیادی مقصد ہے اس میں موجود پرندوں کو&nbsp;",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "جنگی جانوروں سے بچایا جائے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بیرونی خطرات سے بچایا جائے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جراثیم سے محفوظ رکھا جائے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مذکورہ تمام&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575010",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "شیڈ کی جگہ عام زمین کی نسبت اونچی ہونی چاہیے تاکہ آسانی سے ہو سکے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "مرغی خانے کی صفائی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انڈوں کا حصول",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "نکاسی آب&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مرغیوں کی پرورش&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575011",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "گردونواح میں پہلے سے بہت زیادہ مرغی خانے اکثر باعث بنتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "شرح اموات میں اضافہ کا",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چوزوں کی ترسیل کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "صحت مند پرندوں کا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "زرخیز انڈوں کے حصول کا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575012",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانہ ایسی جگہ بنائیں جہاں آسانی سے دستیاب ہوں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "بجلی ، سٹرک",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مزدور ، خوراک",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانی ، ادویات&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مذکورہ تمام",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575013",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی چوڑائی ہونی چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "15 سے 20 فٹ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "30 سے 40 فٹ تک&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "25 سے 30 فٹ تک&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "40 سے 50 فٹ تک&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575014",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مثالی شیڈ کی لمبائی ہونی چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "250 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "100 فٹ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "175 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "200 فٹ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575015",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "اگر شیڈ کی چوڑائی زیادہ ہوتو مشکل ہو جاتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انتظامی امور چلانا&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کو بیماریوں سے بچانا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندوں کی پرورش کرنا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انڈے اکٹھے کرنا&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575016",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی عمارت کی لمبائی کس رخ پر ہونی چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "شمالا جنوبا",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "جنوب کی طرف",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مغرب ، مشرق کی طرف",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "شمال کی طرف&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575017",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کا فرش زمین سے کتنا اونچا ہونا چاہیے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "2 سے 4 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "2 سے 3 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "1سے 2فٹ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "3 سے 4 فٹ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575018",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی عمارت میں چاردیواری سے اوپر کتنی اونچائی تک مرغا جالی لگانی چاہیے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "8 فٹ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "7 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "4 فٹ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575019",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی چھت عموما کتنی اونچی ہوتی ہے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "8 سے 12 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6سے 8 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "9 سے 12 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10سے 12 فٹ&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575020",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی چھت کو سہارا دینے کے لیے ستون کی موٹائی کم از کم ہونی چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "1 مربع فٹ&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "3 مربع فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "11/2 مربع فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "2 مربع فٹ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575021",
+      "chapter_id": "11551",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغی خانے کی چھت کو سہارا دینے کے لیے ستونوں کا درمیانی فاصلہ کتنا ہونا چاہیے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "8 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10 فٹ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "7 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12 فٹ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575033",
+      "chapter_id": "11559",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "سستی ترین حیوانی لحمیات ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انڈے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دودھ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "برائلر گوشت",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بکرے کا گوشت&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575034",
+      "chapter_id": "11559",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "کنٹرول فارم بنانے کے لیے ضروری ہے کہ جگہ دور ہو ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "پہاڑی علاقے سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہر قسم کی آبادی سے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سمند رسے&nbsp;&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "صحرا سے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575035",
+      "chapter_id": "11559",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "کنٹرول شیڈ کی گنجائش برائلر پرندوں کو پالنے کےلیے موزوں ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "تیس ہزار",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چالیس ہزار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پچاس ہزار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک لاکھ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575036",
+      "chapter_id": "11559",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "برائلر مرغیوں کے شیڈ کی موزوں ترین اونچائی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "4 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "5 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 فٹ&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "8 فٹ&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575037",
+      "chapter_id": "11559",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "شیڈ میں کولنگ پیڈ استعمال ہوتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چار سے چھے انچ موٹائی والے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ سے سات انچ موٹائی والے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھے سے آٹھ انچ موٹائی والے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "آٹھ سے دس انچ موٹائی والے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575053",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مصنوعی ماں ایک طرح کا سادہ ہیٹر ہوتی ہے جس کے ساتھ لگی ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چھتری&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھڑی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھری&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھابی&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575054",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "چوزوں کو گتے کے ڈھکن میں خوراک دی جاتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایک سے دو دن کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دو سے تین دن کے لیے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک ہفتے کے لیے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک مہینے کے لیے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575055",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ایک چھوٹے ڈربے کی چوڑائی ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "چھے سے آٹھ انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پانچ سے سات انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "سات سے نو انچ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "دس سے بارہ انچ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575056",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "چونچ کا ٹنے کے بعد مرغیوں کو دشواری نہیں ہوتی ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "انڈے دینے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "خوراک استعمال کرنے میں&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک سے دوسری جگہ جانے میں&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "وزن بڑھانے میں&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575057",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغیوں کو زخمی ہونے سے بچانے کے لیے دوسری مرغیوں کی چونچ کا حصہ کاٹ دیا جاتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "1/2",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "2/3",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "3/4",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "1/3",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575058",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "چوزوں کو ابتدائی دنوں میں درجہ حرارت مہیا کیا جاتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایندھن سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "انکیو بیٹرز سے&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بروڈر سے&nbsp;",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ہیچری سے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575059",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مصنوعی ماں دراصل ہوتاہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "ایک کمرہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک ڈربہ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک عمارت",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "ایک ہیٹر جس کے ساتھ چھتری لگی ہوتی ہے&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575060",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مصنوعی ماں بچوں کو حرارت دینے کے لیے استعمال کرتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "کوئلہ ، لکڑی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "بجلی&nbsp;",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گیس",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "مذکورہ تمام&nbsp;",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "575061",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بروڈر میں کم سے کم چوزے پالنے کی صلاحیت ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "150",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "250",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "200",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "300",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575062",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "بروڈر میں مصنوعی طریقے سے ایک وقت میں زیادہ سے زیادہ چوزے پالے جا سکتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "1000",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "2000",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6000",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "4000",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575063",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "پرندوں کو خوراک دینے والے برتن کی اونچائی ہونی چاہیے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "2 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "3 فٹ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پرندے کی کمر کے برابر",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "4 فٹ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575064",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مرغیوں کے پانی کے لیے عام اور اہم قسم کے برتن ہوتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "دو",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چار",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "تین",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "چھ&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575065",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈوں کے حصول کے لیے استعمال ہونے والا ڈربہ کتنا گہرا ہوتاہے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "10 انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12 انچ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "8انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 انچ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575066",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "مصنوعی گھونسلے کی اونچائی عموما ہوتی ہے ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "10 سے 12 انچ",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "6 سے 12 انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "12 سے 14 انچ",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "10 سے 14 انچ",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575067",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "انڈے اکٹھے کرنے والی ٹرے کس چیز کی بنی ہوتی ہے ؟",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "جستی چادر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "لوہے کی چادر",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "پلاسٹک",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "",
+          "option_ur": "گتے&nbsp;",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "575068",
+      "chapter_id": "11552",
+      "topic_id": "0",
+      "exercise": "",
+      "medium": "2",
+      "statement_en": "",
+      "statement_ur": "ایک ٹرے میں تقریبا انڈے آتے ہیں ۔",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "",
+          "option_ur": "24",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "36",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "18",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "",
+          "option_ur": "30",
+          "is_correct": "1"
+        }
+      ]
+    }
+  ]
+}

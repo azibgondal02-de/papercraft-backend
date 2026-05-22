@@ -1,0 +1,75 @@
+{
+  "sections": [
+    {
+      "key": "objective",
+      "title": "Objective",
+      "order": 1,
+      "is_addable": false,
+      "has_solve_field": false,
+      "question_types": [
+        {
+          "type_id": 1,
+          "name": "MCQS",
+          "total_available": 442
+        }
+      ]
+    },
+    {
+      "key": "subjective_without_board_pattern",
+      "title": "Subjective Without Board Pattern",
+      "order": 2,
+      "is_addable": false,
+      "has_solve_field": true,
+      "question_types": [
+        {
+          "type_id": 738,
+          "name": "Short Question same statement",
+          "total_available": 300
+        },
+        {
+          "type_id": 12,
+          "name": "Long Question",
+          "total_available": 210
+        }
+      ]
+    },
+    {
+      "key": "short_questions_according_to_board_pattern",
+      "title": "Short Questions According to Board Pattern",
+      "order": 3,
+      "is_addable": true,
+      "has_solve_field": true,
+      "question_types": [
+        {
+          "type_id": 738,
+          "name": "Short Question same statement",
+          "total_available": 300
+        }
+      ]
+    },
+    {
+      "key": "long_question_according_to_board_pattern",
+      "title": "Long Question According To Board Pattern",
+      "order": 4,
+      "is_addable": true,
+      "has_solve_field": true,
+      "config": {
+        "solve_max": 100,
+        "choice_options": [
+          1,
+          2
+        ],
+        "parts": [
+          "A",
+          "B"
+        ]
+      },
+      "question_types": [
+        {
+          "type_id": 12,
+          "name": "Long Question"
+        }
+      ]
+    }
+  ]
+}

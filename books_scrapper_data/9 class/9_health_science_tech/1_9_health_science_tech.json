@@ -1,0 +1,3245 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "722460",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "A person feels weak but medical tests are normal this is",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "A disease",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "A disorder",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "An illness",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "An infection",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722461",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the best definitions of health",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "No illness or disease",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "A fit and active body",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Physical,mental, and social well-being",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Abilty to do daily tasks",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722462",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "A person exercises but feels lonely. What is affected",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Physical health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mental health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Social health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Emotional health",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722465",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Lack of clean water mostly can affect;",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Physical health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Social health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mental health",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Emotional health",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722472",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which disease spreads from person to person",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Diabetes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Influenza",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Hypertenison",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cancr",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722486",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which statement is correct for non-communicable diseases",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Cannot spread from person to person",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Caused by bacteria and viruses",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Treated with antibiotics",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Spread through air and water",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722493",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of these is a communicab disesse",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Asthma",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stroke",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Tuberculosis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Arthritis",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722496",
+      "chapter_id": "14394",
+      "topic_id": "5793",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which method best controls non-communicable of diseases?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Health lifesty leand early screenine",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Taking antionatics",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wearing masks",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Avoiding public places",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722959",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The function of the small intestine is:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Absorption of water",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Absorption of nutrients",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Secretion of bile",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Storage of waste",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722960",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which argan produces bile?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Pancreas",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stomach",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Liver&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Small intestine",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722961",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which diagnostic procedure uses a flexible tube to examine the GI tract?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "X-ray&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Endoscopy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "MRI",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "CT scan",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722964",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What role does the liver play in digestion?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Absorbing nutrients",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Producing digestive enzymes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Producing bile",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Breaking down proteins",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722969",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What the main function of the large intestine?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Digest proteins",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Absorb water and electrolytes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Break down fats",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Produce digestive enzymes",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722974",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which pathogen causes typhoid fever?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Vibrio cholerae&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Salmonella Typhi",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "E. coli",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Entamoeba histolytica",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722985",
+      "chapter_id": "14395",
+      "topic_id": "5794",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is a risk factor for GERD?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Eating large meals before bed&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excessive fibre intake&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Drinking water frequently",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High intake of protein",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723253",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which part of the respiratory system is responsible for gas exchange?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Trachea&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Bronchi",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Alveoli",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Pharynx",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723257",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the function of the diaphgram?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To filter the air",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To exchange gases",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To control the expansion and contraction of the lungs",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To produce mucus",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723262",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How does pneumonia affect the lungs?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "It fills the alveoli with fluid",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It removes mucus from the airways",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It increases oxygen levels in the blood&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "It strenthens the lung tissues",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723266",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which respiratory infection can spread through contaminated surfaces and direct contact?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Tuberculosis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "COVID -19",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Asthma&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Pneumonia",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723270",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the mode of transmission for influenza?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Mosquito bites",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Direct contact with contaminated blood",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Respiratory droplets from cough and sneezes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Insect bites",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723273",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the common symptom of tuberculosis?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Short-term headache",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Persistent cough lasting more then three weeks",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Skin rash&nbsp;",
+          "option_ur": "s",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Increased appetite",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723281",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is the best way to prevent the spread of COVID-19?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Taking antibiotics regularly",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Wearing masks and practicing social distancing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Avoiding all fruits and vegetables",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sleeping for more then 12 hours a day",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723283",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following can be diagnosed using pulmonary function tests?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Diabetes&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Asthma and COPD",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Liver cirrhosis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High blood pressure",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723290",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which imaging technique uses strong magnetic fields and radio waves to create detailed images to soft tissues in the lungs?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "CT scan&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "MRI",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "PET scan",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "X-ray",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "723293",
+      "chapter_id": "14396",
+      "topic_id": "5795",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which condition may require oxygen therapy?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Anaemia",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Chronic respiratory diseases&nbsp;",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High blood sugar",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Kidney stones",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841732",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the main function of the circulatory system?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To filter waste products",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To transport oxygen and nutrients",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To regulate body temperature",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To digest food",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841733",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which blood vessels carry blood away from the heart to the other parts of the body?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Veins",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Arteries",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Capillaries",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Lymphatic vessels",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841734",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the term for high blood pressure?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Coronary artery disease",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Heart failure",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Hypertension",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Angina",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841735",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following is a risk factor for coronary artery disease?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Regular exercise",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "High cholesterol",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Low blood pressure",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Healthy diet",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841736",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which diagnostic test measures the electrical activity of the heart?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Angiogram",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stress test",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "ECG (Electrocardiogram)",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "X-ray",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841737",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is a common symptom of heart failure?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Chest pain",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Shortness of breath",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Nausea",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Increased appetite",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841738",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which lifestyle change can help prevent heart disease?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Smoking",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Eating a high-fat diet",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Regular physical activity",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Excessive alcohol consumption",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841739",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "An angiogram helps in diagnosing heart conditions by:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Using sound waves to check heart function",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Monitoring electrical signals of the heart",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Detecting the presence of blockages in blood vessels",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Measuring blood pressure over time",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841740",
+      "chapter_id": "14397",
+      "topic_id": "5796",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is a major complication of untreated hypertension?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Heart attack",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Low blood sugar",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excessive sweating",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Weight loss",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841749",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "The kidneys play a role in maintaining homeostasis. They regulate:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "The levels of glucose in the blood",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "The concentration of waste products, water, and salts",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "The production of white blood cells in response to infections",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "The breakdown of fats for energy",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841750",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which bacteria is the most common cause of UTIs?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Streptococcus pneumoniae",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Escherichia coli (E. coli)",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Mycobacterium tuberculosis",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Salmonella typhi",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841751",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of these is a UTI of kidneys?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Urethritis",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Cystitis",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Pyelonephritis",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Nephritis",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841752",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the purpose of lithotripsy in kidney stone treatment?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Breaks stones",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Removes stones surgically",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Dissolves stones with drugs",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Prevents new stones",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841753",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which lab test helps to diagnose Chronic Kidney Disease (CKD)?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Blood glucose test",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Serum creatinine test",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Liver function test",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Haemoglobin test",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841754",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the main characteristic of Acute Kidney Injury (AKI)?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sudden kidney damage",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Gradual kidney failure",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Permanent kidney loss",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Infection-related damage",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841755",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following is a key difference between AKI and CKD?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "AKI is slow, CKD is sudden",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "AKI is permanent, CKD is reversible",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "AKI is reversible, CKD is progressive",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "AKI occurs only in elderly people",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841756",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which lab result is most commonly elevated in both AKI and CKD?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Blood glucose",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Serum creatinine",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Platelet count",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Haemoglobin level",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841757",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which blood test is most useful for assessing kidney function?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Haemoglobin test",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Liver enzyme test",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Serum creatinine test",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Cholesterol test",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841758",
+      "chapter_id": "14398",
+      "topic_id": "5797",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the normal range of serum creatinine in healthy adults?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "0.1-0.3 mg/dL",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "0.5-1.2 mg/dL",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "2.0-3.5 mg/dL",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "4.0-5.5 mg/dL",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841770",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What does the &quot;D&quot; in DRABC stand for?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Diagnosis",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Danger",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Delivery",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Duration",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841771",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following is NOT a sign of cardiac arrest?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Sudden collapse",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Chest pain",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Bluish skin",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Dizziness",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841772",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the first step in CPR for an adult?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Start chest compressions",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Call emergency services",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Open the airway",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Provide rescue breaths",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841773",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the correct compression depth for CPR on an adult?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "1 inch",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "2 inches",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "3 inches",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "4 inches",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841774",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which type of wound is caused by friction?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Laceration",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Puncture",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Abrasion",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Incision",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841775",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which method is used for a suspected muscle or tendon injury?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "R.I.C.E",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "A.B.C",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "D.R.A",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "I.C.E",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841776",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of these agencies provides first aid services in Punjab?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Rescue 1122",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Edhi Foundation",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Pakistan Red Crescent",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "All of the above",
+          "option_ur": null,
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "841777",
+      "chapter_id": "14399",
+      "topic_id": "5798",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What should you do if you find a person with a suspected spinal fracture?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Move them to a safe place",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Immobilize the person and call for help",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Apply cold therapy",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Encourage movement",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841787",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the primary purpose of Physical Education?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To entertain students",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To promote physical fitness and health",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To teach academic subjects",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To prepare students for competitive sports",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841788",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following is a benefit of regular exercise?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Increased stress and anxiety",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Improved cardiovascular health",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Decreased muscle strength",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Poor posture",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841789",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What does the &quot;I&quot; in the RICE method stand for?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Ice",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Injury",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Intensity",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Ignition",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841790",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which exercise primarily strengthens the core?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Squats",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Push-ups",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Plank",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Walking lunges",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841791",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What does overexertion during physical activity increase the risk of?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Better performance",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Heart attack and muscle strain",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Enhanced endurance",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Improved flexibility",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841792",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is one of the benefits of strength training?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Decreases muscle size",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Increases endurance",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Reduces bone density",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Decreases flexibility",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841793",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following can improve metabolic health?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Regular exercise",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Poor diet",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Lack of sleep",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sedentary lifestyle",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841794",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Why is maintaining proper posture important during exercises like squats?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "To increase speed",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To prevent strain on joints and muscles",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "To reduce flexibility",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "To improve muscle hypertrophy",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841795",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What can poor posture during exercise lead to?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Reduced risk of injuries",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Muscle imbalances and joint damage",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Faster recovery",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Improved heart health",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841796",
+      "chapter_id": "14400",
+      "topic_id": "5799",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of these exercises is recommended to improve lower body strength and balance?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Push-ups",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Walking lunges",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Bicycle crunches",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mountain climbers",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841806",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Why are fats essential despite being high in calories?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Store vitamins and energy",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Main energy source",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Aid protein digestion",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Regulate water balance",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841807",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Why are proteins important?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Main energy source",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Build and repair tissues",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Store energy",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Needed only for muscles",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841808",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Pale skin and fatigue suggest a deficiency of?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Vitamin A",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Calcium",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Iron",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Protein",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841809",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which food group helps in muscle growth and repair?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Vegetables",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Fruits",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Meat, pulses, and eggs",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Oil and fat",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841810",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Why should oil and fats be consumed in moderation?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "They contain no nutrients",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "They can cause muscle loss",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Excess intake leads to obesity and heart diseases",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "They reduce calcium absorption",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841811",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which dietary habit increases the risk of diabetes?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Eating a balanced diet",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Drinking plenty of water",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Consuming too much sugar and refined carbohydrates",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Eating high-fibre foods",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841812",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is the main cause of stunting in children?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Lack of sleep",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Chronic malnutrition",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Excessive sugar intake",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Too much physical activity",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841813",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Why is anaemia more common in young children and women?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Due to high iron requirements and low intake",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Due to excessive protein consumption",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Because they eat too many carbohydrates",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Because they drink too much water",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841814",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "Which of the following is a key sign of wasting?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Excess fat accumulation",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Severe weight loss and muscle thinning",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "High blood pressure",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Increased appetite",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "841815",
+      "chapter_id": "14401",
+      "topic_id": "5800",
+      "exercise": "",
+      "medium": "1",
+      "statement_en": "What is a major health risk associated with obesity?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "0",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Improved digestion",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Stronger immune system",
+          "option_ur": null,
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Increased risk of heart disease and diabetes",
+          "option_ur": null,
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Higher bone density",
+          "option_ur": null,
+          "is_correct": "0"
+        }
+      ]
+    }
+  ]
+}

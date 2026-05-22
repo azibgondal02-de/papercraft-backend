@@ -1,0 +1,4045 @@
+{
+  "Success": "true",
+  "Record": [
+    {
+      "id": "721936",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the significance of colour in fashion?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "It has no effect on emotions",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Colours influence mood and perception",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Designers randomly pick colours without meaning",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Fashion only uses neutral colours",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721937",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following describes &lsquo;fast fashion&rsquo;?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "no impact on the economy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "widespread accessibility",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "only benefits rich designers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cuses only on traditional wear",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721944",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which category of fashion focuses on high-end, premium clothing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Fast Fashion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Haute Couture",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Streetwear",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Athleisure",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721945",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How does fashion connect to history?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "oes not change over time",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "only focuses on the future",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "only focuses on the future",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "only about personal choice",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721947",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Why is traditional clothing like the shalwar kameez important?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "it represents culture and heritage",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "it is only worn by older people",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "it is outdated and not used anymore",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "it is only for festivals",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721948",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How do celebrities and social media affect fashion?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "make trends popular faster",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "do not impact fashion at all",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "stop people from buying",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "promote expensive clothes",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721949",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How does fashion help the economy?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "no impact on the economy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "creates jobs in design and retail",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "only benefits rich designers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "only affects celebrities",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721950",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which factor does not influence fashion?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "weather and geography",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "social and cultural trends",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "the number of shopping malls",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "technology",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "721952",
+      "chapter_id": "14448",
+      "topic_id": "5834",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main purpose of fashion in society?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to make people dress the same",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to follow strict rules",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to sell expensive clothes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to show culture and identity",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "721997",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Hue refers to which color family?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "red, blue, yellow",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "red, blue, yellow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "red, blue, purple",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "red, blue, pink",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722003",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an example of Silhouette?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "lines",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "form",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "shape",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722012",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an example of Tertiary colour?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "red",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "green",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "yellow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "red-violet",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722013",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an example of Secondary colour?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "red",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "green",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "yellow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "blue",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722015",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an example of Primary colour?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "red",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "green",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "yellow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a) red, c) yellow, d) blue",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722019",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which element of design gives an object a three-dimensional look?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "form",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "colour",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722023",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of shape is created using precise mathematical measurements?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "geometric shape",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "organic shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "abstract shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "freehand shape",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722032",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of line creates a sense of movement and energy?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "straight line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "curved line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "zig-zag line",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "parallel line",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722038",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a line?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "a part of texture",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a continuous mark connecting two points",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "a type of color scheme",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a three-dimensional objec",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722044",
+      "chapter_id": "14449",
+      "topic_id": "5835",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is NOT an element of design?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "formula",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "texture",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722071",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What does scale refer to?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "size",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "proportion",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "height",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722075",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How many types of rhythm exist?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "3",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "4",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "2",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "6",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722081",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which principle of design is often seen in graphic patterns?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "contrast",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "repetition",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "balance",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "movement",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722086",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Rhythm in design creates a sense of:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "stability",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "movement and flow",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "randomness",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "proportion",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722092",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Repetition in design is primarily used to:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "create randomness",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "add chaos to the composition",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "maintain structure",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "increase contrast",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722096",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What principle ensures all elements in a design work together cohesively?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "contrast",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "harmony",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "movement",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "scale",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722102",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How does proportion influence design?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "by maintaining unity between different elements",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "by making one element more noticeable than others",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "by establishing size relationships among design components",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "by creating repetition within the design",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722104",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The relative size of elements in a composition refers to which principle?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "scale",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "rhythm",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "contrast",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "balance",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722108",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What principle of design guides the viewer&rsquo;s eye through a composition?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "scale",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "balance",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "movement",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "proportion",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722109",
+      "chapter_id": "14450",
+      "topic_id": "5836",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which principle of design creates visual interest by using opposing elements like colour, texture, or shape?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "harmony",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "contrast",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "repetition",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "proportion",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722125",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What kind of headdresses they used to wear?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "fancy and decorative",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "small and delicate",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "soft and luxurious",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "none of the above",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722127",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What was the basic source of survival for the people of Indus Valley Civilization?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "agriculture",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "trade",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "stone crafting",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "black magic",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722128",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Who discovered Indus Valley Civilization during a digging process in 1921&ndash;22?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Al-Razi",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Thomas Edison",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Sir John Hubert Marshall",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Einstein",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722130",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What materials were mainly used to make garments in the Indus Valley Civilization?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "synthetic",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "jacquard",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cotton",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "acrylic",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722132",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which Sewing tool was used for stitching garments in The Mehrgarh period?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "bone needles",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "sewing machines",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "axes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "weaving machines",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722133",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What kind of dresses were worn by the females of Indus Valley Civilization?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "shirt and Trousers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cloaks, skirts and scarfs",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "ball Gowns",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "blouses",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722134",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What are the type of shapes made on the tunic of the priest king?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "trefoil shapes",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "triangular shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "abstract shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cuboids",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722136",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of jewelry was worn in the Mehrgarh period?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "anklets and Bracelets",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "nath",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "nose pins",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "brooches",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722137",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is a Tunic?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "bracelet",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "ring",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "headgear",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "long skirt",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722138",
+      "chapter_id": "14451",
+      "topic_id": "5837",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is NOT a city of Indus Valley Civilization?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Harappa",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mohenjo-Daro",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Mehrgarh",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Egypt",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722153",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The Iraghi cap is made with what kind of ornament?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "jewellery piece",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a bird form",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "3D flower forms",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "clay Seals",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722154",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What kind of wood is used for wooden handicrafts in Gilgit Baltistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "oak wood",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "walnut wood",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "mango wood",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "none of the above",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722155",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What do Punjabi turbans represent?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Punjabi turban",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Jinnah cap",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Sindhi topi",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Chitrali cap",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722156",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of men&rsquo;s garment is worn in winters of Gilgit Baltistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "choga",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "shoti",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "choli",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "laacha",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722158",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which leather dyed and embroidered in a delicate chain stitch for the making of Footwear?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "dark-red or brown b) green",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "yellow",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "blue",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "all of these",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722159",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following technique is frequently practised in Sindh?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "crochet",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "phulkari",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "ralli work",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "mica work",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722160",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which region in Sindh is famous for wooden handicrafts, textiles, paintings, and handmade paper products?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Hyderabad",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Karachi",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Gothki",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Hala",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722161",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which is the best description for the technique of Ajrak?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "block printed geometric shapes",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "tie and die abstract shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "hand drawn floral shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "freehand drawings",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722162",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of material is used to create traditional ceramic pots in Punjab?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "marble",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "clay",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "zinc",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "plastic",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722163",
+      "chapter_id": "14452",
+      "topic_id": "5838",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the meaning of Phulkari?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "land of flowers",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "flower work",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "a type of color",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a part of the flower",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722179",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Why is object drawing important?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "draws figures",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "observes textures",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "replaces perspective",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "focuses on black and white",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722181",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of basic shapes?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "replace perspective",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "build structure",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "replace colours",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "replace colours",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722182",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is gesture drawing used for?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "capturing movement",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "realistic portraits",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "replacing colours",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "mixing colours",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722184",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What does composition refer to?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "mixing colours",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "mixing colours",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "studying 3d",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "human anatomy",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722185",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which perspective uses a single vanishing point?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "one point",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "two point",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "three point",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "multi point",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722187",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What does anatomy help artists achieve?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "abstract shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "realistic figures",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "garment colours",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "avoids movement",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722190",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Why is proportion important in drawing, especially in fashion design?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "balance elements",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "focuses on colour",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "ensures head size",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "avoids exaggeration",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722193",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is NOT an essential skill needed for drawing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "proportions",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "anatomy",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "perspective",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "coding",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722198",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "In fashion design, what is the term for quick fashion sketches used to visualize garment ideas?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "draping",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "croquis",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "croquis",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "blue print",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722201",
+      "chapter_id": "14453",
+      "topic_id": "5839",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary purpose of sketching?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "detailed art work",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "capturing ideas",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "shading focus",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "digital replacement",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722248",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is NOT a type of collar?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "peter-pan collar",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "peter-pan collar",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "flared collar",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "flared collar mandarin collar",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722255",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which sleeve is short and covers only the shoulder?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "cap sleeve",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "kimono sleeve",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cuff sleeve",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "bell sleeve",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722260",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of coat has two parallel rows of buttons?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "blazer",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "double-breasted coat",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "bomber jacket",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "single-breasted coat",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722269",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the first step when sketching a fashion croquis?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "adding garment details",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "drawing the body&rsquo;s proportions",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "colouring the design",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "shading the figure",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722276",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "The Peter Pan collar is best known for:",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "its sharp and pointed shape",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "its stand-up, stiff look",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "its rounded and soft edges",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "its long, folded-back lapels",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722291",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the difference between fashion drawing and illustration?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "fashion drawing is artistic, while fashion illustration is technical.",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "fashion illustration is more expressive and stylized.",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "fashion drawing does not follow proportions.",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "fashion illustration is only used for marketing.",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722297",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which element divides the upper and lower torso in figure drawing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "shoulder line",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "waistline",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "hip line",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "neckline",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722301",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How many heads tall is a standard fashion croquis?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "6 heads tall",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "7.5 heads tall9 heads tall",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "12 heads tall",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722302",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "How many heads tall is a standard fashion croquis?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "6 heads tall",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "7.5 heads tall9 heads tall",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "12 heads tall",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722309",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What does the term &ldquo;croquis&rdquo; refer to in fashion drawing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "a type of garment",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a template for fashion figures",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "a sewing technique",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "a specific fabric type",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722314",
+      "chapter_id": "14454",
+      "topic_id": "5840",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main purpose of fashion technical drawing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to create realistic portraits",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to communicate ideas clearly",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "to focus only on garment colors",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to design accessories only",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722359",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What are common uses of silk?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "winter clothing",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "heavy-duty ropes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "upholstery",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "luxury fabrics",
+          "option_ur": "",
+          "is_correct": "1"
+        }
+      ]
+    },
+    {
+      "id": "722362",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is wool primarily obtained from?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "silkworms",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "sheep",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "cotton plants",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "synthetic processes",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722365",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the main characteristic of polyester?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "biodegradability",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "high durability",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "absorbs moisture",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "requires handwashing",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722367",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following are associated with jute production?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "hessian cloth",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "parachutes",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "tents",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "carpets",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722372",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which of the following is an animal-based fiber?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "polyester",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cotton",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "silk",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "linen",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722374",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What was the impact of the Industrial Revolution on textiles?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "increased production",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "mechanized textile manufacturing",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "reduced cost",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "expansion of the cotton industry",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722379",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which part of the jute plant is used to obtain fiber?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "leaves",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "seeds",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "stem",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "roots",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722381",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Where is silk obtained from?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "silkworm",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "plant",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "seeds",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "all of the above",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722383",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which are the main areas where cotton is grown in Pakistan?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "Kashmir",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Kashmir",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "Gilgit",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "Balochistan",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722388",
+      "chapter_id": "14455",
+      "topic_id": "5841",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary source of cotton fiber?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "plant",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "wool sheep",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "silkworms",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "flax plant",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722432",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which type of fabric is natural?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "polyester",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "wool",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "wool",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "nylon",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722435",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Why is it important to use a thimble when hand sewing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to make stitches faster",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to prevent finger injuries",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "to improve thread strength",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to cut fabric easily",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722439",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of a basting stitch?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "create permanent seams",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "create permanent seams",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "&nbsp;to finish fabric edges",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to add decorative details",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722443",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which hand stitch is stronger and used for durable seams?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "running stitch",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "backstitch",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "hemming stitch",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cross-stitch",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722444",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which hand stitch is the simplest and commonly used for basic sewing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "running stitch",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "backstitch",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "slip stitch",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "over stitch",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722446",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the purpose of pressing in sewing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to remove stains",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to stretch fabric",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to create neat seams and shapes",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "to cut fabric precisely",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722447",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the first step in threading a needle?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "insert thread into fabric",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "cut thread 18 inches long",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "tie a knot at the end",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "start stitching immediately",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722449",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the function of a seam ripper?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to undo stitches",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "to hold fabric pieces together",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to finish fabric edges",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to press fabric",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722450",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "Which tool is used to measure fabric accurately?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "scissors",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "measuring tape",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "seam ripper",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "pin cushion",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    },
+    {
+      "id": "722452",
+      "chapter_id": "14456",
+      "topic_id": "5842",
+      "exercise": "",
+      "medium": "3",
+      "statement_en": "What is the primary purpose of sewing?",
+      "statement_ur": "",
+      "type_id": "1",
+      "exercise_question": "1",
+      "past_paper_questions": "0",
+      "answer_en": null,
+      "answer_ur": null,
+      "description_en": null,
+      "description_ur": null,
+      "paragraph_questions": null,
+      "afaq": "3",
+      "status": "1",
+      "status_pef": "1",
+      "is_table": "0",
+      "is_creative": "0",
+      "created_at": "2026-03-06 06:48:18",
+      "options": [
+        {
+          "option_en": "to decorate fabrics",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to join pieces of fabric together",
+          "option_ur": "",
+          "is_correct": "1"
+        },
+        {
+          "option_en": "to paint on fabric",
+          "option_ur": "",
+          "is_correct": "0"
+        },
+        {
+          "option_en": "to cut fabric into shapes",
+          "option_ur": "",
+          "is_correct": "0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "sections": [
+    {
+      "key": "objective",
+      "title": "Objective",
+      "order": 1,
+      "is_addable": false,
+      "has_solve_field": false,
+      "question_types": [
+        {
+          "type_id": 1,
+          "name": "MCQS",
+          "total_available": 217
+        },
+        {
+          "type_id": 7,
+          "name": "Form of verb",
+          "total_available": 129
+        },
+        {
+          "type_id": 9,
+          "name": "Choose the word with correct spelling",
+          "total_available": 395
+        },
+        {
+          "type_id": 8,
+          "name": "Underline word",
+          "total_available": 173
+        },
+        {
+          "type_id": 6,
+          "name": "Correct option according to the grammar",
+          "total_available": 112
+        },
+        {
+          "type_id": 14,
+          "name": "Present Correct form of verb",
+          "total_available": 80
+        },
+        {
+          "type_id": 15,
+          "name": "Past correct form of verb",
+          "total_available": 61
+        },
+        {
+          "type_id": 16,
+          "name": "Future correct form of verb",
+          "total_available": 41
+        }
+      ]
+    },
+    {
+      "key": "subjective_with_board_pattern",
+      "title": "Subjective With Board Pattern",
+      "order": 2,
+      "is_addable": false,
+      "has_solve_field": true,
+      "question_types": [
+        {
+          "type_id": 738,
+          "name": "Short Question same statement",
+          "total_available": 198,
+          "or_group_id": 738
+        },
+        {
+          "type_id": 104,
+          "name": "Summaries",
+          "total_available": 2,
+          "or_group_id": 104
+        },
+        {
+          "type_id": 105,
+          "name": "Translate into urdu",
+          "total_available": 88,
+          "or_group_id": 105
+        },
+        {
+          "type_id": 109,
+          "name": "Dialogue",
+          "total_available": 6,
+          "or_group_id": 109
+        },
+        {
+          "type_id": 107,
+          "name": "Letter",
+          "total_available": 15,
+          "or_group_id": 107
+        },
+        {
+          "type_id": 112,
+          "name": "Stories",
+          "total_available": 21,
+          "or_group_id": 112
+        },
+        {
+          "type_id": 116,
+          "name": "Reference to the context",
+          "total_available": 8,
+          "or_group_id": 116
+        },
+        {
+          "type_id": 113,
+          "name": "Comprehension Passage",
+          "total_available": 25,
+          "or_group_id": 113
+        },
+        {
+          "type_id": 118,
+          "name": "Voice of the following",
+          "total_available": 347,
+          "or_group_id": 118
+        },
+        {
+          "type_id": 680,
+          "name": "Write words / Phrases / Idioms (9th PTB)",
+          "total_available": 364,
+          "or_group_id": 680
+        },
+        {
+          "type_id": 293,
+          "name": "Grammar Questions",
+          "total_available": 179,
+          "or_group_id": 293
+        },
+        {
+          "type_id": 120,
+          "name": "Translate the sentence into English",
+          "total_available": 1273,
+          "or_group_id": 120
+        },
+        {
+          "type_id": 1479,
+          "name": "Meaning 9th PTB",
+          "total_available": 267,
+          "or_group_id": 1479
+        }
+      ],
+      "has_or_group": true,
+      "or_group_options": [
+        {
+          "type_id": 738,
+          "name": "Short Question same statement"
+        },
+        {
+          "type_id": 104,
+          "name": "Summaries"
+        },
+        {
+          "type_id": 105,
+          "name": "Translate into urdu"
+        },
+        {
+          "type_id": 109,
+          "name": "Dialogue"
+        },
+        {
+          "type_id": 107,
+          "name": "Letter"
+        },
+        {
+          "type_id": 112,
+          "name": "Stories"
+        },
+        {
+          "type_id": 116,
+          "name": "Reference to the context"
+        },
+        {
+          "type_id": 113,
+          "name": "Comprehension Passage"
+        },
+        {
+          "type_id": 118,
+          "name": "Voice of the following"
+        },
+        {
+          "type_id": 680,
+          "name": "Write words / Phrases / Idioms (9th PTB)"
+        },
+        {
+          "type_id": 293,
+          "name": "Grammar Questions"
+        },
+        {
+          "type_id": 120,
+          "name": "Translate the sentence into English"
+        },
+        {
+          "type_id": 1479,
+          "name": "Meaning 9th PTB"
+        }
+      ]
+    }
+  ]
+}

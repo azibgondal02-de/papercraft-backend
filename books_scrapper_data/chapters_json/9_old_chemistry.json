@@ -1,0 +1,343 @@
+[
+  {
+    "chapter_id": "4543",
+    "chapter_name_en": "1: Fundamental of Chemistry",
+    "chapter_name_ur": "1: کیمسٹری کے بنیادی اصول",
+    "topics": [
+      {
+        "id": "194",
+        "name_en": "1.1 Branches of Chemistry",
+        "name_ur": "1.1 کیمسٹری کی شاخیں "
+      },
+      {
+        "id": "196",
+        "name_en": "1.2 Basic Definitions",
+        "name_ur": "1.2 بنیادی تعریفیں "
+      },
+      {
+        "id": "197",
+        "name_en": "1.3 Chemical Species",
+        "name_ur": "1.3 کیمیکل انواع"
+      },
+      {
+        "id": "199",
+        "name_en": "1.4 Gram Atomic Mass, Gram Molecular Mas...",
+        "name_ur": "1.4 گرام اٹامک ماس ، گرام مالیکیولر ماس اور گرام فارمولا ماس"
+      },
+      {
+        "id": "200",
+        "name_en": "1.5 Avogrados Number and Mole",
+        "name_ur": "1.5 ایووگیڈروز نمبر اور مول"
+      },
+      {
+        "id": "202",
+        "name_en": "1.6 Chemical Calculations",
+        "name_ur": "1.6 کیمیکل کیلکو لیشنز"
+      },
+      {
+        "id": "524",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "533",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1834",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4559",
+    "chapter_name_en": "3: Periodic Table and Periodicity of Properties",
+    "chapter_name_ur": "3: پیریا ڈک اور خصوصیات کی پیریاڈیسٹی",
+    "topics": [
+      {
+        "id": "215",
+        "name_en": "3.1 Periodic Table",
+        "name_ur": "3.1 پیریاڈک ٹیبل"
+      },
+      {
+        "id": "217",
+        "name_en": "3.2 Periodicity of Properties",
+        "name_ur": "3.2 خصوصیات کی پیریاڈیسٹی"
+      },
+      {
+        "id": "526",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "1837",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4563",
+    "chapter_name_en": "5: Physical State of Matter",
+    "chapter_name_ur": " 5: مادے کی طبعی حالتیں",
+    "topics": [
+      {
+        "id": "228",
+        "name_en": "5.1 Gaseous State:Typical Properties",
+        "name_ur": "5.1 گیسی حالت : خاص خصوصیات"
+      },
+      {
+        "id": "230",
+        "name_en": "5.2 Laws Related to Gases",
+        "name_ur": "5.2 گیسز کے متعلق قوانین"
+      },
+      {
+        "id": "232",
+        "name_en": "5.3 Typical Properties",
+        "name_ur": "5.3 اہم خصوصیات"
+      },
+      {
+        "id": "414",
+        "name_en": "5.4 Typical Properties  of liquids",
+        "name_ur": "5.4 مائع حالت کی اہم خصوصیات"
+      },
+      {
+        "id": "236",
+        "name_en": "5.5 Types of Solids",
+        "name_ur": "5.5 ٹھوس کی اقسام"
+      },
+      {
+        "id": "238",
+        "name_en": "5.6 Allotropy",
+        "name_ur": "5.6 ایلو ٹروپی"
+      },
+      {
+        "id": "528",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "534",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1842",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4566",
+    "chapter_name_en": "7: Electrochemistry",
+    "chapter_name_ur": "7: الیکٹرو کیمسٹری ",
+    "topics": [
+      {
+        "id": "340",
+        "name_en": "7. Introduction",
+        "name_ur": "7. تعارف"
+      },
+      {
+        "id": "341",
+        "name_en": "7.1 Oxidation and reduction reactions",
+        "name_ur": "7.1 آکسیڈیشن اور ریڈکشن ری ایکشنز"
+      },
+      {
+        "id": "342",
+        "name_en": "7.2 Oxidation state and rules for assign...",
+        "name_ur": "7.2 آکسیڈیشن سٹیٹ اور اس کی تفویض کے قواعد"
+      },
+      {
+        "id": "345",
+        "name_en": "7.3 Oxidizing and reducing agents",
+        "name_ur": "7.3 آکسیڈائزنگ اور ریڈیو سنگ ایجنٹس"
+      },
+      {
+        "id": "347",
+        "name_en": "7.4 Oxidation-Reduction reactions",
+        "name_ur": "7.4 آکسیڈیشن ۔ ریڈکشن ری ایکشنز"
+      },
+      {
+        "id": "349",
+        "name_en": "7.5 Electrochemical cells",
+        "name_ur": "7.5 الیکٹروکیمیکل سیل"
+      },
+      {
+        "id": "351",
+        "name_en": "7.6 Electrochemical Industries",
+        "name_ur": "7.6 الیکٹروکیمیکل صنعتیں "
+      },
+      {
+        "id": "353",
+        "name_en": "7.7 Corrosion and its prevention",
+        "name_ur": "7.7 کروژن اور اس کے بچاؤ"
+      },
+      {
+        "id": "530",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "1840",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4540",
+    "chapter_name_en": "2: Structure of Atoms",
+    "chapter_name_ur": "2: ایٹم کی ساخت",
+    "topics": [
+      {
+        "id": "206",
+        "name_en": "2.1 Theories and Experiments Related to ...",
+        "name_ur": "2.1 ایٹم کی ساخت سے متعلق تھیوریز اور تجربات"
+      },
+      {
+        "id": "208",
+        "name_en": "2.2 Electronic Configuration",
+        "name_ur": "2.2 الیکٹرونک کنفگریشن "
+      },
+      {
+        "id": "211",
+        "name_en": "2.3 Isotopes",
+        "name_ur": "2.3 آئسوٹوپس"
+      },
+      {
+        "id": "525",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "1835",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4561",
+    "chapter_name_en": "4: Structure of Molecules",
+    "chapter_name_ur": "4: مالیکولز کی ساخت",
+    "topics": [
+      {
+        "id": "220",
+        "name_en": "4.1 Why do Atoms Form Chemical Bonds",
+        "name_ur": "4.1 ایٹمز کیمیکل بانڈ کیوں بناتے ہیں ؟"
+      },
+      {
+        "id": "221",
+        "name_en": "4.2 Chemical Bond",
+        "name_ur": "4.2 کیمیکل بانڈ"
+      },
+      {
+        "id": "222",
+        "name_en": "4.3 Types of Chemical Bond",
+        "name_ur": "4.3 کیمیکل بانڈز کی اقسام "
+      },
+      {
+        "id": "223",
+        "name_en": "4.4 Intermolecular Forces",
+        "name_ur": "4.4 انٹر مالیکیولر فورسز"
+      },
+      {
+        "id": "224",
+        "name_en": "4.5 Nature of Bonding and Properties",
+        "name_ur": "4.5 بانڈنگ کی نوعیت اور خصوصیات"
+      },
+      {
+        "id": "527",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "1838",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4747",
+    "chapter_name_en": "6: Solutions",
+    "chapter_name_ur": "6: سلوشنز",
+    "topics": [
+      {
+        "id": "334",
+        "name_en": "6.1 Solution",
+        "name_ur": "6.1 سلوشن"
+      },
+      {
+        "id": "335",
+        "name_en": "6.2 Saturated Solution",
+        "name_ur": "6.2 سیچوریٹڈ سلوشن"
+      },
+      {
+        "id": "336",
+        "name_en": "6.3 Types of Solution",
+        "name_ur": "6.3 سلوشن کی اقسام"
+      },
+      {
+        "id": "337",
+        "name_en": "6.4 Concentration Units",
+        "name_ur": "6.4 کنسنٹریشن یونٹس"
+      },
+      {
+        "id": "338",
+        "name_en": "6.5 Solubility",
+        "name_ur": "6.5 سولوبیلٹی"
+      },
+      {
+        "id": "339",
+        "name_en": "6.6 Comparison of Solution ,Suspension a...",
+        "name_ur": "6.6 سلوشن ، سسپنشن اور کولائڈز کا موازنہ"
+      },
+      {
+        "id": "529",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "535",
+        "name_en": "Numerical",
+        "name_ur": "نومیریکل "
+      },
+      {
+        "id": "1841",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  },
+  {
+    "chapter_id": "4568",
+    "chapter_name_en": "8: Chemical Reactivity",
+    "chapter_name_ur": "8: کیمیکل ری ایکٹویٹی",
+    "topics": [
+      {
+        "id": "356",
+        "name_en": "8.1 Metals",
+        "name_ur": "8.1 میٹلز"
+      },
+      {
+        "id": "359",
+        "name_en": "8.2 Non-Metals",
+        "name_ur": "8.2 نان میٹلز"
+      },
+      {
+        "id": "531",
+        "name_en": "Exercise Questions.",
+        "name_ur": "مشقی سوالات"
+      },
+      {
+        "id": "1839",
+        "name_en": "Conceptual Question",
+        "name_ur": "تصوراتی سوالات"
+      }
+    ]
+  }
+]
