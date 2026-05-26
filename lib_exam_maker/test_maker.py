@@ -1,7 +1,7 @@
 import json
 from fastapi import HTTPException, status
 from sqlalchemy.exc import SQLAlchemyError
-from typing import List, Dict, Any, Optional, Set
+from typing import List, Dict, Any, Optional, Set, Tuple
 from lib_exam_maker.models.test_maker import (
     BoardModel,
     ChapterModel,
@@ -9,6 +9,7 @@ from lib_exam_maker.models.test_maker import (
     ClassModel,
     GenerateQuestionsRequest,
     GenerateQuestionsResponse,
+    PaperConfigFilterRequest,
     QuestionDetail,
     QuestionGroup,
     QuestionOption,
@@ -36,7 +37,7 @@ def get_boards(conn) -> List[BoardModel]:
             """
             SELECT board_id, board_name
             FROM boards_bank
-            ORDER BY board_name
+            ORDER BY board_id asc
             """
         ).dicts()
         
@@ -303,142 +304,133 @@ def get_chapters_against_subject(conn, subject_id: int) -> ChaptersResponse:
     
     except HTTPException:
         raise
-# ========================
-# CORE FUNCTION
-# ========================
 
+# ============================================================
+# 1. SHARED FILTER BUILDER (DRY)
+# ============================================================
+def _build_question_filters(
+    chapter_ids: Optional[str],
+    topics: Optional[str],
+    exercise_question: Optional[str],
+    type_id: Optional[int],
+) -> Tuple[str, Dict[str, Any]]:
+    """
+    Builds the WHERE clause and params for questions_bank queries.
+    Mirrors the EXACT logic of the original get_questions() so counts
+    and fetches always agree.
+
+    Returns: (where_clause, query_params)
+    Raises:  HTTPException(400) if no filters are provided.
+    """
+    where_conditions: List[str] = []
+    query_params: Dict[str, Any] = {}
+
+    # Normalize chapter list (drop 'none' / empties)
+    chapter_list = (
+        [
+            c.strip()
+            for c in chapter_ids.split(',')
+            if c.strip() and c.strip().lower() != 'none'
+        ]
+        if chapter_ids else []
+    )
+
+    # Normalize topic list (drop 'none')
+    topic_list = (
+        [c.strip() for c in topics.split(',') if c.strip().lower() != 'none']
+        if topics else []
+    )
+
+    # Math subjects pass topic *names* (non-digit); others pass topic IDs
+    isMath = True if topic_list and not topic_list[0].isdigit() else False
+
+    # ---------- Case A: topics + chapters, NON-math → filter by topic_id ----------
+    if topics and chapter_list and not isMath:
+        tl = [t.strip() for t in topics.split(',')]
+        placeholders = ','.join([f':topic_{i}' for i in range(len(tl))])
+        where_conditions.append(f"q.topic_id IN ({placeholders})")
+        for i, tid in enumerate(tl):
+            query_params[f'topic_{i}'] = tid
+
+    # ---------- Case B: topics + chapters, MATH → filter by chapter_id AND topic_id ----------
+    elif topics and chapter_ids and isMath:
+        cl = [ch.strip() for ch in chapter_ids.split(',')]
+        tl = [ex.strip() for ex in topics.split(',')]
+
+        ch_ph = ','.join([f':ch_{i}' for i in range(len(cl))])
+        where_conditions.append(f"q.chapter_id IN ({ch_ph})")
+        for i, ch in enumerate(cl):
+            query_params[f'ch_{i}'] = ch
+
+        tp_ph = ','.join([f':ex_name_{i}' for i in range(len(tl))])
+        where_conditions.append(f"q.topic_id IN ({tp_ph})")
+        for i, ex in enumerate(tl):
+            query_params[f'ex_name_{i}'] = ex
+
+    # ---------- Case C: fallback → treat topics arg as chapter_ids ----------
+    else:
+        tl = [t.strip() for t in topics.split(',')] if topics else []
+        if tl:
+            placeholders = ','.join([f':topic_{i}' for i in range(len(tl))])
+            where_conditions.append(f"q.chapter_id IN ({placeholders})")
+            for i, tid in enumerate(tl):
+                query_params[f'topic_{i}'] = tid
+
+    # ---------- exercise_question filter ----------
+    if exercise_question:
+        exercise_list = [int(ex.strip()) for ex in exercise_question.split(',')]
+        placeholders = ','.join([f':exercise_{i}' for i in range(len(exercise_list))])
+        where_conditions.append(f"q.exercise_question IN ({placeholders})")
+        for i, ev in enumerate(exercise_list):
+            query_params[f'exercise_{i}'] = ev
+
+    # ---------- type_id filter (only used by get_questions, NOT by counts) ----------
+    if type_id:
+        where_conditions.append("q.type_id = :type_id")
+        query_params['type_id'] = type_id
+
+    if not where_conditions:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="At least one filter must be provided",
+        )
+
+    return " AND ".join(where_conditions), query_params
+
+
+# ============================================================
+# 2. REFACTORED get_questions (uses the shared builder)
+# ============================================================
 def get_questions(conn, payload: GetQuestionsRequest) -> List[QuestionModel]:
     try:
-        where_conditions = []
-        query_params = {}
-
-        chapter_list = (
-            [
-                c.strip()
-                for c in payload.chapter_ids.split(',')
-                if c.strip() and c.strip().lower() != 'none'
-            ]
-            if payload.chapter_ids else []
+        where_clause, query_params = _build_question_filters(
+            chapter_ids=payload.chapter_ids,
+            topics=payload.topics,
+            exercise_question=payload.exercise_question,
+            type_id=payload.type_id,
         )
 
-        topic_list = (
-            [c.strip() for c in payload.topics.split(',') if c.strip().lower() != 'none']
-            if payload.topics else []
-        )
-
-        isMath = True if topic_list and not topic_list[0].isdigit() else False
-        # ========================
-        # Case 2: topic_ids provided → search directly by topic_id
-        # ========================
-        if payload.topics and chapter_list and not isMath:
-            topic_list = [topic.strip() for topic in payload.topics.split(',')]
-            placeholders = ','.join([f':topic_{i}' for i in range(len(topic_list))])
-            where_conditions.append(f"q.topic_id IN ({placeholders})")
-            for i, topic_id in enumerate(topic_list):
-                query_params[f'topic_{i}'] = topic_id
-
-        # ========================
-        # Case 1: no topic_ids → search by chapter_ids + exercise_ids (topic_name_en)
-        # ========================
-        elif payload.topics and payload.chapter_ids and isMath:
-            chapter_list = [ch.strip() for ch in payload.chapter_ids.split(',')]
-            topic_list = [ex.strip() for ex in payload.topics.split(',')]
-
-            # Filter by chapter_id
-            chapter_placeholders = ','.join([f':ch_{i}' for i in range(len(chapter_list))])
-            where_conditions.append(f"q.chapter_id IN ({chapter_placeholders})")
-            for i, ch in enumerate(chapter_list):
-                query_params[f'ch_{i}'] = ch
-
-            # Filter directly by q.exercise column (topic_id is NULL in this case)
-            topic_placeholders = ','.join([f':ex_name_{i}' for i in range(len(topic_list))])
-            where_conditions.append(f"q.topic_id IN ({topic_placeholders})")
-            for i, ex in enumerate(topic_list):
-                query_params[f'ex_name_{i}'] = ex
-
-        else:
-            topic_list = [topic.strip() for topic in payload.topics.split(',')]
-            placeholders = ','.join([f':topic_{i}' for i in range(len(topic_list))])
-            where_conditions.append(f"q.chapter_id IN ({placeholders})")
-            for i, topic_id in enumerate(topic_list):
-                query_params[f'topic_{i}'] = topic_id
-
-        # ========================
-        # Filter by exercise_question
-        # ========================
-        if payload.exercise_question:
-            exercise_list = [int(ex.strip()) for ex in payload.exercise_question.split(',')]
-            placeholders = ','.join([f':exercise_{i}' for i in range(len(exercise_list))])
-            where_conditions.append(f"q.exercise_question IN ({placeholders})")
-            for i, exercise_val in enumerate(exercise_list):
-                query_params[f'exercise_{i}'] = exercise_val
-
-        # ========================
-        # Filter by type_id
-        # ========================
-        if payload.type_id:
-            where_conditions.append("q.type_id = :type_id")
-            query_params['type_id'] = payload.type_id
-
-        # ========================
-        # Build WHERE clause
-        # ========================
-        if not where_conditions:
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST,
-                detail="At least one filter must be provided"
-            )
-
-        where_clause = " AND ".join(where_conditions)
-
-        # ========================
-        # Main query
-        # ========================
         questions_query = f"""
             SELECT 
-                q.id,
-                q.chapter_id,
-                q.medium,
-                q.topic_id,
-                q.type_id,
-                q.statement_en,
-                q.statement_ur,
-                q.answer_en,
-                q.answer_ur,
-                q.description_en,
-                q.description_ur,
-                q.exercise,
-                q.exercise_question,
-                q.past_paper_questions,
-                q.paragraph_questions,
-                q.afaq,
-                q.status,
-                q.status_pef,
-                q.is_table,
-                q.is_creative,
-                q.created_at
+                q.id, q.chapter_id, q.medium, q.topic_id, q.type_id,
+                q.statement_en, q.statement_ur, q.answer_en, q.answer_ur,
+                q.description_en, q.description_ur, q.exercise, q.exercise_question,
+                q.past_paper_questions, q.paragraph_questions, q.afaq,
+                q.status, q.status_pef, q.is_table, q.is_creative, q.created_at
             FROM questions_bank q
             WHERE {where_clause}
             ORDER BY q.id
         """
 
         questions_data = sql(conn, questions_query, query_params).dicts()
-
         if not questions_data:
             return []
 
-        # ========================
-        # Fetch options in one query
-        # ========================
+        # Fetch options in a single query
         question_ids = [q['id'] for q in questions_data]
         placeholders = ','.join([f':qid_{i}' for i in range(len(question_ids))])
         options_query = f"""
-            SELECT 
-                option_id,
-                question_id,
-                option_en,
-                option_ur,
-                is_correct
+            SELECT option_id, question_id, option_en, option_ur, is_correct
             FROM question_options_bank
             WHERE question_id IN ({placeholders})
             ORDER BY question_id, option_id
@@ -446,24 +438,16 @@ def get_questions(conn, payload: GetQuestionsRequest) -> List[QuestionModel]:
         options_params = {f'qid_{i}': qid for i, qid in enumerate(question_ids)}
         options_data = sql(conn, options_query, options_params).dicts()
 
-        # ========================
-        # Group options by question_id
-        # ========================
-        options_by_question = {}
+        options_by_question: Dict[Any, List[QuestionOptionModel]] = {}
         for option in options_data:
-            q_id = option['question_id']
-            if q_id not in options_by_question:
-                options_by_question[q_id] = []
-            options_by_question[q_id].append(QuestionOptionModel(**option))
+            options_by_question.setdefault(option['question_id'], []).append(
+                QuestionOptionModel(**option)
+            )
 
-        # ========================
-        # Build final question models
-        # ========================
-        questions = []
+        questions: List[QuestionModel] = []
         for q_data in questions_data:
-            q_id = q_data['id']
             q_dict = dict(q_data)
-            q_dict['options'] = options_by_question.get(q_id, [])
+            q_dict['options'] = options_by_question.get(q_data['id'], [])
             questions.append(QuestionModel(**q_dict))
 
         return questions
@@ -473,20 +457,70 @@ def get_questions(conn, payload: GetQuestionsRequest) -> List[QuestionModel]:
     except ValueError as exc:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail=f"Invalid parameter format: {str(exc)}"
+            detail=f"Invalid parameter format: {str(exc)}",
         )
-    except SQLAlchemyError as exc:
+    except SQLAlchemyError:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail="Database error occurred while fetching questions"
+            detail="Database error occurred while fetching questions",
         )
 
-def get_paper_config(conn, subject_id: int) -> PaperConfigResponse:
+
+# ============================================================
+# 3. DYNAMIC COUNT FUNCTION — single GROUP BY query
+# ============================================================
+def get_dynamic_question_counts(
+    conn,
+    chapter_ids: Optional[str],
+    topics: Optional[str],
+    exercise_question: Optional[str],
+) -> Dict[int, int]:
+    """
+    Returns {type_id: count} for all question types matching the filters.
+    ONE database round-trip regardless of how many question types exist.
+    NOTE: type_id is intentionally NOT passed in — we want counts per type.
+    """
+    try:
+        where_clause, query_params = _build_question_filters(
+            chapter_ids=chapter_ids,
+            topics=topics,
+            exercise_question=exercise_question,
+            type_id=None,   # critical: don't filter by type, group by it
+        )
+
+        count_query = f"""
+            SELECT q.type_id, COUNT(*) AS total_available
+            FROM questions_bank q
+            WHERE {where_clause}
+            GROUP BY q.type_id
+        """
+
+        rows = sql(conn, count_query, query_params).dicts()
+        return {row['type_id']: row['total_available'] for row in rows}
+
+    except HTTPException:
+        raise
+    except SQLAlchemyError:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Database error occurred while counting questions",
+        )
+
+
+# ============================================================
+# 5. CORE LOGIC: load config + inject dynamic counts
+# ============================================================
+def get_paper_config_with_dynamic_counts(
+    conn,
+    subject_id: int,
+    payload: PaperConfigFilterRequest,
+) -> PaperConfigResponse:
+    # --- 1. Load paper config ---
     try:
         config = sql(
             conn,
             """
-            SELECT subject_id, sections, total_dataset_questions
+            SELECT subject_id, sections
             FROM paper_configs_bank
             WHERE subject_id = :subject_id
             LIMIT 1
@@ -514,10 +548,63 @@ def get_paper_config(conn, subject_id: int) -> PaperConfigResponse:
     elif sections is None:
         sections = []
 
+    # --- 2. If no filters provided, return config untouched (keep stored counts) ---
+    has_filters = any([payload.chapter_ids, payload.topics, payload.exercise_question])
+    if not has_filters:
+        return PaperConfigResponse(
+            subject_id=config["subject_id"],
+            sections=sections,
+            total_dataset_questions=None,
+        )
+
+    # --- 3. ONE query to get counts for ALL question types ---
+    counts_by_type_id = get_dynamic_question_counts(
+        conn=conn,
+        chapter_ids=payload.chapter_ids,
+        topics=payload.topics,
+        exercise_question=payload.exercise_question,
+    )
+
+    # --- 4. Walk the sections JSON and overwrite total_available / total_dataset_questions ---
+    grand_total = 0
+    updated_sections: list[dict[str, Any]] = []
+
+    for section in sections:
+        section_copy = dict(section)
+        # sections is a list of dicts; each section may contain 'question_types' list
+        # OR be structured as {"objective": {...}} — handle both shapes safely.
+        for key, value in section_copy.items():
+            if isinstance(value, dict) and "question_types" in value:
+                new_types = []
+                for qt in value["question_types"]:
+                    qt_copy = dict(qt)
+                    tid = qt_copy.get("type_id")
+                    actual = counts_by_type_id.get(tid, 0)
+                    # support both keys for backward compat
+                    qt_copy["total_available"] = actual
+                    qt_copy["total_dataset_questions"] = actual
+                    grand_total += actual
+                    new_types.append(qt_copy)
+                section_copy[key] = {**value, "question_types": new_types}
+
+            elif key == "question_types" and isinstance(value, list):
+                new_types = []
+                for qt in value:
+                    qt_copy = dict(qt)
+                    tid = qt_copy.get("type_id")
+                    actual = counts_by_type_id.get(tid, 0)
+                    qt_copy["total_available"] = actual
+                    qt_copy["total_dataset_questions"] = actual
+                    grand_total += actual
+                    new_types.append(qt_copy)
+                section_copy[key] = new_types
+
+        updated_sections.append(section_copy)
+
     return PaperConfigResponse(
         subject_id=config["subject_id"],
-        sections=sections,
-        total_dataset_questions=config.get("total_dataset_questions"),
+        sections=updated_sections,
+        total_dataset_questions=grand_total,
     )
 
 
@@ -656,7 +743,8 @@ def _get_selected_questions(
                 answer_en,
                 answer_ur,
                 description_en,
-                description_ur
+                description_ur,
+                paragraph_questions
             FROM questions_bank
             WHERE id IN :question_ids
                 AND status = 1
@@ -714,6 +802,7 @@ def _get_selected_questions(
                     answer_ur=q['answer_ur'],
                     description_en=q['description_en'],
                     description_ur=q['description_ur'],
+                    paragraph_questions=q['paragraph_questions'],
                     marks=marks,
                     options=options_by_question.get(qid, [])
                 )
@@ -788,7 +877,7 @@ def _get_random_questions(
             conn,
             f"""
             SELECT id as question_id, statement_en, statement_ur,
-                   answer_en, answer_ur, description_en, description_ur
+                   answer_en, answer_ur, description_en, description_ur, paragraph_questions
             FROM questions_bank
             WHERE type_id = :type_id AND status = 1
                 {where_extra}
@@ -846,6 +935,7 @@ def _get_random_questions(
                     answer_ur=q['answer_ur'],
                     description_en=q['description_en'],
                     description_ur=q['description_ur'],
+                    paragraph_questions=q['paragraph_questions'],
                     marks=marks,
                     options=options_by_question.get(qid, [])
                 )

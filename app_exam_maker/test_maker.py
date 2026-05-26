@@ -6,6 +6,7 @@ from lib_exam_maker.models.test_maker import (
     ClassesResponse,
     GenerateQuestionsRequest,
     GenerateQuestionsResponse,
+    PaperConfigFilterRequest,
     SubjectsResponse,
     TopicsResponse,
     QuestionsResponse,
@@ -17,10 +18,10 @@ from lib_exam_maker.test_maker import (
     get_boards,
     get_chapters_against_subject,
     get_classes_against_board,
+    get_paper_config_with_dynamic_counts,
     get_subjects_against_class_board,
     get_topics_against_subject,
-    get_questions,
-    get_paper_config
+    get_questions
 )
 from lib_identity.identity import require_auth
 from web import get_context_with_user_info
@@ -114,15 +115,36 @@ def fetch_questions(payload: GetQuestionsRequest, request: Request) -> Questions
     )
 
 
-@router.get(
+@router.post(
     "/paper-config/{subject_id}",
     dependencies=[Depends(bearer_scheme)],
     tags=["Test Maker"],
 )
 @require_auth
-def get(subject_id: int, request: Request) -> PaperConfigResponse:
+def get_paper_config_dynamic(
+    subject_id: int,
+    payload: PaperConfigFilterRequest,
+    request: Request,
+) -> PaperConfigResponse:
+    """
+    POST /paper-config/{subject_id}
+
+    Body (all optional — omit all to get the config without dynamic recount):
+    {
+      "chapter_ids": "1,2,3",
+      "topics": "10,11,12",
+      "exercise_question": "1,2"
+    }
+
+    Returns the paper config with `total_available` / `total_dataset_questions`
+    recalculated in real-time against the same filters used by /get_questions.
+    """
     context, user_code, user_type = get_context_with_user_info(request)
-    return get_paper_config(conn=context.conn, subject_id=subject_id)
+    return get_paper_config_with_dynamic_counts(
+        conn=context.conn,
+        subject_id=subject_id,
+        payload=payload,
+    )
 
 
 @router.post("/generate-questions", dependencies=[Depends(bearer_scheme)], tags=["Questions"])

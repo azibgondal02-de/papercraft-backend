@@ -1,6 +1,7 @@
 from datetime import datetime
-from typing import List, Optional, Any
-from pydantic import BaseModel, constr, Field
+from typing import List, Optional, Any, Dict
+from pydantic import BaseModel, constr, Field, field_validator
+import json
 
 # ============= Board Models =============
 
@@ -140,6 +141,12 @@ class QuestionsResponse(BaseModel):
     questions: List[QuestionModel]
     
 
+class PaperConfigFilterRequest(BaseModel):
+    chapter_ids: Optional[str] = None
+    topics: Optional[str] = None
+    exercise_question: Optional[str] = None
+
+
 class PaperConfigResponse(BaseModel):
     subject_id: int
     sections: list[dict[str, Any]] = Field(default_factory=list)
@@ -202,8 +209,32 @@ class QuestionDetail(BaseModel):
     answer_ur: Optional[str] = None
     description_en: Optional[str] = None
     description_ur: Optional[str] = None
+    paragraph_questions: Optional[List[Dict[str, Any]]] = None
     marks: float
     options: List[QuestionOption] = Field(default_factory=list)
+
+    @field_validator("paragraph_questions", mode="before")
+    @classmethod
+    def parse_paragraph_questions(cls, v):
+
+        if v is None:
+            return None
+
+        if isinstance(v, str):
+
+            # clean spaces/newlines
+            cleaned = v.strip().replace("\n", "").replace("\r", "")
+
+            # treat empty array as null
+            if cleaned == "[]":
+                return None
+
+            v = json.loads(cleaned)
+
+        if v == []:
+            return None
+
+        return v
 
 
 class QuestionGroup(BaseModel):

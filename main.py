@@ -37,8 +37,7 @@ LOCAL_ORIGIN_REGEX = (
 allow_all = os.getenv("EDUCARE_ALLOW_ALL_ORIGINS", "false").lower() in {
     "1",
     "true",
-    "yes",
-    "1"
+    "yes"
 }
 
 app.add_middleware(
