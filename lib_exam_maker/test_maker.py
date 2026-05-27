@@ -655,6 +655,12 @@ def generate_questions(
                     section_total_marks += len(questions) * question_sel.marks_per_question
                 total_questions += len(questions)
             
+            if section.section_key == "long_question_according_to_board_pattern":
+                pair_marks = section.questions[0].marks_per_question + section.questions[1].marks_per_question
+                if section.questions[0].has_choice:
+                    section_total_marks = pair_marks * section.questions[0].choice_count
+                else:
+                    section_total_marks = pair_marks * len(section.questions)
             sections_response.append(
                 SectionResponse(
                     section_key=section.section_key,
