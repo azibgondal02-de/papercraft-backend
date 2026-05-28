@@ -141,85 +141,84 @@ def get_subjects_against_class_board(conn, class_id: int) -> List[SubjectModel]:
 
 def get_topics_against_subject(conn, subject_id: int) -> List[ChapterWithTopicsModel]:
     """
-    Fetch all chapters and their topics for a specific subject
-    Returns a structured response with chapters and nested topics
+    Fetch all chapters and their topics for a specific subject.
+    Single JOIN query instead of 2 separate queries.
+    Response shape is identical to the original.
     """
     try:
-        # First verify subject exists
+        # Verify subject exists
         subject = sql(
             conn,
             "SELECT subject_id FROM subjects_bank WHERE subject_id = :subject_id",
             {"subject_id": subject_id}
         ).dict()
-        
+
         if not subject:
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
                 detail="Subject not found"
             )
-        
-        # Fetch chapters for the subject
-        chapters_data = sql(
+
+        # ── Single JOIN query replacing the original 2 queries ──────────────────
+        # Original did:
+        #   Query 1: SELECT chapters WHERE subject_id = x
+        #   Query 2: SELECT topics WHERE chapter_code IN (...)
+        # Now done in one round-trip via LEFT JOIN
+        rows = sql(
             conn,
             """
-            SELECT chapter_code, chapter_id, subject_id, chapter_name_en, chapter_name_urdu
-            FROM chapters_bank
-            WHERE subject_id = :subject_id
-            ORDER BY CAST(REGEXP_SUBSTR(chapter_name_en, '[0-9]+') AS UNSIGNED) ASC,
-            CAST(REGEXP_SUBSTR(chapter_name_urdu, '[0-9]+') AS UNSIGNED) ASC
+            SELECT
+                c.chapter_code,
+                c.chapter_id,
+                c.chapter_name_en,
+                c.chapter_name_urdu AS chapter_name_ur,
+                t.topic_id,
+                t.topic_name_en,
+                t.topic_name_urdu
+            FROM chapters_bank c
+            LEFT JOIN topics_bank t ON t.chapter_code = c.chapter_code
+            WHERE c.subject_id = :subject_id
+            ORDER BY
+                CAST(REGEXP_SUBSTR(c.chapter_name_en, '[0-9]+') AS UNSIGNED) ASC,
+                CAST(REGEXP_SUBSTR(c.chapter_name_urdu, '[0-9]+') AS UNSIGNED) ASC,
+                t.topic_name_en,
+                t.topic_name_urdu
             """,
             {"subject_id": subject_id}
         ).dicts()
-        
-        if not chapters_data:
+
+        if not rows:
             return []
-        
-        # Fetch all topics for these chapters
-        chapter_codes = [ch['chapter_code'] for ch in chapters_data if ch['chapter_code'] is not None]
 
-        topics_by_chapter = {}
+        # ── Group rows into chapters with nested topics ──────────────────────────
+        # Same structure as original — OrderedDict preserves chapter order
+        chapters_dict: Dict[str, dict] = {}
 
-        if chapter_codes:
-            placeholders = ','.join([f':ch_{i}' for i in range(len(chapter_codes))])
-            topics_data = sql(
-                conn,
-                f"""
-                SELECT t.topic_id, t.chapter_code, t.topic_name_en, t.topic_name_urdu, c.chapter_id
-                FROM topics_bank t
-                JOIN chapters_bank c ON t.chapter_code = c.chapter_code
-                WHERE t.chapter_code IN ({placeholders})
-                ORDER BY topic_name_en, topic_name_urdu
-                """,
-                {f'ch_{i}': code for i, code in enumerate(chapter_codes)}
-            ).dicts()
+        for row in rows:
+            chapter_code = row['chapter_code']
 
-            for topic in topics_data:
-                chapter_code = topic['chapter_code']
-                if chapter_code not in topics_by_chapter:
-                    topics_by_chapter[chapter_code] = []
-                topics_by_chapter[chapter_code].append(TopicModel(**{
-                    'topic_id': str(topic['topic_id']),
-                    'chapter_id': str(topic['chapter_id']),  # from JOIN
-                    'topic_name_en': topic['topic_name_en'],
-                    'topic_name_urdu': topic['topic_name_urdu'],
-                }))
-        
-        # Build the response structure
-        result = []
-        for chapter in chapters_data:
-            chapter_code = chapter['chapter_code']
-            result.append(
-                ChapterWithTopicsModel(
-                    chapter_id=chapter.get('chapter_id', ''),
-                    chapter_code = chapter.get("chapter_code"),
-                    chapter_name_en=chapter['chapter_name_en'],
-                    chapter_name_ur=chapter.get('chapter_name_urdu'),
-                    topics=topics_by_chapter.get(chapter_code, [])
+            if chapter_code not in chapters_dict:
+                chapters_dict[chapter_code] = {
+                    'chapter_code':    chapter_code,
+                    'chapter_id':      row['chapter_id'],
+                    'chapter_name_en': row['chapter_name_en'],
+                    'chapter_name_ur': row['chapter_name_ur'],
+                    'topics':          [],
+                }
+
+            # LEFT JOIN may produce NULL topic rows for chapters with no topics
+            if row['topic_id'] is not None:
+                chapters_dict[chapter_code]['topics'].append(
+                    TopicModel(**{
+                        'topic_id':       str(row['topic_id']),
+                        'chapter_id':     str(row['chapter_id']),
+                        'topic_name_en':  row['topic_name_en'],
+                        'topic_name_urdu': row['topic_name_urdu'],
+                    })
                 )
-            )
-        
-        return result
-    
+
+        return [ChapterWithTopicsModel(**ch) for ch in chapters_dict.values()]
+
     except HTTPException:
         raise
     except SQLAlchemyError as exc:
@@ -823,6 +822,8 @@ def _get_selected_questions(
         )
 
 
+import random
+
 def _get_random_questions(
     conn,
     subject_id: int,
@@ -833,14 +834,11 @@ def _get_random_questions(
     used_question_ids: Set[int],
     chapter_ids: Optional[str] = None
 ) -> List[QuestionDetail]:
-    print(topics)
-    print(chapter_ids)
-    print("*" * 50)
     try:
         where_conditions = []
         query_params = {}
 
-        topic_list = [str(t).strip() for t in (topics or []) if str(t).strip()]
+        topic_list  = [str(t).strip() for t in (topics or []) if str(t).strip()]
         chapter_list = [c.strip() for c in (chapter_ids or '').split(',') if c.strip()]
 
         isMath = bool(topic_list and not topic_list[0].isdigit())
@@ -854,22 +852,24 @@ def _get_random_questions(
 
         elif topic_list and chapter_list and isMath:
             # String exercise names → filter by chapter_id AND topic_id
-            placeholders = ','.join([f':ch_{i}' for i in range(len(chapter_list))])
-            where_conditions.append(f"chapter_id IN ({placeholders})")
+            ch_ph = ','.join([f':ch_{i}' for i in range(len(chapter_list))])
+            where_conditions.append(f"chapter_id IN ({ch_ph})")
             for i, c in enumerate(chapter_list):
                 query_params[f'ch_{i}'] = c
-            placeholders = ','.join([f':topic_{i}' for i in range(len(topic_list))])
-            where_conditions.append(f"topic_id IN ({placeholders})")
+
+            tp_ph = ','.join([f':topic_{i}' for i in range(len(topic_list))])
+            where_conditions.append(f"topic_id IN ({tp_ph})")
             for i, t in enumerate(topic_list):
                 query_params[f'topic_{i}'] = t
 
-        else :
-            # No topics, just chapters
+        else:
+            # No topics — filter by chapter_id using topic_list as chapter ids
             placeholders = ','.join([f':topic_{i}' for i in range(len(topic_list))])
             where_conditions.append(f"chapter_id IN ({placeholders})")
             for i, topic_id in enumerate(topic_list):
                 query_params[f'topic_{i}'] = topic_id
 
+        # Exclude already-used questions
         if used_question_ids:
             placeholders = ','.join([f':used_{i}' for i in range(len(used_question_ids))])
             where_conditions.append(f"id NOT IN ({placeholders})")
@@ -878,48 +878,68 @@ def _get_random_questions(
 
         where_extra = ("AND " + " AND ".join(where_conditions)) if where_conditions else ""
 
+        # ── STEP 1: Fetch only IDs — fast, covered by index, no TEXT columns ──────
+        # Previously this was ORDER BY RAND() LIMIT N which sorted the entire
+        # matching result set. Now we fetch all candidate IDs and shuffle in Python.
+        id_rows = sql(
+            conn,
+            f"""
+            SELECT id
+            FROM questions_bank
+            WHERE type_id = :type_id
+              AND status = 1
+              {where_extra}
+            """,
+            {"type_id": type_id, **query_params}
+        ).dicts()
 
+        if not id_rows:
+            return []
+
+        all_ids = [row['id'] for row in id_rows]
+
+        # ── STEP 2: Random sample in Python — O(n) vs MySQL's O(n log n) sort ────
+        sampled_ids = random.sample(all_ids, min(count, len(all_ids)))
+
+        if not sampled_ids:
+            return []
+
+        # ── STEP 3: Fetch full rows only for the sampled IDs — tiny PK lookup ────
+        placeholders = ','.join([f':sid_{i}' for i in range(len(sampled_ids))])
         questions = sql(
             conn,
             f"""
             SELECT id as question_id, statement_en, statement_ur,
-                   answer_en, answer_ur, description_en, description_ur, paragraph_questions
+                   answer_en, answer_ur, description_en, description_ur,
+                   paragraph_questions
             FROM questions_bank
-            WHERE type_id = :type_id AND status = 1
-                {where_extra}
-            ORDER BY RAND()
-            LIMIT :count
+            WHERE id IN ({placeholders})
             """,
-            {"type_id": type_id, "count": count, **query_params}
+            {f'sid_{i}': sid for i, sid in enumerate(sampled_ids)}
         ).dicts()
 
         if not questions:
             return []
 
-        questions = questions[:min(count, len(questions))]
         question_ids = [q['question_id'] for q in questions]
 
-        if not question_ids:
-            return []
-
-        placeholders = ','.join([f':qid_{i}' for i in range(len(question_ids))])
+        # ── STEP 4: Fetch options for sampled questions only ──────────────────────
+        opt_placeholders = ','.join([f':qid_{i}' for i in range(len(question_ids))])
         options_data = sql(
             conn,
             f"""
             SELECT option_id, question_id, option_en, option_ur, is_correct
             FROM question_options_bank
-            WHERE question_id IN ({placeholders})
+            WHERE question_id IN ({opt_placeholders})
             ORDER BY option_id
             """,
             {f'qid_{i}': qid for i, qid in enumerate(question_ids)}
         ).dicts()
 
-        options_by_question = {}
+        options_by_question: Dict[int, List[QuestionOption]] = {}
         for opt in options_data:
             qid = opt['question_id']
-            if qid not in options_by_question:
-                options_by_question[qid] = []
-            options_by_question[qid].append(
+            options_by_question.setdefault(qid, []).append(
                 QuestionOption(
                     option_id=opt['option_id'],
                     option_en=opt['option_en'],
@@ -950,8 +970,7 @@ def _get_random_questions(
         return result
 
     except SQLAlchemyError as exc:
-        # print(exc)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Database error while fetching random questions"
-        )
+        )        
