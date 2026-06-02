@@ -1,0 +1,2 @@
+ALTER TABLE classes_bank
+    MODIFY COLUMN class_id INT NOT NULL AUTO_INCREMENT;

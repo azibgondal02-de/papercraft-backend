@@ -23,6 +23,7 @@ def _db_url(migrate: bool = False) -> str:
     else:
         host = os.getenv("EDUCARE_DB_HOST", "localhost")
     name = os.getenv("EDUCARE_DB_NAME")
+    print(name) 
     if user and password and name:
         return f"mysql+pymysql://{user}:{password}@{host}/{name}?charset=utf8mb4"
 
