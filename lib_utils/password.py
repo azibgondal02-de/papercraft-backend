@@ -16,8 +16,6 @@ def hash_password(plain_password: str) -> str:
     """
     return ph.hash(plain_password)
 
-print(hash_password("1234"))
-
 def verify_password(stored_hash: str, candidate_password: str) -> bool:
     """
     Returns True if candidate_password matches stored_hash, False otherwise.
