@@ -27,93 +27,146 @@ from lib_exam_maker.models.test_maker import (
 from lib_utils.sql import sql
 
 
-def get_boards(conn) -> List[BoardModel]:
+
+def get_user_permitted_class_ids(conn, user_code: str, user_type: str) -> Optional[List[int]]:
     """
-    Fetch all boards from the boards_bank table
+    Returns list of permitted class_ids for a user.
+    Returns None if user is admin (meaning no restriction).
+    Returns empty list if user has no permissions.
     """
+    if user_type == "admin":
+        return None  # No restriction
+
+    perms = sql(
+        conn,
+        "SELECT class_id FROM user_board_permissions WHERE user_code = :user_code",
+        {"user_code": user_code},
+    ).dicts()
+
+    return [p["class_id"] for p in perms]
+
+
+def _check_subject_permission(conn, subject_id: int, user_code: str, user_type: str):
+    """Check if user has permission to access a subject's class"""
+    permitted_class_ids = get_user_permitted_class_ids(conn, user_code, user_type)
+    if permitted_class_ids is None:
+        return  # Admin, no restriction
+
+    subject = sql(
+        conn,
+        "SELECT class_id FROM subjects_bank WHERE subject_id = :subject_id",
+        {"subject_id": subject_id}
+    ).dict()
+
+    if not subject:
+        raise HTTPException(status_code=404, detail="Subject not found")
+
+    if subject["class_id"] not in permitted_class_ids:
+        raise HTTPException(status_code=403, detail="You don't have permission to access this subject")
+
+
+def get_boards(conn, user_code: str, user_type: str) -> List[BoardModel]:
     try:
-        boards_data = sql(
-            conn,
-            """
-            SELECT board_id, board_name
-            FROM boards_bank
-            ORDER BY board_id asc
-            """
-        ).dicts()
-        
-        if not boards_data:
+        permitted_class_ids = get_user_permitted_class_ids(conn, user_code, user_type)
+
+        if permitted_class_ids is None:
+            # Admin - show all boards
+            boards_data = sql(
+                conn,
+                "SELECT board_id, board_name FROM boards_bank ORDER BY board_id asc"
+            ).dicts()
+        elif len(permitted_class_ids) == 0:
             return []
-        
-        return [BoardModel(**board) for board in boards_data]
-    
-    except SQLAlchemyError as exc:
+        else:
+            placeholders = ','.join([f':cid_{i}' for i in range(len(permitted_class_ids))])
+            boards_data = sql(
+                conn,
+                f"""
+                SELECT DISTINCT b.board_id, b.board_name
+                FROM boards_bank b
+                JOIN classes_bank c ON c.board_id = b.board_id
+                WHERE c.class_id IN ({placeholders})
+                ORDER BY b.board_id asc
+                """,
+                {f'cid_{i}': cid for i, cid in enumerate(permitted_class_ids)}
+            ).dicts()
+
+        return [BoardModel(**board) for board in boards_data] if boards_data else []
+
+    except SQLAlchemyError:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Database error occurred while fetching boards"
         )
 
 
-def get_classes_against_board(conn, board_id: int) -> List[ClassModel]:
-    """
-    Fetch all classes for a specific board
-    """
+def get_classes_against_board(conn, board_id: int, user_code: str, user_type: str) -> List[ClassModel]:
     try:
-        # First verify board exists
         board = sql(
             conn,
             "SELECT board_id FROM boards_bank WHERE board_id = :board_id",
             {"board_id": board_id}
         ).dict()
-        
+
         if not board:
-            raise HTTPException(
-                status_code=status.HTTP_404_NOT_FOUND,
-                detail="Board not found"
-            )
-        
-        classes_data = sql(
-            conn,
-            """
-            SELECT class_id, board_id, class_name
-            FROM classes_bank
-            WHERE board_id = :board_id
-            ORDER BY class_id
-            """,
-            {"board_id": board_id}
-        ).dicts()
-        
-        if not classes_data:
+            raise HTTPException(status_code=404, detail="Board not found")
+
+        permitted_class_ids = get_user_permitted_class_ids(conn, user_code, user_type)
+
+        if permitted_class_ids is None:
+            # Admin - show all classes
+            classes_data = sql(
+                conn,
+                """
+                SELECT class_id, board_id, class_name
+                FROM classes_bank
+                WHERE board_id = :board_id
+                ORDER BY class_id
+                """,
+                {"board_id": board_id}
+            ).dicts()
+        elif len(permitted_class_ids) == 0:
             return []
-        
-        return [ClassModel(**cls) for cls in classes_data]
-    
+        else:
+            placeholders = ','.join([f':cid_{i}' for i in range(len(permitted_class_ids))])
+            classes_data = sql(
+                conn,
+                f"""
+                SELECT class_id, board_id, class_name
+                FROM classes_bank
+                WHERE board_id = :board_id
+                AND class_id IN ({placeholders})
+                ORDER BY class_id
+                """,
+                {"board_id": board_id, **{f'cid_{i}': cid for i, cid in enumerate(permitted_class_ids)}}
+            ).dicts()
+
+        return [ClassModel(**cls) for cls in classes_data] if classes_data else []
+
     except HTTPException:
         raise
-    except SQLAlchemyError as exc:
+    except SQLAlchemyError:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Database error occurred while fetching classes"
         )
 
-
-def get_subjects_against_class_board(conn, class_id: int) -> List[SubjectModel]:
-    """
-    Fetch all subjects for a specific class
-    """
+def get_subjects_against_class_board(conn, class_id: int, user_code: str, user_type: str) -> List[SubjectModel]:
     try:
-        # First verify class exists
         cls = sql(
             conn,
             "SELECT class_id FROM classes_bank WHERE class_id = :class_id",
             {"class_id": class_id}
         ).dict()
-        
+
         if not cls:
-            raise HTTPException(
-                status_code=status.HTTP_404_NOT_FOUND,
-                detail="Class not found"
-            )
-        
+            raise HTTPException(status_code=404, detail="Class not found")
+
+        # Check permission
+        permitted_class_ids = get_user_permitted_class_ids(conn, user_code, user_type)
+        if permitted_class_ids is not None and class_id not in permitted_class_ids:
+            raise HTTPException(status_code=403, detail="You don't have permission to access this class")
+
         subjects_data = sql(
             conn,
             """
@@ -124,28 +177,24 @@ def get_subjects_against_class_board(conn, class_id: int) -> List[SubjectModel]:
             """,
             {"class_id": class_id}
         ).dicts()
-        
-        if not subjects_data:
-            return []
-        
-        return [SubjectModel(**subject) for subject in subjects_data]
-    
+
+        return [SubjectModel(**subject) for subject in subjects_data] if subjects_data else []
+
     except HTTPException:
         raise
-    except SQLAlchemyError as exc:
+    except SQLAlchemyError:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Database error occurred while fetching subjects"
         )
-
-
-def get_topics_against_subject(conn, subject_id: int) -> List[ChapterWithTopicsModel]:
+def get_topics_against_subject(conn, subject_id: int, user_code: str, user_type: str) -> List[ChapterWithTopicsModel]:
     """
     Fetch all chapters and their topics for a specific subject.
     Single JOIN query instead of 2 separate queries.
     Response shape is identical to the original.
     """
     try:
+        _check_subject_permission(conn, subject_id, user_code, user_type)
         # Verify subject exists
         subject = sql(
             conn,
@@ -228,11 +277,12 @@ def get_topics_against_subject(conn, subject_id: int) -> List[ChapterWithTopicsM
             detail="Database error occurred while fetching topics"
         )
 
-def get_chapters_against_subject(conn, subject_id: int) -> ChaptersResponse:
+def get_chapters_against_subject(conn, subject_id: int, user_code: str, user_type: str) -> ChaptersResponse:
     """
     Fetch all chapters for a specific subject with their associated topics (optimized)
     """
     try:
+        _check_subject_permission(conn, subject_id, user_code, user_type)
         # First verify subject exists
         subject = sql(
             conn,

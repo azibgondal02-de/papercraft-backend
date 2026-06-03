@@ -329,9 +329,13 @@ def require_auth(func: F) -> F:
             "/get_questions": ["admin", "school_admin"],
             "/paper-config/{subject_id}": ["admin", "school_admin"],
             "/generate-questions": ["admin", "school_admin"],
-            "/reset-password": ["admin", "school_admin", "teacher"],
+            "/reset-password": ["admin", "school_admin"],
             "/username-exists/{username}": ["admin"],
-            "/profile": ["admin", "school_admin", "teacher"],
+            "/profile": ["admin", "school_admin"],
+            "/admin/users": ["admin"],
+            "/admin/users/{user_code}": ["admin"],
+            "/admin/users/{user_code}/logo": ["admin"],
+            "/admin/users/{user_code}/permissions": ["admin"],
         }
 
     def ensure(request: Request) -> None:

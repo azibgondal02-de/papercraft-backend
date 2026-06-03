@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN school_logo varchar(500) NULL AFTER school_name;
