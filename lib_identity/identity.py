@@ -65,6 +65,22 @@ def login_user(
     expires_at_db = expires_at_utc.replace(tzinfo=None)
     session_token = _generate_token()
 
+
+    # Invalidate all existing sessions for this user
+    sql(
+        conn,
+        """
+        UPDATE sessions 
+        SET is_active = FALSE, expires_at = :now
+        WHERE user_code = :user_code 
+        AND is_active = TRUE
+        """,
+        {
+            "now": datetime.now(timezone.utc).replace(tzinfo=None),
+            "user_code": user["user_code"],
+        },
+    ).run()
+
     try:
         sql(
             conn,
