@@ -55,11 +55,15 @@ def login_user(
         {"identifier": identifier},
     ).dict()
 
-    if not user or not user.get("is_active"):
+    if not user:
         raise InvalidCredentialsError("Invalid credentials")
 
     if not verify_password(user["password_hash"], password):
         raise InvalidCredentialsError("Invalid credentials")
+    
+    if not user.get("is_active"):
+        raise InvalidCredentialsError("Account deactivated")
+
 
     expires_at_utc = datetime.now(timezone.utc) + timedelta(hours=SESSION_DURATION_HOURS)
     expires_at_db = expires_at_utc.replace(tzinfo=None)
@@ -187,7 +191,7 @@ def get_user_profile(conn: Connection, user_code: str) -> UserProfileResponse:
     user = sql(
         conn,
         """
-        SELECT user_code, username, email, user_type,
+        SELECT user_code, username, email, user_type, school_logo,
                school_name, owner_name, phone_number, city, province,
                subscription_plan, subscription_start, subscription_end
         FROM users
@@ -336,6 +340,7 @@ def require_auth(func: F) -> F:
             "/admin/users/{user_code}": ["admin"],
             "/admin/users/{user_code}/logo": ["admin"],
             "/admin/users/{user_code}/permissions": ["admin"],
+            "/identity/upload-logo": ["admin", "school_admin"],
         }
 
     def ensure(request: Request) -> None:

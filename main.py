@@ -11,11 +11,11 @@ from incident_middleware import IncidentRecordMiddleware
 from logger import get_logger
 from web import Context
 
-app = FastAPI(debug=True)
+app = FastAPI(debug=False)
 logger = get_logger(__name__)
 
 ALLOWED_ORIGINS = [
-    # dev if you actually use it:
+    # dev
     "http://localhost:3060",
     "http://127.0.0.1:3060",
     "http://localhost:3061",
@@ -28,6 +28,7 @@ ALLOWED_ORIGINS = [
     "https://papercraft-frontend-six.vercel.app",
     "https://papercraft.pk",
     "https://www.papercraft.pk",
+    "https://api.papercraft.pk",
 ]
 
 # Allow any localhost/lan origin (Expo web / device tunnels) without enumerating every port.

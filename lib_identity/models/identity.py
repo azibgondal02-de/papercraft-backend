@@ -116,6 +116,7 @@ class CreateUserRequest(BaseModel):
     subscription_plan: Optional[str] = None
     subscription_start: Optional[date] = None
     subscription_end: Optional[date] = None
+    amount_paid: Optional[float] = None
     class_ids: list[int] = []
 
 
@@ -137,6 +138,7 @@ class UpdateUserRequest(BaseModel):
     subscription_start: Optional[date] = None
     subscription_end: Optional[date] = None
     is_active: Optional[bool] = None
+    amount_paid: Optional[float] = None
     class_ids: Optional[list[int]] = None
 
 
@@ -157,9 +159,11 @@ class UserListItem(BaseModel):
     user_type: str
     is_active: bool
     subscription_plan: Optional[str] = None
+    subscription_start: Optional[date] = None
     subscription_end: Optional[date] = None
     subscription_status: str
     subscription_days_left: Optional[int] = None
+    amount_paid: Optional[float] = None
     created_at: Optional[datetime] = None
     class_ids: list[int] = []
 

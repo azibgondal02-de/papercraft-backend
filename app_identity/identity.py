@@ -27,11 +27,18 @@ from lib_identity.models.identity import (
     UserProfileResponse,
     UsernameExistsResponse,
 )
+from lib_identity.admin import upload_school_logo
+from lib_identity.models.identity import UploadLogoResponse
+from pydantic import BaseModel
+
+
 from web import get_context, get_context_with_user_info
 
 router = APIRouter(prefix="/identity", tags=["identity"])
 bearer_scheme = HTTPBearer(auto_error=False)
 
+class UploadLogoRequest(BaseModel):
+    image_base64: str
 
 @router.post("/login", response_model=LoginResponse, response_model_exclude_none=True)
 def login(payload: LoginRequest, request: Request) -> LoginResponse:
@@ -49,7 +56,7 @@ def login(payload: LoginRequest, request: Request) -> LoginResponse:
     except InvalidCredentialsError as exc:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Invalid credentials",
+            detail=str(exc),
         ) from exc
     except SessionCreationError as exc:
         raise HTTPException(
@@ -107,3 +114,13 @@ def get_profile(request: Request) -> UserProfileResponse:
 def update_profile(request: Request, payload: UpdateUserProfileRequest) -> UpdateUserProfileResponse:
     context, user_code, user_type = get_context_with_user_info(request)
     return update_user_profile(conn=context.conn, user_code=user_code, payload=payload)
+
+@router.post("/upload-logo", dependencies=[Depends(bearer_scheme)], response_model=UploadLogoResponse)
+@require_auth
+def upload_own_logo(request: Request, payload: UploadLogoRequest) -> UploadLogoResponse:
+    context, user_code, user_type = get_context_with_user_info(request)
+    return upload_school_logo(
+        conn=context.conn,
+        user_code=user_code,
+        image_base64=payload.image_base64,
+    )

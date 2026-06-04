@@ -69,37 +69,38 @@ def create_user(
 
     try:
         sql(
-            conn,
-            """
-            INSERT INTO users (
-                user_code, username, email, school_name, owner_name,
-                phone_number, city, province, user_type, subscription_plan,
-                subscription_start, subscription_end, password_hash,
-                is_active, created_by
-            ) VALUES (
-                :user_code, :username, :email, :school_name, :owner_name,
-                :phone_number, :city, :province, :user_type, :subscription_plan,
-                :subscription_start, :subscription_end, :password_hash,
-                1, :created_by
-            )
-            """,
-            {
-                "user_code": user_code,
-                "username": payload.username,
-                "email": payload.email,
-                "school_name": payload.school_name,
-                "owner_name": payload.owner_name,
-                "phone_number": payload.phone_number,
-                "city": payload.city,
-                "province": payload.province,
-                "user_type": payload.user_type,
-                "subscription_plan": payload.subscription_plan,
-                "subscription_start": payload.subscription_start,
-                "subscription_end": payload.subscription_end,
-                "password_hash": password_hash,
-                "created_by": created_by,
-            },
-        ).run()
+    conn,
+    """
+        INSERT INTO users (
+            user_code, username, email, school_name, owner_name,
+            phone_number, city, province, user_type, subscription_plan,
+            subscription_start, subscription_end, password_hash,
+            is_active, created_by, amount_paid
+        ) VALUES (
+            :user_code, :username, :email, :school_name, :owner_name,
+            :phone_number, :city, :province, :user_type, :subscription_plan,
+            :subscription_start, :subscription_end, :password_hash,
+            1, :created_by, :amount_paid
+        )
+        """,
+        {
+            "user_code": user_code,
+            "username": payload.username,
+            "email": payload.email,
+            "school_name": payload.school_name,
+            "owner_name": payload.owner_name,
+            "phone_number": payload.phone_number,
+            "city": payload.city,
+            "province": payload.province,
+            "user_type": payload.user_type,
+            "subscription_plan": payload.subscription_plan,
+            "subscription_start": payload.subscription_start,
+            "subscription_end": payload.subscription_end,
+            "password_hash": password_hash,
+            "created_by": created_by,
+            "amount_paid": payload.amount_paid or 0.00,
+        },
+    ).run()
 
         # Assign board/class permissions
         if payload.class_ids:
@@ -155,6 +156,22 @@ def update_user(
                 f"UPDATE users SET {set_clause}, updated_at = NOW(), updated_by = :updated_by WHERE user_code = :user_code",
                 updates,
             ).run()
+
+            # If deactivating user, kill all their active sessions
+            if updates.get('is_active') == False:
+                sql(
+                    conn,
+                    """
+                    UPDATE sessions 
+                    SET is_active = FALSE, expires_at = :now
+                    WHERE user_code = :user_code 
+                    AND is_active = TRUE
+                    """,
+                    {
+                        "now": datetime.now(timezone.utc).replace(tzinfo=None),
+                        "user_code": target_user_code,
+                    },
+                ).run()
         except SQLAlchemyError as exc:
             conn.rollback()
             raise HTTPException(
@@ -194,7 +211,7 @@ def get_user_list(conn: Connection) -> UserListResponse:
         """
         SELECT user_code, username, email, school_name, owner_name,
                phone_number, city, province, user_type, is_active,
-               subscription_plan, subscription_end, school_logo, created_at
+               subscription_plan, subscription_start, subscription_end, school_logo, created_at, amount_paid
         FROM users
         WHERE user_type != 'admin'
         ORDER BY created_at DESC
