@@ -7,6 +7,8 @@ from fastapi.responses import RedirectResponse
 from app_identity.identity import router as identity_router
 from app_exam_maker.test_maker import router as testmaker_router
 from app_identity.admin import router as admin_router
+from app_blog.blog import router as blog_router
+from app_blog.sitemap import router as sitemap_router
 from incident_middleware import IncidentRecordMiddleware
 from logger import get_logger
 from web import Context
@@ -57,6 +59,8 @@ app.add_middleware(Context)
 app.include_router(identity_router)
 app.include_router(testmaker_router)
 app.include_router(admin_router)
+app.include_router(blog_router)
+app.include_router(sitemap_router)
 
 @app.middleware("http")
 async def log_unhandled_exceptions(request: Request, call_next):
